@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 441de306b4a2b46ae82f4372d27c7c01, type: 3}
+  m_Name: Night of the Zealot_The Devourer Below
+  m_EditorClassIdentifier: 
+  mainText: The Devourer Below
+  playerCornerDisplay: 0
+  playerCornerSpec: {fileID: 0}
+  setDisplay: 1
+  setSpec: {fileID: 11400000, guid: 949860b35f61948aaabe85bb3a01e155, type: 2}
+  iconDisplay: 1
+  iconDisplayIcon: {fileID: 21300000, guid: 6e468d7f9d08443d69563363c6abf4a8, type: 3}
