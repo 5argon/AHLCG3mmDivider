@@ -890,18 +890,6 @@ MonoBehaviour:
     m_Localized: "R\xFCckkehr zu: Die Zeit zur\xFCckdrehen"
     m_Metadata:
       m_Items: []
-  - m_Id: 1066459455542
-    m_Localized: Alles oder nichts
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455543
-    m_Localized: "B\xF6ses Blut"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455545
-    m_Localized: Lies oder Stirb
-    m_Metadata:
-      m_Items: []
   - m_Id: 1066459455546
     m_Localized: "R\xFCckkehr zu: Der gebrochene Kreis"
     m_Metadata:
@@ -940,6 +928,18 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 62739937484800
     m_Localized: Am Rande der Welt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235484975104
+    m_Localized: Alles oder nichts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306752
+    m_Localized: "B\xF6ses Blut"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306754
+    m_Localized: Lies oder Stirb
     m_Metadata:
       m_Items: []
   references:
