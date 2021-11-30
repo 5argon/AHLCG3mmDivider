@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 441de306b4a2b46ae82f4372d27c7c01, type: 3}
-  m_Name: "Cult of Um\xF4rdhoth (new)"
+  m_Name: "Cult of Umo\u0302rdhoth (new)"
   m_EditorClassIdentifier: 
   mainText:
     m_TableReference:

@@ -1,0 +1,298 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DividerTexts_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 0fe55b6e16baa4337b49d27ef6014293, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8220054642688
+    m_Localized: Agenti di Cthulhu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066451066880
+    m_Localized: Agenti di Hastur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261184
+    m_Localized: Agenti di Shub-Niggurath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261185
+    m_Localized: Agenti di Yog-Sothoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261186
+    m_Localized: Mali Antichi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261187
+    m_Localized: Freddo Raggelante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261188
+    m_Localized: "Culto di Um\xF4rdhoth"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261189
+    m_Localized: Culto Oscuro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261190
+    m_Localized: Ghoul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261191
+    m_Localized: Porte Chiuse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261192
+    m_Localized: Magri Notturni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261193
+    m_Localized: Ratti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261194
+    m_Localized: Paura Incombente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261195
+    m_Localized: Il Divoratore Sotterraneo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261196
+    m_Localized: L'Adunanza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261197
+    m_Localized: Le Maschere di Mezzanotte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261201
+    m_Localized: Ritorno a... Il Divoratore Sotterraneo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261202
+    m_Localized: Ritorno a... L'Adunanza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261203
+    m_Localized: Ritorno a... Le Maschere di Mezzanotte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261204
+    m_Localized: Scatola Base
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261205
+    m_Localized: La Notte della Zelota
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261206
+    m_Localized: Ritorno a... La Notte della Zelota
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261209
+    m_Localized: Debolezza Base
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261211
+    m_Localized: Investigatori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261212
+    m_Localized: Guardiano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261213
+    m_Localized: Multi-Classe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261214
+    m_Localized: Mistico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261215
+    m_Localized: Neutrale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261216
+    m_Localized: Ladro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261217
+    m_Localized: Studioso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261218
+    m_Localized: Sopravvissuto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261219
+    m_Localized: Mazzo 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261220
+    m_Localized: Mazzo 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261221
+    m_Localized: Mazzo 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261222
+    m_Localized: Mazzo 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261198
+    m_Localized: "Culto di Um\xF4rdhoth (nuovo)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261199
+    m_Localized: "Ghoul di Um\xF4rdhoth"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261200
+    m_Localized: Culto del Divoratore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261207
+    m_Localized: Liv. 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261208
+    m_Localized: Liv. 1 ~ 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261210
+    m_Localized: Legato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261264
+    m_Localized: Malasorte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261265
+    m_Localized: Bestie Servitrici
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261266
+    m_Localized: Servitori di Bishop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261267
+    m_Localized: Dunwich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261268
+    m_Localized: Orrendi Abomini
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261269
+    m_Localized: La Banda di Naomi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261270
+    m_Localized: Stregoneria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261271
+    m_Localized: L'Oltre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261272
+    m_Localized: Succiacapre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261273
+    m_Localized: Sangue sull'Altare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261274
+    m_Localized: "Attivit\xE0 Extracurricolare"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261275
+    m_Localized: Oltre il Tempo e lo Spazio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261276
+    m_Localized: L'Espresso di Essex County
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261277
+    m_Localized: Il Banco Vince Sempre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261278
+    m_Localized: Il Museo della Miskatonic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261279
+    m_Localized: Le Dimensioni dell'Invisibile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261280
+    m_Localized: Verso un Destino Oscuro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455550
+    m_Localized: Il Circolo Spezzato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455551
+    m_Localized: I Divoratori di Sogni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455552
+    m_Localized: "L'Eredit\xE0 di Dunwich"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455553
+    m_Localized: L'Era Dimenticata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455554
+    m_Localized: La Cospirazione di Innsmouth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455555
+    m_Localized: La Strada per Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455546
+    m_Localized: Ritorno a Il Circolo Spezzato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455547
+    m_Localized: "Ritorno a L'Eredit\xE0 di Dunwich"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455548
+    m_Localized: Ritorno a L'Era Dimenticata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455549
+    m_Localized: Ritorno a La Strada per Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62739937484800
+    m_Localized: Ai Confini della Terra
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

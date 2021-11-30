@@ -47,12 +47,14 @@ Card graphics was remixed from official FFG print-and-play PDF. I didn't design 
 - Player cards (5 classes, neutral, multi-class, in lv.0 and lv. 1 ~ 5)
 - Core Set (Night of the Zealot + Core Set encounters)
 - Return to the Night of the Zealot
+- The Dunwich Legacy
 - Some extras such as deck dividers, etc.
 
 ### Languages
 
 - English
 - German (Contributed by : [@empty0911](https://boardgamegeek.com/user/empty0911))
+- Italian (Contributed by : [@fabioflx](https://boardgamegeek.com/user/fabioflx))
 
 ### Contributing translations
 

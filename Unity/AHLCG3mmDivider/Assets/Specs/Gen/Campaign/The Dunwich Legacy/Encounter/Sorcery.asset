@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 441de306b4a2b46ae82f4372d27c7c01, type: 3}
-  m_Name: "Cult of Um\xF4rdhoth"
+  m_Name: Sorcery
   m_EditorClassIdentifier: 
   mainText:
     m_TableReference:
       m_TableCollectionName: GUID:0fe55b6e16baa4337b49d27ef6014293
     m_TableEntryReference:
-      m_KeyId: 1066455261188
+      m_KeyId: 1066455261270
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0
@@ -24,8 +24,8 @@ MonoBehaviour:
   playerCornerDisplay: 0
   playerCornerSpec: {fileID: 0}
   setDisplay: 1
-  setSpec: {fileID: 11400000, guid: ebd13acfccbec447aa2297ee8ce6c9dd, type: 2}
+  setSpec: {fileID: 11400000, guid: f08820d8ab03146a4b801682483c09da, type: 2}
   iconDisplay: 1
-  iconDisplayIcon: {fileID: 21300000, guid: bc12caf2bec1242328ec7dea0bed04cb, type: 3}
+  iconDisplayIcon: {fileID: 21300000, guid: 3715b7865eef948d587e1d2afdf04da9, type: 3}
   references:
     version: 1

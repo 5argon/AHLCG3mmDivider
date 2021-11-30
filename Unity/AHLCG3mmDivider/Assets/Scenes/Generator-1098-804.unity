@@ -1067,7 +1067,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0a1bddfb3c484e04ae513b26f25d6827, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  genSpec: {fileID: 11400000, guid: 75797672e638e49f7b14dd95b27b1847, type: 2}
+  genSpec: {fileID: 11400000, guid: d5e1f87a6cb134481a4c222f953c68f6, type: 2}
   playerCornerObject: {fileID: 693287151}
   playerCornerColor: {fileID: 1802498634}
   playerCornerText1: {fileID: 1497651298553748575}
@@ -1121,12 +1121,14 @@ MonoBehaviour:
   locales:
   - {fileID: 11400000, guid: 7888d15b3255d4bf582b540422afa7f3, type: 2}
   - {fileID: 11400000, guid: 17a911294253a4a1bbf1267d526dc0a2, type: 2}
+  - {fileID: 11400000, guid: 5f27e854e04784fd3ae5598d471922f4, type: 2}
   specs:
   - {fileID: 11400000, guid: 31eb64c8b34544819a05b78fb8568d7a, type: 2}
   - {fileID: 11400000, guid: 5e4838cd1121641a5a73a8e6f3183799, type: 2}
   - {fileID: 11400000, guid: e987d9ab0ef6540d19d4240174f7b540, type: 2}
   - {fileID: 11400000, guid: f03bd7a7c1a284d8caec78a9710f7e3d, type: 2}
   - {fileID: 11400000, guid: 1c23b6e945b24453fab02c66aecf3ccf, type: 2}
+  - {fileID: 11400000, guid: ea15d0c50b7014293b53122855a51a05, type: 2}
 --- !u!4 &1713902049
 Transform:
   m_ObjectHideFlags: 0
@@ -1805,15 +1807,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1595244639081512610, guid: 9ea7f0f43e5df4dbba6ca3bd56ce5316, type: 3}
       propertyPath: m_Color.b
-      value: 0.39609292
+      value: 0.7264151
       objectReference: {fileID: 0}
     - target: {fileID: 1595244639081512610, guid: 9ea7f0f43e5df4dbba6ca3bd56ce5316, type: 3}
       propertyPath: m_Color.g
-      value: 0.48104307
+      value: 0.62343764
       objectReference: {fileID: 0}
     - target: {fileID: 1595244639081512610, guid: 9ea7f0f43e5df4dbba6ca3bd56ce5316, type: 3}
       propertyPath: m_Color.r
-      value: 0.6509434
+      value: 0.25013348
       objectReference: {fileID: 0}
     - target: {fileID: 4851230920692282842, guid: 9ea7f0f43e5df4dbba6ca3bd56ce5316, type: 3}
       propertyPath: m_RootOrder
