@@ -150,5 +150,37 @@ MonoBehaviour:
     m_Localized: Deck 4
     m_Metadata:
       m_Items: []
+  - m_Id: 1066455261198
+    m_Localized: "Kult von Um\xF4rdhoth (neu)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261199
+    m_Localized: "Ghule von Um\xF4dhoth"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261200
+    m_Localized: Der Kult des Verschlingers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261201
+    m_Localized: "R\xFCckkehr zu: Der Verschlinger aus der Tiefe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261202
+    m_Localized: "R\xFCckkehr zu: Die Zusammenkunft"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261203
+    m_Localized: "R\xFCckkehr zu: Die Mitternachtsmasken"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261206
+    m_Localized: "R\xFCckkehr zu: Die Nacht des Zeloten"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261210
+    m_Localized: Gebunden
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

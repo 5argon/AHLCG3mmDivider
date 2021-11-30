@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: The Dunwich Legacy
+  m_EditorClassIdentifier: 
+  pdfName: The Dunwich Legacy
+  genSpecs:
+  - {fileID: 11400000, guid: cd5ce1a3d67644048b9e9af38bb0f156, type: 2}
+  - {fileID: 11400000, guid: 0dbdb7c06eb174295a480accf429c3b8, type: 2}
+  - {fileID: 11400000, guid: 8b1900b9a926542348ae95d78f2d6b30, type: 2}
+  - {fileID: 11400000, guid: d5e1f87a6cb134481a4c222f953c68f6, type: 2}
+  - {fileID: 11400000, guid: 7cc73407901f046158451c07247db68d, type: 2}
+  - {fileID: 11400000, guid: 87d65e475ba624dcc81e8fcfc2782da9, type: 2}
+  - {fileID: 11400000, guid: 2f0c5a80539eb48f9bc3ccf1e4411c51, type: 2}
+  - {fileID: 11400000, guid: 26d9004cc53964ba1b333dd8919d6513, type: 2}
+  - {fileID: 11400000, guid: ea4f1eb6218074fa6bef0be32212c968, type: 2}
+  - {fileID: 11400000, guid: f099e6df269ec4fef825df16b038b00a, type: 2}
+  - {fileID: 11400000, guid: bbf8a0b79786744a88e95ddf9a0cb384, type: 2}
+  - {fileID: 11400000, guid: c12a4ebfd69cb4da986d347782daa099, type: 2}
+  - {fileID: 11400000, guid: b3fb9fb7002df4fafa94f9d77b6573b6, type: 2}
+  - {fileID: 11400000, guid: 7ef5caee7708a4f46bea9897a383377f, type: 2}
+  - {fileID: 11400000, guid: 63edbace7dafb4f75bf5d61f2f33a8ce, type: 2}
+  - {fileID: 11400000, guid: 5ea8d2a65a2164d71b216ca32bd69aba, type: 2}
+  - {fileID: 11400000, guid: 4e1b6612a94d244a69cbbc101971db5c, type: 2}
+  - {fileID: 11400000, guid: 40de0217e8e91496fac7c88fa1e01897, type: 2}
+  - {fileID: 11400000, guid: ebc567ad740d244f2908b1b775123295, type: 2}
+  - {fileID: 11400000, guid: 16fdba886e9be47358c7b5aab3ffc906, type: 2}
+  - {fileID: 11400000, guid: 35dfd0719bc7b476890066595fd888f1, type: 2}
+  - {fileID: 11400000, guid: 97a063132872f4c0fa175341841ec950, type: 2}
+  - {fileID: 11400000, guid: 479afe27105d3492893006c36efcf144, type: 2}
+  - {fileID: 11400000, guid: 2cd1d7b1fdec646d6a8872548fe567c6, type: 2}
