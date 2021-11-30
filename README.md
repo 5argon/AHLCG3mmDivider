@@ -44,11 +44,12 @@ Card graphics was remixed from official FFG print-and-play PDF. I didn't design 
 
 ### Sets
 
-- Player cards (5 classes, neutral, multi-class, in lv.0 and lv. 1 ~ 5)
+- Player cards (5 classes, neutral, multi-class, in lv.0 and lv. 1 ~ 5, basic weakness)
 - Core Set (Night of the Zealot + Core Set encounters)
 - Return to the Night of the Zealot
 - The Dunwich Legacy
-- Some extras such as deck dividers, etc.
+- Standalone Scenarios (Except Machinations through Time)
+- Some extras such as deck dividers, bonded, etc.
 
 ### Languages
 
@@ -56,11 +57,17 @@ Card graphics was remixed from official FFG print-and-play PDF. I didn't design 
 - German (Contributed by : [@empty0911](https://boardgamegeek.com/user/empty0911))
 - Italian (Contributed by : [@fabioflx](https://boardgamegeek.com/user/fabioflx))
 
+If translation is missing, file is still rendered but text area will be empty.
+
 ### Contributing translations
 
 This is a spredsheet which Unity can load and generate the dividers : https://docs.google.com/spreadsheets/d/1jA8786alNXLDSA-LVSh4HzJ6gza1JqO1_XyImz7ncaE/edit#gid=0
 
-Other than several left columns and `en`, you can freely edit the rest. You can contribute by filling in the other language if you would like dividers in that language generated. Note that there is no fallback to `en`, it will be blank if there is no text in that cell. After you have added some translations, you can ping me somewhere, like in [BGG forum thread](https://boardgamegeek.com/thread/2766339/3mm-divider-designs-available-download), and I will regenerate the graphics.
+Other than several left columns and `en`, you can freely edit the rest. You can contribute by filling in the other language if you would like dividers in that language generated.
+
+Note that there is no fallback to `en`, it will be blank if there is no text in that cell.
+
+After you have added some translations, you can ping me somewhere, like in [BGG forum thread](https://boardgamegeek.com/thread/2766339/3mm-divider-designs-available-download), and I will regenerate the graphics.
 
 ## Overview
 
