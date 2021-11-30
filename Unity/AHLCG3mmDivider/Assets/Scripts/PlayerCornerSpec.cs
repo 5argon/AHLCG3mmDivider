@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Localization;
 
 namespace E7.AhLcgMiniDivider
 {
@@ -7,6 +8,6 @@ namespace E7.AhLcgMiniDivider
     {
         [SerializeField] internal Color playerCornerColor;
 
-        [SerializeField] internal string playerCornerText;
+        [SerializeField] internal LocalizedString playerCornerText;
     }
 }

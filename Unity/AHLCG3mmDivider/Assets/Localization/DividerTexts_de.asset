@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DividerTexts_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 0fe55b6e16baa4337b49d27ef6014293, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8220054642688
+    m_Localized: "Anh\xE4nger von Cthulhu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066451066880
+    m_Localized: "Anh\xE4nger von Hastur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261184
+    m_Localized: "Anh\xE4nger von Shub-Niggurath"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261185
+    m_Localized: "Anh\xE4nger von Yog-Sothoth"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261186
+    m_Localized: "B\xF6ses aus uralter Zeit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261187
+    m_Localized: "Grabesk\xE4lte"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261188
+    m_Localized: "Kult von Um\xF4rdhoth"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261189
+    m_Localized: Dunkler Kult
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261190
+    m_Localized: Ghule
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261191
+    m_Localized: "Verschlossene T\xFCren"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261192
+    m_Localized: "Dunkeld\xFCrre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261193
+    m_Localized: Rattenschwarm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261194
+    m_Localized: "L\xE4hmende Angst"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261195
+    m_Localized: Der Verschlinger aus der Tiefe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261196
+    m_Localized: Die Zusammenkunft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261197
+    m_Localized: Die Mitternachtsmasken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261204
+    m_Localized: Grundspiel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261205
+    m_Localized: Die Nacht des Zeloten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261207
+    m_Localized: St. 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261208
+    m_Localized: St. 1 ~ 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261209
+    m_Localized: "Grundschw\xE4che"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261211
+    m_Localized: Ermittler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261212
+    m_Localized: "W\xE4chter"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261213
+    m_Localized: Multi-Klassen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261214
+    m_Localized: Mystiker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261215
+    m_Localized: Neutral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261216
+    m_Localized: Schurke
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261217
+    m_Localized: Sucher
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261218
+    m_Localized: "\xDCberlebender"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261219
+    m_Localized: Deck 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261220
+    m_Localized: Deck 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261221
+    m_Localized: Deck 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261222
+    m_Localized: Deck 4
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

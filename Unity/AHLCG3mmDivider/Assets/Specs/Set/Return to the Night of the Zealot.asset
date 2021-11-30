@@ -13,4 +13,14 @@ MonoBehaviour:
   m_Name: Return to the Night of the Zealot
   m_EditorClassIdentifier: 
   setStripColor: {r: 0.36078432, g: 0.4, b: 0.5568628, a: 1}
-  setStripText: Return to the Night of the Zealot
+  setStripText:
+    m_TableReference:
+      m_TableCollectionName: GUID:0fe55b6e16baa4337b49d27ef6014293
+    m_TableEntryReference:
+      m_KeyId: 1066455261206
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 1

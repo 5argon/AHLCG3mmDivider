@@ -20,7 +20,9 @@ namespace E7.AhLcgMiniDivider
             if (gs.setDisplay)
             {
                 imageColor.color = gs.setSpec.setStripColor;
-                text.text = gs.setSpec.setStripText;
+                text.text = gs.setSpec.setStripText.IsEmpty
+                    ? string.Empty
+                    : gs.setSpec.setStripText.GetLocalizedString();
             }
         }
     }

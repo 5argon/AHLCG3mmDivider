@@ -42,8 +42,12 @@ namespace E7.AhLcgMiniDivider
             if (gs.playerCornerDisplay)
             {
                 playerCornerColor.color = gs.playerCornerSpec.playerCornerColor;
-                playerCornerText1.text = gs.playerCornerSpec.playerCornerText;
-                playerCornerText2.text = gs.playerCornerSpec.playerCornerText;
+                playerCornerText1.text = gs.playerCornerSpec.playerCornerText.IsEmpty
+                    ? string.Empty
+                    : gs.playerCornerSpec.playerCornerText.GetLocalizedString();
+                playerCornerText2.text = gs.playerCornerSpec.playerCornerText.IsEmpty
+                    ? string.Empty
+                    : gs.playerCornerSpec.playerCornerText.GetLocalizedString();
             }
 
             strip1.ApplySpec(gs);
@@ -52,8 +56,8 @@ namespace E7.AhLcgMiniDivider
             icon1.ApplySpec(gs);
             icon2.ApplySpec(gs);
 
-            mainText1.text = gs.mainText;
-            mainText2.text = gs.mainText;
+            mainText1.text = gs.mainText.IsEmpty ? string.Empty : gs.mainText.GetLocalizedString();
+            mainText2.text = gs.mainText.IsEmpty ? string.Empty : gs.mainText.GetLocalizedString();
         }
     }
 }

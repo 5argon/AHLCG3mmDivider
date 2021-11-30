@@ -13,4 +13,14 @@ MonoBehaviour:
   m_Name: Red-Lv15
   m_EditorClassIdentifier: 
   playerCornerColor: {r: 0.65882355, g: 0.22745098, b: 0.25490198, a: 1}
-  playerCornerText: Lv. 1 ~ 5
+  playerCornerText:
+    m_TableReference:
+      m_TableCollectionName: GUID:0fe55b6e16baa4337b49d27ef6014293
+    m_TableEntryReference:
+      m_KeyId: 1066455261208
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 1

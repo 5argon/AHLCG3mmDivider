@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: DividerTexts
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 0fe55b6e16baa4337b49d27ef6014293, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 527b88a899b274988a1e5959f218fd1f, type: 2}
+  - {fileID: 11400000, guid: 97ad7a0355697404794d6f6d4f5d3a7a, type: 2}
+  m_Extensions:
+  - id: 0
+  m_Group: String Table
+  references:
+    version: 1
+    00000000:
+      type: {class: GoogleSheetsExtension, ns: UnityEditor.Localization.Plugins.Google, asm: Unity.Localization.Editor}
+      data:
+        m_Collection: {fileID: 11400000}
+        m_SheetsServiceProvider: {fileID: 11400000, guid: af65eca53ba4c4d4591a9d4445e22444, type: 2}
+        m_SpreadsheetId: 1jA8786alNXLDSA-LVSh4HzJ6gza1JqO1_XyImz7ncaE
+        m_SheetId: 0
+        m_Columns:
+        - id: 1
+        - id: 2
+        - id: 3
+        m_RemoveMissingPulledKeys: 1
+    00000001:
+      type: {class: KeyColumn, ns: UnityEditor.Localization.Plugins.Google.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_Column: F
+    00000002:
+      type: {class: LocaleColumn, ns: UnityEditor.Localization.Plugins.Google.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_Column: H
+        m_LocaleIdentifier:
+          m_Code: en
+        m_IncludeComments: 0
+    00000003:
+      type: {class: LocaleColumn, ns: UnityEditor.Localization.Plugins.Google.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_Column: I
+        m_LocaleIdentifier:
+          m_Code: de
+        m_IncludeComments: 0

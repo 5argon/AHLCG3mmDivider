@@ -1,0 +1,946 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DividerTexts_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 0fe55b6e16baa4337b49d27ef6014293, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1066451066880
+    m_Localized: Agents of Hastur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261184
+    m_Localized: Agents of Shub Niggurath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261185
+    m_Localized: Agents of Yog-Sothoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261186
+    m_Localized: Ancient Evils
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261187
+    m_Localized: Chilling Cold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261188
+    m_Localized: "Cult of Um\xF4rdhoth"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261189
+    m_Localized: Dark Cult
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261190
+    m_Localized: Ghouls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261191
+    m_Localized: Locked Doors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261192
+    m_Localized: Nightgaunts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261193
+    m_Localized: Rats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261194
+    m_Localized: Striking Fear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261195
+    m_Localized: The Devourer Below
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261196
+    m_Localized: The Gathering
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261197
+    m_Localized: The Midnight Masks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261198
+    m_Localized: "Cult of Um\xF4rdhoth (new)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261199
+    m_Localized: "Ghouls of Um\xF4rdhoth"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261200
+    m_Localized: The Devourer's Cult
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261201
+    m_Localized: Return to The Devourer Below
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261202
+    m_Localized: Return to The Gathering
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261203
+    m_Localized: Return to The Midnight Masks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261204
+    m_Localized: Core Set
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261205
+    m_Localized: Night of the Zealot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261206
+    m_Localized: Return to the Night of the Zealot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261207
+    m_Localized: Lv. 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261208
+    m_Localized: Lv. 1 ~ 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261209
+    m_Localized: Basic Weakness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261210
+    m_Localized: Bonded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261211
+    m_Localized: Investigators
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261212
+    m_Localized: Guardian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261213
+    m_Localized: Multi-Class
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261214
+    m_Localized: Mystic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261215
+    m_Localized: Neutral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261216
+    m_Localized: Rogue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261217
+    m_Localized: Seeker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261218
+    m_Localized: Survivor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261219
+    m_Localized: Deck 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261220
+    m_Localized: Deck 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261221
+    m_Localized: Deck 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261222
+    m_Localized: Deck 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261223
+    m_Localized: Agents of Azathoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261224
+    m_Localized: Annette's Coven
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261225
+    m_Localized: City of Sins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261226
+    m_Localized: Inexorable Fate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261227
+    m_Localized: Music of the Damned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261228
+    m_Localized: Realm of Death
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261229
+    m_Localized: Secrets of the Universe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261230
+    m_Localized: Silver Twilight Lodge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261231
+    m_Localized: Spectral Predators
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261232
+    m_Localized: The Watcher
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261233
+    m_Localized: Trapped Spirits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261234
+    m_Localized: Witchcraft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261235
+    m_Localized: At Death's Doorstep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261236
+    m_Localized: Before the Black Throne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261237
+    m_Localized: Disappearance at the Twilight Estate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261238
+    m_Localized: For the Greater Good
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261239
+    m_Localized: In the Clutches of Chaos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261240
+    m_Localized: The Secret Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261241
+    m_Localized: The Wages of Sin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261242
+    m_Localized: The Witching Hour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261243
+    m_Localized: Union and Disillusion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261244
+    m_Localized: Agents of Atlach-Nacha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261245
+    m_Localized: Agents of Nyarlathotep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261246
+    m_Localized: Corsairs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261247
+    m_Localized: Creatures of the Underworld
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261248
+    m_Localized: Descent into the Pitch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261249
+    m_Localized: Dreamer's Curse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261250
+    m_Localized: Dreamlands
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261251
+    m_Localized: Merging Realities
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261252
+    m_Localized: Spiders
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261253
+    m_Localized: Terror into the Vale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261254
+    m_Localized: Whispers of Hypnos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261255
+    m_Localized: Zoogs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261256
+    m_Localized: A Thousand Shapes of Horror
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261257
+    m_Localized: Beyond the Gates of Sleep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261258
+    m_Localized: Dark Side of the Moon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261259
+    m_Localized: Point of No Return
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261260
+    m_Localized: The Search for Kadath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261261
+    m_Localized: Waking Nightmare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261262
+    m_Localized: Weaver of the Cosmos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261263
+    m_Localized: Where the Gods Dwell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261264
+    m_Localized: Bad Luck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261265
+    m_Localized: Beast Thralls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261266
+    m_Localized: Bishop's Thralls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261267
+    m_Localized: Dunwich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261268
+    m_Localized: Hideous Abominations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261269
+    m_Localized: Naomi's Crew
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261270
+    m_Localized: Sorcery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261271
+    m_Localized: The Beyond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261272
+    m_Localized: Whippoorwills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261273
+    m_Localized: Blood on the Altar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261274
+    m_Localized: Extracurricular Activity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261275
+    m_Localized: Lost in Time and Space
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261276
+    m_Localized: The Essex County Express
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261277
+    m_Localized: The House Always Wins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261278
+    m_Localized: The Miskatonic University
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261279
+    m_Localized: Undimensioned and Unseen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261280
+    m_Localized: Where Doom Awaits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261281
+    m_Localized: Agents of Yig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261282
+    m_Localized: Deadly Traps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261283
+    m_Localized: Expedition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261284
+    m_Localized: Forgotten Ruins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261285
+    m_Localized: Guardians of Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261286
+    m_Localized: K'n-yan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261287
+    m_Localized: Pillars of Judgment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261288
+    m_Localized: Pnakotic Brotherhood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261289
+    m_Localized: Poison
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261290
+    m_Localized: Rainforest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261291
+    m_Localized: Serpents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261292
+    m_Localized: Temporal Flux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261293
+    m_Localized: Yig's Venom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261294
+    m_Localized: Heart of the Elders Part A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261295
+    m_Localized: Heart of the Elders Part B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261296
+    m_Localized: Shattered Aeons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261297
+    m_Localized: The Boundary Beyond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261298
+    m_Localized: The City of Archives
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261299
+    m_Localized: The Depths of Yoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261300
+    m_Localized: The Doom of Etzli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261301
+    m_Localized: The Untamed Wild
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261302
+    m_Localized: Threads of Fate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261303
+    m_Localized: Turn Back Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261304
+    m_Localized: Agents of Dagon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261305
+    m_Localized: Agents of Hydra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261306
+    m_Localized: Creatures of the Deep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261307
+    m_Localized: Flooded Caverns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261308
+    m_Localized: Fog over Innsmouth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261309
+    m_Localized: Malfunction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261310
+    m_Localized: Rising Tide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261311
+    m_Localized: Shattered Memories
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261312
+    m_Localized: Syzygy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261313
+    m_Localized: The Locals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261314
+    m_Localized: A Light in the Fog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261315
+    m_Localized: Devil Reef
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261316
+    m_Localized: Horror in High Gear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261317
+    m_Localized: In Too Deep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261318
+    m_Localized: Into the Maelstrom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261319
+    m_Localized: The Lair of Dagon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261320
+    m_Localized: The Pit of Despair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261321
+    m_Localized: The Vanishing of Elina Harper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261322
+    m_Localized: Byakhee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261323
+    m_Localized: Cult of the Yellow Sign
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261324
+    m_Localized: Decay & Filth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261325
+    m_Localized: Delusions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261326
+    m_Localized: Evil Portents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261327
+    m_Localized: Hastur's Gift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261328
+    m_Localized: Hauntings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261329
+    m_Localized: Inhabitants of Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261330
+    m_Localized: The Flood Below
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261331
+    m_Localized: The Stranger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261332
+    m_Localized: The Vortex Above
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261333
+    m_Localized: A Phantom of Truth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261334
+    m_Localized: Black Stars Rise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261335
+    m_Localized: Curtain Call
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261336
+    m_Localized: Dim Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261337
+    m_Localized: Echoes of the Past
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261338
+    m_Localized: The Last King
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261339
+    m_Localized: The Pallid Mask
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261340
+    m_Localized: The Unspeakable Oath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261341
+    m_Localized: Decaying Reality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261342
+    m_Localized: Delusory Evils
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261343
+    m_Localized: Hastur's Envoys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261344
+    m_Localized: Maddening Delusions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455488
+    m_Localized: Neurotic Fear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455489
+    m_Localized: Return to A Phantom of Truth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455490
+    m_Localized: Return to Black Stars Rise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455491
+    m_Localized: Return to Curtain Call
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455492
+    m_Localized: Return to Dim Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455493
+    m_Localized: Return to Echoes of the Past
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455494
+    m_Localized: Return to The Last King
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455495
+    m_Localized: Return to The Pallid Mask
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455496
+    m_Localized: Return to The Unspeakable Oath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455497
+    m_Localized: Bloodthirsty Spirits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455498
+    m_Localized: Chilling Mists
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455499
+    m_Localized: City of the Damned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455500
+    m_Localized: Hexcraft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455501
+    m_Localized: Impending Evils
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455502
+    m_Localized: Unspeakable Fate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455503
+    m_Localized: Unstable Realm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455504
+    m_Localized: Return to At Death's Doorstep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455505
+    m_Localized: Return to Before the Black Throne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455506
+    m_Localized: Return to Disappearance at the Twilight Estate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455507
+    m_Localized: Return to For the Greater Good
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455508
+    m_Localized: Return to In the Clutches of Chaos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455509
+    m_Localized: Return to The Secret Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455510
+    m_Localized: Return to The Wages of Sin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455511
+    m_Localized: Return to The Witching Hour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455512
+    m_Localized: Return to Union and Disillusion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455513
+    m_Localized: Beyond the Threshold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455514
+    m_Localized: Creeping Cold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455515
+    m_Localized: Erratic Fear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455516
+    m_Localized: Resurgent Evils
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455517
+    m_Localized: Secret Doors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455518
+    m_Localized: Yog-Sothoth's Emissaries
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455519
+    m_Localized: Return to Blood on the Altar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455520
+    m_Localized: Return to Extracurricular Activity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455521
+    m_Localized: Return to Lost in Time and Space
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455522
+    m_Localized: Return to The Essex County Express
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455523
+    m_Localized: Return to the House Always Wins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455524
+    m_Localized: Return to The Miskatonic University
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455525
+    m_Localized: Return to Undimensioned and Unseen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455526
+    m_Localized: Return to Where Doom Awaits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455527
+    m_Localized: Cult of Pnakotus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455528
+    m_Localized: Doomed Expedition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455529
+    m_Localized: Return to the Rainforest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455530
+    m_Localized: Temporal Hunters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455531
+    m_Localized: Venomous Hate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455532
+    m_Localized: Return to Heart of the Elders Part A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455533
+    m_Localized: Return to Heart of the Elders Part B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455534
+    m_Localized: Return to Shattered Aeons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455535
+    m_Localized: Return to The Boundary Beyond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455536
+    m_Localized: Return to The City of Archives
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455537
+    m_Localized: Return to The Depths of Yoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455538
+    m_Localized: Return to The Doom of Etzli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455539
+    m_Localized: Return to The Untamed Wild
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455540
+    m_Localized: Return to Threads of Fate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455541
+    m_Localized: Return to Turn Back Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455542
+    m_Localized: All or Nothing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455543
+    m_Localized: Bad Blood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455544
+    m_Localized: By the Books
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455545
+    m_Localized: Read or Die
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455546
+    m_Localized: Return to the Circle Undone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455547
+    m_Localized: Return to the Dunwich Legacy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455548
+    m_Localized: Return to the Forgotten Age
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455549
+    m_Localized: Return to the Path to Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455550
+    m_Localized: The Circle Undone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455551
+    m_Localized: The Dream-Eaters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455552
+    m_Localized: The Dunwich Legacy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455553
+    m_Localized: The Forgotten Age
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455554
+    m_Localized: The Innsmouth Conspiracy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455555
+    m_Localized: The Path to Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8220054642688
+    m_Localized: Agenths of Cthulhu
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
