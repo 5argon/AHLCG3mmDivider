@@ -79,187 +79,12 @@ MonoBehaviour:
     m_Key: Campaign/Regular/Night of the Zealot/Scenario/The Midnight Masks
     m_Metadata:
       m_Items: []
-  - m_Id: 1066455261264
-    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Bad Luck
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261265
-    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Beast Thralls
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261266
-    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Bishop's Thralls
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261267
-    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Dunwich
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261268
-    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Hideous Abominations
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261269
-    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Naomi's Crew
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261270
-    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Sorcery
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261271
-    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/The Beyond
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261272
-    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Whippoorwills
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261273
-    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/Blood on the Altar
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261274
-    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/Extracurricular Activity
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261275
-    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/Lost in Time and Space
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261276
-    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/The Essex County Express
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261277
-    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/The House Always Wins
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261278
-    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/The Miskatonic University
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261279
-    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/Undimensioned and Unseen
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261280
-    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/Where Doom Awaits
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261198
-    m_Key: "Campaign/Return To/Night of the Zealot/Encounter/Cult of Um\xF4rdhoth
-      (new)"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261199
-    m_Key: "Campaign/Return To/Night of the Zealot/Encounter/Ghouls of Um\xF4rdhoth"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261200
-    m_Key: Campaign/Return To/Night of the Zealot/Encounter/The Devourer's Cult
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261201
-    m_Key: Campaign/Return To/Night of the Zealot/Scenario/Return to The Devourer
-      Below
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261202
-    m_Key: Campaign/Return To/Night of the Zealot/Scenario/Return to The Gathering
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261203
-    m_Key: Campaign/Return To/Night of the Zealot/Scenario/Return to The Midnight
-      Masks
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261204
-    m_Key: Campaign Name/Core Set
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261205
-    m_Key: Campaign Name/Night of the Zealot
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261206
-    m_Key: Campaign Name/Return to the Night of the Zealot
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455552
-    m_Key: Campaign Name/The Dunwich Legacy
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261207
-    m_Key: Player/Card Level/Lv. 0
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261208
-    m_Key: Player/Card Level/Lv. 1 ~ 5
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261209
-    m_Key: Player/Category/Basic Weakness
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261210
-    m_Key: Player/Category/Bonded
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261211
-    m_Key: Player/Category/Investigators
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261212
-    m_Key: Player/Class/Guardian
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261213
-    m_Key: Player/Class/Multi-Class
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261214
-    m_Key: Player/Class/Mystic
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261215
-    m_Key: Player/Class/Neutral
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261216
-    m_Key: Player/Class/Rogue
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261217
-    m_Key: Player/Class/Seeker
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261218
-    m_Key: Player/Class/Survivor
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261219
-    m_Key: Player/Deck Divider/Deck 1
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261220
-    m_Key: Player/Deck Divider/Deck 2
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261221
-    m_Key: Player/Deck Divider/Deck 3
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261222
-    m_Key: Player/Deck Divider/Deck 4
-    m_Metadata:
-      m_Items: []
   - m_Id: 1066455261223
     m_Key: Campaign/Regular/The Circle Undone/Encounter/Agents of Azathoth
     m_Metadata:
       m_Items: []
-  - m_Id: 1066455261224
-    m_Key: Campaign/Regular/The Circle Undone/Encounter/Annette's Coven
+  - m_Id: 154116885045248
+    m_Key: Campaign/Regular/The Circle Undone/Encounter/Anette's Coven
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261225
@@ -375,8 +200,8 @@ MonoBehaviour:
     m_Key: Campaign/Regular/The Dream-Eaters/Encounter/Spiders
     m_Metadata:
       m_Items: []
-  - m_Id: 1066455261253
-    m_Key: Campaign/Regular/The Dream-Eaters/Encounter/Terror into the Vale
+  - m_Id: 157933798154240
+    m_Key: Campaign/Regular/The Dream-Eaters/Encounter/Terror of the Vale
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261254
@@ -417,6 +242,74 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1066455261263
     m_Key: Campaign/Regular/The Dream-Eaters/Scenario/Where the Gods Dwell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261264
+    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Bad Luck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261265
+    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Beast Thralls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261266
+    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Bishop's Thralls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261267
+    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Dunwich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261268
+    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Hideous Abominations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261269
+    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Naomi's Crew
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261270
+    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Sorcery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261271
+    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/The Beyond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261272
+    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Whippoorwills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261273
+    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/Blood on the Altar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261274
+    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/Extracurricular Activity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261275
+    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/Lost in Time and Space
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261276
+    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/The Essex County Express
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261277
+    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/The House Always Wins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261278
+    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/The Miskatonic University
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261279
+    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/Undimensioned and Unseen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261280
+    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/Where Doom Awaits
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261281
@@ -495,8 +388,8 @@ MonoBehaviour:
     m_Key: Campaign/Regular/The Forgotten Age/Scenario/The Depths of Yoth
     m_Metadata:
       m_Items: []
-  - m_Id: 1066455261300
-    m_Key: Campaign/Regular/The Forgotten Age/Scenario/The Doom of Etzli
+  - m_Id: 152899299565568
+    m_Key: Campaign/Regular/The Forgotten Age/Scenario/The Doom of Eztli
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261301
@@ -658,6 +551,249 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1066455261340
     m_Key: Campaign/Regular/The Path to Carcosa/Scenario/The Unspeakable Oath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261198
+    m_Key: "Campaign/Return To/Night of the Zealot/Encounter/Cult of Um\xF4rdhoth
+      (new)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261199
+    m_Key: "Campaign/Return To/Night of the Zealot/Encounter/Ghouls of Um\xF4rdhoth"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261200
+    m_Key: Campaign/Return To/Night of the Zealot/Encounter/The Devourer's Cult
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261201
+    m_Key: Campaign/Return To/Night of the Zealot/Scenario/Return to The Devourer
+      Below
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261202
+    m_Key: Campaign/Return To/Night of the Zealot/Scenario/Return to The Gathering
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261203
+    m_Key: Campaign/Return To/Night of the Zealot/Scenario/Return to The Midnight
+      Masks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261204
+    m_Key: Campaign Name/Core Set
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261205
+    m_Key: Campaign Name/Night of the Zealot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261206
+    m_Key: Campaign Name/Return to the Night of the Zealot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455550
+    m_Key: Campaign Name/The Circle Undone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455551
+    m_Key: Campaign Name/The Dream-Eaters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455552
+    m_Key: Campaign Name/The Dunwich Legacy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455553
+    m_Key: Campaign Name/The Forgotten Age
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455554
+    m_Key: Campaign Name/The Innsmouth Conspiracy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455555
+    m_Key: Campaign Name/The Path to Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261207
+    m_Key: Player/Card Level/Lv. 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261208
+    m_Key: Player/Card Level/Lv. 1 ~ 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261209
+    m_Key: Player/Category/Basic Weakness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261210
+    m_Key: Player/Category/Bonded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261211
+    m_Key: Player/Category/Investigators
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261212
+    m_Key: Player/Class/Guardian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261213
+    m_Key: Player/Class/Multi-Class
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261214
+    m_Key: Player/Class/Mystic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261215
+    m_Key: Player/Class/Neutral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261216
+    m_Key: Player/Class/Rogue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261217
+    m_Key: Player/Class/Seeker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261218
+    m_Key: Player/Class/Survivor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261219
+    m_Key: Player/Deck Divider/Deck 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261220
+    m_Key: Player/Deck Divider/Deck 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261221
+    m_Key: Player/Deck Divider/Deck 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261222
+    m_Key: Player/Deck Divider/Deck 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306755
+    m_Key: Standalone Scenario/Barkham Horror/The Meddling of Meowlathotep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306756
+    m_Key: Standalone Scenario/Curse of the Rougarou/The Bayou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306757
+    m_Key: Standalone Scenario/Guardians of the Abyss/Abyssal Gifts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306758
+    m_Key: Standalone Scenario/Guardians of the Abyss/Abyssal Tribute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306759
+    m_Key: Standalone Scenario/Guardians of the Abyss/Brotherhood of the Beast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306760
+    m_Key: Standalone Scenario/Guardians of the Abyss/Sands of Egypt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306761
+    m_Key: Standalone Scenario/Guardians of the Abyss/The Eternal Slumber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306762
+    m_Key: Standalone Scenario/Guardians of the Abyss/The Night's Usurper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306763
+    m_Key: Standalone Scenario/Murder at the Excelsior Hotel/Alien Interference
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306764
+    m_Key: Standalone Scenario/Murder at the Excelsior Hotel/Dark Rituals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306765
+    m_Key: Standalone Scenario/Murder at the Excelsior Hotel/Excelsior Management
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306766
+    m_Key: Standalone Scenario/Murder at the Excelsior Hotel/Sins of the Past
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306767
+    m_Key: Standalone Scenario/Murder at the Excelsior Hotel/Vile Experiments
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306768
+    m_Key: Standalone Scenario/The Blob That Ate Everything/Epic Multiplayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306769
+    m_Key: Standalone Scenario/The Blob That Ate Everything/Mi-Go Incursion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306770
+    m_Key: Standalone Scenario/The Blob That Ate Everything/Single Group
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306771
+    m_Key: Standalone Scenario/The Labyrinths of Lunacy/Epic Multiplayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306772
+    m_Key: Standalone Scenario/The Labyrinths of Lunacy/Single Group
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306773
+    m_Key: Standalone Scenario/War of the Outer Gods/Children of Paradise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306774
+    m_Key: Standalone Scenario/War of the Outer Gods/Death of Stars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306775
+    m_Key: Standalone Scenario/War of the Outer Gods/Swarm of Assimilation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306776
+    m_Key: Standalone Scenario Name/Barkham Horror
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306777
+    m_Key: Standalone Scenario Name/Carnevale of Horrors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306778
+    m_Key: Standalone Scenario Name/Curse of the Rougarou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306779
+    m_Key: Standalone Scenario Name/Guardians of the Abyss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306780
+    m_Key: Standalone Scenario Name/Murder at the Excelsior Hotel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306781
+    m_Key: Standalone Scenario Name/The Blob That Ate Everything
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306782
+    m_Key: Standalone Scenario Name/The Labyrinths of Lunacy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306783
+    m_Key: Standalone Scenario Name/War of the Outer Gods
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455497
@@ -838,8 +974,8 @@ MonoBehaviour:
       Yoth
     m_Metadata:
       m_Items: []
-  - m_Id: 1066459455538
-    m_Key: Campaign/Return To/The Forgotten Age/Scenario/Return to The Doom of Etzli
+  - m_Id: 152899303759872
+    m_Key: Campaign/Return To/The Forgotten Age/Scenario/Return to The Doom of Eztli
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455539
@@ -930,26 +1066,6 @@ MonoBehaviour:
     m_Key: Campaign Name/Return to the Path to Carcosa
     m_Metadata:
       m_Items: []
-  - m_Id: 1066459455550
-    m_Key: Campaign Name/The Circle Undone
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455551
-    m_Key: Campaign Name/The Dream-Eaters
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455553
-    m_Key: Campaign Name/The Forgotten Age
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455554
-    m_Key: Campaign Name/The Innsmouth Conspiracy
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455555
-    m_Key: Campaign Name/The Path to Carcosa
-    m_Metadata:
-      m_Items: []
   - m_Id: 117235484975104
     m_Key: Challenge Scenario Name/All or Nothing
     m_Metadata:
@@ -966,124 +1082,8 @@ MonoBehaviour:
     m_Key: Challenge Scenario Name/Read or Die
     m_Metadata:
       m_Items: []
-  - m_Id: 117235535306755
-    m_Key: Standalone Scenario/Barkham Horror/The Meddling of Meowlathotep
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306756
-    m_Key: Standalone Scenario/Curse of the Rougarou/The Bayou
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306757
-    m_Key: Standalone Scenario/Guardians of the Abyss/Abyssal Gifts
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306758
-    m_Key: Standalone Scenario/Guardians of the Abyss/Abyssal Tribute
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306759
-    m_Key: Standalone Scenario/Guardians of the Abyss/Brotherhood of the Beast
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306760
-    m_Key: Standalone Scenario/Guardians of the Abyss/Sands of Egypt
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306761
-    m_Key: Standalone Scenario/Guardians of the Abyss/The Eternal Slumber
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306762
-    m_Key: Standalone Scenario/Guardians of the Abyss/The Night's Usurper
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306763
-    m_Key: Standalone Scenario/Murder at the Excelsior Hotel/Alien Interference
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306764
-    m_Key: Standalone Scenario/Murder at the Excelsior Hotel/Dark Rituals
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306765
-    m_Key: Standalone Scenario/Murder at the Excelsior Hotel/Excelsior Management
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306766
-    m_Key: Standalone Scenario/Murder at the Excelsior Hotel/Sins of the Past
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306767
-    m_Key: Standalone Scenario/Murder at the Excelsior Hotel/Vile Experiments
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306768
-    m_Key: Standalone Scenario/The Blob That Ate Everything/Epic Multiplayer
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306769
-    m_Key: Standalone Scenario/The Blob That Ate Everything/Mi-Go Incursion
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306770
-    m_Key: Standalone Scenario/The Blob That Ate Everything/Single Group
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306771
-    m_Key: Standalone Scenario/The Labyrinths of Lunacy/Epic Multiplayer
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306772
-    m_Key: Standalone Scenario/The Labyrinths of Lunacy/Single Group
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306773
-    m_Key: Standalone Scenario/War of the Outer Gods/Children of Paradise
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306774
-    m_Key: Standalone Scenario/War of the Outer Gods/Death of Stars
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306775
-    m_Key: Standalone Scenario/War of the Outer Gods/Swarm of Assimilation
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306776
-    m_Key: Standalone Scenario Name/Barkham Horror
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306777
-    m_Key: Standalone Scenario Name/Carnevale of Horrors
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306778
-    m_Key: Standalone Scenario Name/Curse of the Rougarou
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306779
-    m_Key: Standalone Scenario Name/Guardians of the Abyss
-    m_Metadata:
-      m_Items: []
   - m_Id: 119936797106176
     m_Key: Standalone Scenario Name/Machinations Through Time
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306780
-    m_Key: Standalone Scenario Name/Murder at the Excelsior Hotel
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306781
-    m_Key: Standalone Scenario Name/The Blob That Ate Everything
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306782
-    m_Key: Standalone Scenario Name/The Labyrinths of Lunacy
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306783
-    m_Key: Standalone Scenario Name/War of the Outer Gods
     m_Metadata:
       m_Items: []
   m_Metadata:

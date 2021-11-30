@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
-  m_Name: War of the Outer Gods + Curse of the Rougarou
+  m_Name: War of the Outer Gods + Carnevale of Horrors
   m_EditorClassIdentifier: 
-  pdfName: Standalone - War of the Outer Gods + Curse of the Rougarou
+  pdfName: Standalone - War of the Outer Gods + Carnevale of Horrors
   genSpecs:
   - {fileID: 11400000, guid: 280c1ecce08504e56aad79f9d149891e, type: 2}
   - {fileID: 11400000, guid: 7750768d3d11c4c2ca6c63560d271664, type: 2}
   - {fileID: 11400000, guid: da067db97fa9a4f588a84dac2fa833a6, type: 2}
   - {fileID: 11400000, guid: 5ddd70ffb9e0c45ff865f2ac395b3b48, type: 2}
   - {fileID: 11400000, guid: 267b2d0a62076420499a3c7cb756f94a, type: 2}
-  - {fileID: 11400000, guid: 0ecd31a1479c740728226f6d1a898de4, type: 2}
-  - {fileID: 11400000, guid: ba33c26154b6a46bdb7918beed92bc28, type: 2}
-  - {fileID: 11400000, guid: dc5ec51300c6946b0a13c0adeb612079, type: 2}
+  - {fileID: 11400000, guid: 9574fd36fae004d0dbae297b0ad7920f, type: 2}
+  - {fileID: 11400000, guid: f695024cf71874d55af16af686245a65, type: 2}
+  - {fileID: 11400000, guid: ae7c70d7f8f8841cfa7f042cff87573f, type: 2}

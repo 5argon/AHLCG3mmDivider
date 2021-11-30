@@ -44,12 +44,37 @@ Card graphics was remixed from official FFG print-and-play PDF. I didn't design 
 
 ### Sets
 
-- Player cards (5 classes, neutral, multi-class, in lv.0 and lv. 1 ~ 5, basic weakness)
-- Core Set (Night of the Zealot + Core Set encounters)
-- Return to the Night of the Zealot
-- The Dunwich Legacy
-- Standalone Scenarios (Except Machinations through Time)
-- Some extras such as deck dividers, bonded, etc.
+Each "set" is one folder inside the language folder. Each folder is optimized around printing on A4 paper which fits 8 dividers.
+
+"Padded with" means unrelated dividers were added to that folder to get a multiple of 8, so not to waste blank space on the paper.
+
+#### Core Set
+
+- Player x16 : 5 classes, neutral, multi-class, in lv.0 and lv. 1 ~ 5, basic weakness.
+- Player Alt x16 : Similar to Player but without Lv. on the corner, blank class-colored dividers, etc.
+- Extra x8 : Some extras such as deck dividers, bonded, etc.
+- Core Set x16 : Night of the Zealot + Core Set encounters
+
+#### Expansion
+
+- The Dunwich Legacy x24 (Padded with : Murder at the Excelsior Hotel)
+- The Path to Carcosa x24 (Padded with : War of the Outer Gods)
+- The Forgotten Age x24
+- The Circle Undone x24 (Padded with : Curse of the Rougarou)
+- The Dream-Eaters x24 (Padded with : The Labyrinths of Lunacy)
+- The Innsmouth Conspiracy x24 (Padded with : The Blob That Ate Everything)
+
+#### Standalone Scenarios
+
+- Standalone - War of the Outer Gods + Carnevale of Horrors x8
+- Standalone - The Labyrinths of Lunacy + Curse of the Rougarou x8
+- Standalone - The Blob That Ate Everything + Barkham Horror x8
+- Standalone - Murder at the Excelsior Hotel x8
+- Standalone - Guardians of the Abyss x8
+
+#### Return to 
+
+- Return to The Night of the Zealot x8 (Padded with : Carnevale of Horrors)
 
 ### Languages
 
