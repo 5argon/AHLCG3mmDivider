@@ -28,7 +28,7 @@ Unlike other dividers, they have a bit of unusual traits that leads to me making
   There are inevitably some overlaps but graphics from each orientation tries to be as hidden as possible from the other orientation, especially the texts.
 
   Though, I designed it mainly for landscape since I just bought a Revised Core Set and is still storing everything in that box. The "bonus" vertical graphics maybe a bit cramped.
-- **Easy to work on** : The graphics are generated from applied usage of Unity game engine (also hosted in this repository), which makes them consistent in layout, easy to add more in the future, or batch-modifying mistakes on all previous ones less tedious.
+- **Easy to work on** : The graphics are generated from applied usage of Unity game engine (also hosted in this repository), which makes them consistent in layout, easy to add more in the future, or batch-modifying mistakes on all previous ones less tedious. It also works really well with generating many localizations.
 
 ## More images
 
@@ -40,19 +40,42 @@ All encounter icons were obtained from combined effort in [this thread](https://
 
 Card graphics was remixed from official FFG print-and-play PDF. I didn't design anything other than putting texts, icons, and recolor a bit.
 
+## Currently done + Languages
+
+### Sets
+
+- Player cards (5 classes, neutral, multi-class, in lv.0 and lv. 1 ~ 5)
+- Core Set (Night of the Zealot + Core Set encounters)
+- Return to the Night of the Zealot
+- Some extras such as deck dividers, etc.
+
+### Languages
+
+- English
+- German (Contributed by : [@empty0911](https://boardgamegeek.com/user/empty0911))
+
+### Contributing translations
+
+This is a spredsheet which Unity can load and generate the dividers : https://docs.google.com/spreadsheets/d/1jA8786alNXLDSA-LVSh4HzJ6gza1JqO1_XyImz7ncaE/edit#gid=0
+
+Other than several left columns and `en`, you can freely edit the rest. You can contribute by filling in the other language if you would like dividers in that language generated. Note that there is no fallback to `en`, it will be blank if there is no text in that cell. After you have added some translations, you can ping me somewhere, like in [BGG forum thread](https://boardgamegeek.com/thread/2766339/3mm-divider-designs-available-download), and I will regenerate the graphics.
+
 ## Overview
 
 - `Design` : Affinity Designer file that exports graphics for `Unity` folder.
-- `Unity` : Unity game engine project that would output divider graphics for `Files` folder.
-- `Files` : Individual divider graphics grouped in sensible folders. In each folder are multiple of 8 cards which is a maximum number that would fit in 1 A4 paper. If graphics in a category barely missed multiple of 8, they are filled up with some unrelated generic dividers as extras.
-- `Pdfs` : Each folders in `Files` made into a PDF files so it is easier to send them to print shops. If you require a mix of some dividers here and there, you should pick individual files in `Files` and make your own A4 for printing.
-- `Images` : Store images shown in this page.
+- `Unity` : Unity game engine project that would output divider graphics for `Dividers` folder.
+- `Dividers` : Individual divider `.png` files for printing. You should print multiple files in one sheet, depending on your printer.
+- `Images` : Store preview photos shown in this page and in the [gallery page](./gallery.md).
 
 ## How to use
 
-Download everything as a `.zip` by clicking the **green button** on around top-right corner of this page then select "Download ZIP".
+Download everything as a `.zip` by clicking the **green button** on around top-right corner of this page then select "Download ZIP". Alternatively you can try [this direct link](https://github.com/5argon/AHLCG3mmDivider/archive/refs/heads/main.zip).
 
-Then, you likely would need to look in either `Files` or `Pdfs` folder. Send those graphics to A4 printer.
+Look inside `Dividers` folder. Inside you will find a folder representing a language code, then category folders ending in number of dividers inside that folder (e.g. `8x`, `16x`). Dividers in the same folder are meant to be grouped in the same paper when you send to print shop, as they are likely used together. (e.g. for the same campaign box.)
+
+And notice that file number is a multiple of 8, because A4 is a common size of paper and that size could fit at most 8 dividers per sheet. If some category is not quite at the multiple of 8 yet, they are filled with some extra generic dividers until it is a multiple of 8. If you use bigger or smaller size of paper than A4, you can try merging multiple folders or take out those extra generic dividers as needed.
+
+Send items in the same folder into any program that can laid them out on paper size then save a merged image for printing. (In macOS for example, Photos program can do this.) Make sure size of each divider is physically 93mm x 68mm on the paper (1098x804 px at 300 DPI), some programs like to offer scaling to fit. Make sure that is off.
 
 After that you can cut them up. You will be making skill test (4) on cutting since there is little room for error before the text is also trimmed off. I also forgot to make the graphic bleed outside of cut line to accommodate cutting errors.
 
@@ -68,8 +91,9 @@ I only own the Revised Core Set at the moment, so I myself isn't in a hurry to p
 
 Assuming you know how to use Unity, you can use the project to generate custom dividers with any text and icons. These can help you understand the project structure faster : 
 
-- Right click `Asset` menu has an asset called `GenSpec`, which the `Runner` on the scene has `GenSpec[]` exposed. Follow the script of `GenSpec` and you should understand the rest.
-- When you enter Play Mode, `Runner` object will run a coroutine that "apply" the `GenSpec` one by one per frame. You will see various graphics flashes rapidly.
-- The project has [Unity Recorder](https://docs.unity3d.com/Packages/com.unity.recorder@latest/manual/index.html) installed. By running the Recorder and use frame range mode, we can effectively export everything as it cycles to different graphics per frame. The frame range starts at 3, for some reason Unity lags for a few frames.
+- Right click `Asset` menu has an asset called `GenPdf`, which the `Runner` on the scene has `GenPdf[]` exposed. Follow the script of `GenPdf` and you should understand the rest.
+- In Play Mode, `Runner` object will run a coroutine that "apply" the `GenPdf` one by one per frame. You will see various graphics flashes rapidly.
+- The project has [Unity Recorder](https://docs.unity3d.com/Packages/com.unity.recorder@latest/manual/index.html) installed. Recorder is run by script instead of button in Unity UI, because this way I could vary the path and file name as desired.
 - Game view and Recorder should be set to 1098x804. (Becomes 93mm x 68mm at 300 DPI)
-- To make Recorder output file name according to `GenSpec` asset name, it can use `<Scene>` name placeholder. Then the code create a scene dynamically each frame and set it as active, "tricking" the recorder to name the file according to scene's name. (Which is actually the asset's name.)
+- [Localization package](https://docs.unity3d.com/Packages/com.unity.localization@latest) is also used, which has Google Sheet service connected to [this spreadsheet](https://docs.google.com/spreadsheets/d/1jA8786alNXLDSA-LVSh4HzJ6gza1JqO1_XyImz7ncaE/edit#gid=0).
+- Finally, it exits Play Mode immediately after everything is over. Therefore what you do to regenerate the `Dividers` folder is just press enter Play Mode and wait until it exits.
