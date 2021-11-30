@@ -59,7 +59,7 @@ namespace E7.AhLcgMiniDivider
                             l.Identifier.Code,
                             v.pdfName + " x" + v.genSpecs.Length);
                         Directory.CreateDirectory(fullDestinationFolder);
-                        var fileName = string.Join("_", l.Identifier.Code, v.pdfName, i + 1, s.name);
+                        var fileName = string.Join("_", l.Identifier.Code, v.pdfName, (i + 1).ToString("00"), s.name);
                         imageRecorder.FileNameGenerator.Root = OutputPath.Root.Absolute;
                         imageRecorder.FileNameGenerator.Leaf = fullDestinationFolder;
                         imageRecorder.FileNameGenerator.FileName = fileName;
