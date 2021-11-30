@@ -13,4 +13,14 @@ MonoBehaviour:
   m_Name: Core Set
   m_EditorClassIdentifier: 
   setStripColor: {r: 0.6509804, g: 0.48235294, b: 0.39607844, a: 1}
-  setStripText: Core Set
+  setStripText:
+    m_TableReference:
+      m_TableCollectionName: GUID:0fe55b6e16baa4337b49d27ef6014293
+    m_TableEntryReference:
+      m_KeyId: 1066455261204
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 1

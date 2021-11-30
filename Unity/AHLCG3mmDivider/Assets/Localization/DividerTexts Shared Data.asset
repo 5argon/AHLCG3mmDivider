@@ -1,0 +1,978 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: DividerTexts Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: DividerTexts
+  m_TableCollectionNameGuidString: 0fe55b6e16baa4337b49d27ef6014293
+  m_Entries:
+  - m_Id: 8220054642688
+    m_Key: Campaign/Regular/Core Set/Encounter/Agents of Cthulhu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066451066880
+    m_Key: Campaign/Regular/Core Set/Encounter/Agents of Hastur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261184
+    m_Key: Campaign/Regular/Core Set/Encounter/Agents of Shub Niggurath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261185
+    m_Key: Campaign/Regular/Core Set/Encounter/Agents of Yog-Sothoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261186
+    m_Key: Campaign/Regular/Core Set/Encounter/Ancient Evils
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261187
+    m_Key: Campaign/Regular/Core Set/Encounter/Chilling Cold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261188
+    m_Key: "Campaign/Regular/Core Set/Encounter/Cult of Um\xF4rdhoth"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261189
+    m_Key: Campaign/Regular/Core Set/Encounter/Dark Cult
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261190
+    m_Key: Campaign/Regular/Core Set/Encounter/Ghouls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261191
+    m_Key: Campaign/Regular/Core Set/Encounter/Locked Doors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261192
+    m_Key: Campaign/Regular/Core Set/Encounter/Nightgaunts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261193
+    m_Key: Campaign/Regular/Core Set/Encounter/Rats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261194
+    m_Key: Campaign/Regular/Core Set/Encounter/Striking Fear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261195
+    m_Key: Campaign/Regular/Night of the Zealot/Scenario/The Devourer Below
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261196
+    m_Key: Campaign/Regular/Night of the Zealot/Scenario/The Gathering
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261197
+    m_Key: Campaign/Regular/Night of the Zealot/Scenario/The Midnight Masks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261198
+    m_Key: "Campaign/Return To/Night of the Zealot/Encounter/Cult of Um\xF4rdhoth
+      (new)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261199
+    m_Key: "Campaign/Return To/Night of the Zealot/Encounter/Ghouls of Um\xF4rdhoth"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261200
+    m_Key: Campaign/Return To/Night of the Zealot/Encounter/The Devourer's Cult
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261201
+    m_Key: Campaign/Return To/Night of the Zealot/Scenario/Return to The Devourer
+      Below
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261202
+    m_Key: Campaign/Return To/Night of the Zealot/Scenario/Return to The Gathering
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261203
+    m_Key: Campaign/Return To/Night of the Zealot/Scenario/Return to The Midnight
+      Masks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261204
+    m_Key: Campaign Name/Core Set
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261205
+    m_Key: Campaign Name/Night of the Zealot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261206
+    m_Key: Campaign Name/Return to the Night of the Zealot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261207
+    m_Key: Player/Card Level/Lv. 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261208
+    m_Key: Player/Card Level/Lv. 1 ~ 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261209
+    m_Key: Player/Category/Basic Weakness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261210
+    m_Key: Player/Category/Bonded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261211
+    m_Key: Player/Category/Investigators
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261212
+    m_Key: Player/Class/Guardian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261213
+    m_Key: Player/Class/Multi-Class
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261214
+    m_Key: Player/Class/Mystic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261215
+    m_Key: Player/Class/Neutral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261216
+    m_Key: Player/Class/Rogue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261217
+    m_Key: Player/Class/Seeker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261218
+    m_Key: Player/Class/Survivor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261219
+    m_Key: Player/Deck Divider/Deck 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261220
+    m_Key: Player/Deck Divider/Deck 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261221
+    m_Key: Player/Deck Divider/Deck 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261222
+    m_Key: Player/Deck Divider/Deck 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261223
+    m_Key: Campaign/Regular/The Circle Undone/Encounter/Agents of Azathoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261224
+    m_Key: Campaign/Regular/The Circle Undone/Encounter/Annette's Coven
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261225
+    m_Key: Campaign/Regular/The Circle Undone/Encounter/City of Sins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261226
+    m_Key: Campaign/Regular/The Circle Undone/Encounter/Inexorable Fate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261227
+    m_Key: Campaign/Regular/The Circle Undone/Encounter/Music of the Damned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261228
+    m_Key: Campaign/Regular/The Circle Undone/Encounter/Realm of Death
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261229
+    m_Key: Campaign/Regular/The Circle Undone/Encounter/Secrets of the Universe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261230
+    m_Key: Campaign/Regular/The Circle Undone/Encounter/Silver Twilight Lodge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261231
+    m_Key: Campaign/Regular/The Circle Undone/Encounter/Spectral Predators
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261232
+    m_Key: Campaign/Regular/The Circle Undone/Encounter/The Watcher
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261233
+    m_Key: Campaign/Regular/The Circle Undone/Encounter/Trapped Spirits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261234
+    m_Key: Campaign/Regular/The Circle Undone/Encounter/Witchcraft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261235
+    m_Key: Campaign/Regular/The Circle Undone/Scenario/At Death's Doorstep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261236
+    m_Key: Campaign/Regular/The Circle Undone/Scenario/Before the Black Throne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261237
+    m_Key: Campaign/Regular/The Circle Undone/Scenario/Disappearance at the Twilight
+      Estate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261238
+    m_Key: Campaign/Regular/The Circle Undone/Scenario/For the Greater Good
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261239
+    m_Key: Campaign/Regular/The Circle Undone/Scenario/In the Clutches of Chaos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261240
+    m_Key: Campaign/Regular/The Circle Undone/Scenario/The Secret Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261241
+    m_Key: Campaign/Regular/The Circle Undone/Scenario/The Wages of Sin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261242
+    m_Key: Campaign/Regular/The Circle Undone/Scenario/The Witching Hour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261243
+    m_Key: Campaign/Regular/The Circle Undone/Scenario/Union and Disillusion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261244
+    m_Key: Campaign/Regular/The Dream-Eaters/Encounter/Agents of Atlach-Nacha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261245
+    m_Key: Campaign/Regular/The Dream-Eaters/Encounter/Agents of Nyarlathotep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261246
+    m_Key: Campaign/Regular/The Dream-Eaters/Encounter/Corsairs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261247
+    m_Key: Campaign/Regular/The Dream-Eaters/Encounter/Creatures of the Underworld
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261248
+    m_Key: Campaign/Regular/The Dream-Eaters/Encounter/Descent into the Pitch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261249
+    m_Key: Campaign/Regular/The Dream-Eaters/Encounter/Dreamer's Curse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261250
+    m_Key: Campaign/Regular/The Dream-Eaters/Encounter/Dreamlands
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261251
+    m_Key: Campaign/Regular/The Dream-Eaters/Encounter/Merging Realities
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261252
+    m_Key: Campaign/Regular/The Dream-Eaters/Encounter/Spiders
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261253
+    m_Key: Campaign/Regular/The Dream-Eaters/Encounter/Terror into the Vale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261254
+    m_Key: Campaign/Regular/The Dream-Eaters/Encounter/Whispers of Hypnos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261255
+    m_Key: Campaign/Regular/The Dream-Eaters/Encounter/Zoogs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261256
+    m_Key: Campaign/Regular/The Dream-Eaters/Scenario/A Thousand Shapes of Horror
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261257
+    m_Key: Campaign/Regular/The Dream-Eaters/Scenario/Beyond the Gates of Sleep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261258
+    m_Key: Campaign/Regular/The Dream-Eaters/Scenario/Dark Side of the Moon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261259
+    m_Key: Campaign/Regular/The Dream-Eaters/Scenario/Point of No Return
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261260
+    m_Key: Campaign/Regular/The Dream-Eaters/Scenario/The Search for Kadath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261261
+    m_Key: Campaign/Regular/The Dream-Eaters/Scenario/Waking Nightmare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261262
+    m_Key: Campaign/Regular/The Dream-Eaters/Scenario/Weaver of the Cosmos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261263
+    m_Key: Campaign/Regular/The Dream-Eaters/Scenario/Where the Gods Dwell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261264
+    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Bad Luck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261265
+    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Beast Thralls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261266
+    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Bishop's Thralls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261267
+    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Dunwich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261268
+    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Hideous Abominations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261269
+    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Naomi's Crew
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261270
+    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Sorcery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261271
+    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/The Beyond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261272
+    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Whippoorwills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261273
+    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/Blood on the Altar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261274
+    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/Extracurricular Activity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261275
+    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/Lost in Time and Space
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261276
+    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/The Essex County Express
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261277
+    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/The House Always Wins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261278
+    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/The Miskatonic University
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261279
+    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/Undimensioned and Unseen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261280
+    m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/Where Doom Awaits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261281
+    m_Key: Campaign/Regular/The Forgotten Age/Encounter/Agents of Yig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261282
+    m_Key: Campaign/Regular/The Forgotten Age/Encounter/Deadly Traps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261283
+    m_Key: Campaign/Regular/The Forgotten Age/Encounter/Expedition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261284
+    m_Key: Campaign/Regular/The Forgotten Age/Encounter/Forgotten Ruins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261285
+    m_Key: Campaign/Regular/The Forgotten Age/Encounter/Guardians of Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261286
+    m_Key: Campaign/Regular/The Forgotten Age/Encounter/K'n-yan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261287
+    m_Key: Campaign/Regular/The Forgotten Age/Encounter/Pillars of Judgment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261288
+    m_Key: Campaign/Regular/The Forgotten Age/Encounter/Pnakotic Brotherhood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261289
+    m_Key: Campaign/Regular/The Forgotten Age/Encounter/Poison
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261290
+    m_Key: Campaign/Regular/The Forgotten Age/Encounter/Rainforest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261291
+    m_Key: Campaign/Regular/The Forgotten Age/Encounter/Serpents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261292
+    m_Key: Campaign/Regular/The Forgotten Age/Encounter/Temporal Flux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261293
+    m_Key: Campaign/Regular/The Forgotten Age/Encounter/Yig's Venom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261294
+    m_Key: Campaign/Regular/The Forgotten Age/Scenario/Heart of the Elders Part A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261295
+    m_Key: Campaign/Regular/The Forgotten Age/Scenario/Heart of the Elders Part B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261296
+    m_Key: Campaign/Regular/The Forgotten Age/Scenario/Shattered Aeons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261297
+    m_Key: Campaign/Regular/The Forgotten Age/Scenario/The Boundary Beyond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261298
+    m_Key: Campaign/Regular/The Forgotten Age/Scenario/The City of Archives
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261299
+    m_Key: Campaign/Regular/The Forgotten Age/Scenario/The Depths of Yoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261300
+    m_Key: Campaign/Regular/The Forgotten Age/Scenario/The Doom of Etzli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261301
+    m_Key: Campaign/Regular/The Forgotten Age/Scenario/The Untamed Wild
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261302
+    m_Key: Campaign/Regular/The Forgotten Age/Scenario/Threads of Fate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261303
+    m_Key: Campaign/Regular/The Forgotten Age/Scenario/Turn Back Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261304
+    m_Key: Campaign/Regular/The Innsmouth Conspiracy/Encounter/Agents of Dagon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261305
+    m_Key: Campaign/Regular/The Innsmouth Conspiracy/Encounter/Agents of Hydra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261306
+    m_Key: Campaign/Regular/The Innsmouth Conspiracy/Encounter/Creatures of the Deep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261307
+    m_Key: Campaign/Regular/The Innsmouth Conspiracy/Encounter/Flooded Caverns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261308
+    m_Key: Campaign/Regular/The Innsmouth Conspiracy/Encounter/Fog over Innsmouth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261309
+    m_Key: Campaign/Regular/The Innsmouth Conspiracy/Encounter/Malfunction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261310
+    m_Key: Campaign/Regular/The Innsmouth Conspiracy/Encounter/Rising Tide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261311
+    m_Key: Campaign/Regular/The Innsmouth Conspiracy/Encounter/Shattered Memories
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261312
+    m_Key: Campaign/Regular/The Innsmouth Conspiracy/Encounter/Syzygy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261313
+    m_Key: Campaign/Regular/The Innsmouth Conspiracy/Encounter/The Locals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261314
+    m_Key: Campaign/Regular/The Innsmouth Conspiracy/Scenario/A Light in the Fog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261315
+    m_Key: Campaign/Regular/The Innsmouth Conspiracy/Scenario/Devil Reef
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261316
+    m_Key: Campaign/Regular/The Innsmouth Conspiracy/Scenario/Horror in High Gear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261317
+    m_Key: Campaign/Regular/The Innsmouth Conspiracy/Scenario/In Too Deep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261318
+    m_Key: Campaign/Regular/The Innsmouth Conspiracy/Scenario/Into the Maelstrom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261319
+    m_Key: Campaign/Regular/The Innsmouth Conspiracy/Scenario/The Lair of Dagon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261320
+    m_Key: Campaign/Regular/The Innsmouth Conspiracy/Scenario/The Pit of Despair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261321
+    m_Key: Campaign/Regular/The Innsmouth Conspiracy/Scenario/The Vanishing of Elina
+      Harper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261322
+    m_Key: Campaign/Regular/The Path to Carcosa/Encounter/Byakhee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261323
+    m_Key: Campaign/Regular/The Path to Carcosa/Encounter/Cult of the Yellow Sign
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261324
+    m_Key: Campaign/Regular/The Path to Carcosa/Encounter/Decay & Filth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261325
+    m_Key: Campaign/Regular/The Path to Carcosa/Encounter/Delusions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261326
+    m_Key: Campaign/Regular/The Path to Carcosa/Encounter/Evil Portents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261327
+    m_Key: Campaign/Regular/The Path to Carcosa/Encounter/Hastur's Gift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261328
+    m_Key: Campaign/Regular/The Path to Carcosa/Encounter/Hauntings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261329
+    m_Key: Campaign/Regular/The Path to Carcosa/Encounter/Inhabitants of Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261330
+    m_Key: Campaign/Regular/The Path to Carcosa/Encounter/The Flood Below
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261331
+    m_Key: Campaign/Regular/The Path to Carcosa/Encounter/The Stranger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261332
+    m_Key: Campaign/Regular/The Path to Carcosa/Encounter/The Vortex Above
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261333
+    m_Key: Campaign/Regular/The Path to Carcosa/Scenario/A Phantom of Truth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261334
+    m_Key: Campaign/Regular/The Path to Carcosa/Scenario/Black Stars Rise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261335
+    m_Key: Campaign/Regular/The Path to Carcosa/Scenario/Curtain Call
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261336
+    m_Key: Campaign/Regular/The Path to Carcosa/Scenario/Dim Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261337
+    m_Key: Campaign/Regular/The Path to Carcosa/Scenario/Echoes of the Past
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261338
+    m_Key: Campaign/Regular/The Path to Carcosa/Scenario/The Last King
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261339
+    m_Key: Campaign/Regular/The Path to Carcosa/Scenario/The Pallid Mask
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261340
+    m_Key: Campaign/Regular/The Path to Carcosa/Scenario/The Unspeakable Oath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261341
+    m_Key: Campaign/Return To/Return to the Path to Carcosa/Encounter/Decaying Reality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261342
+    m_Key: Campaign/Return To/Return to the Path to Carcosa/Encounter/Delusory Evils
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261343
+    m_Key: Campaign/Return To/Return to the Path to Carcosa/Encounter/Hastur's Envoys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261344
+    m_Key: Campaign/Return To/Return to the Path to Carcosa/Encounter/Maddening Delusions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455488
+    m_Key: Campaign/Return To/Return to the Path to Carcosa/Encounter/Neurotic Fear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455489
+    m_Key: Campaign/Return To/Return to the Path to Carcosa/Scenario/Return to A
+      Phantom of Truth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455490
+    m_Key: Campaign/Return To/Return to the Path to Carcosa/Scenario/Return to Black
+      Stars Rise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455491
+    m_Key: Campaign/Return To/Return to the Path to Carcosa/Scenario/Return to Curtain
+      Call
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455492
+    m_Key: Campaign/Return To/Return to the Path to Carcosa/Scenario/Return to Dim
+      Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455493
+    m_Key: Campaign/Return To/Return to the Path to Carcosa/Scenario/Return to Echoes
+      of the Past
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455494
+    m_Key: Campaign/Return To/Return to the Path to Carcosa/Scenario/Return to The
+      Last King
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455495
+    m_Key: Campaign/Return To/Return to the Path to Carcosa/Scenario/Return to The
+      Pallid Mask
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455496
+    m_Key: Campaign/Return To/Return to the Path to Carcosa/Scenario/Return to The
+      Unspeakable Oath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455497
+    m_Key: Campaign/Return To/The Circle Undone/Encounter/Bloodthirsty Spirits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455498
+    m_Key: Campaign/Return To/The Circle Undone/Encounter/Chilling Mists
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455499
+    m_Key: Campaign/Return To/The Circle Undone/Encounter/City of the Damned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455500
+    m_Key: Campaign/Return To/The Circle Undone/Encounter/Hexcraft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455501
+    m_Key: Campaign/Return To/The Circle Undone/Encounter/Impending Evils
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455502
+    m_Key: Campaign/Return To/The Circle Undone/Encounter/Unspeakable Fate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455503
+    m_Key: Campaign/Return To/The Circle Undone/Encounter/Unstable Realm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455504
+    m_Key: Campaign/Return To/The Circle Undone/Scenario/Return to At Death's Doorstep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455505
+    m_Key: Campaign/Return To/The Circle Undone/Scenario/Return to Before the Black
+      Throne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455506
+    m_Key: Campaign/Return To/The Circle Undone/Scenario/Return to Disappearance
+      at the Twilight Estate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455507
+    m_Key: Campaign/Return To/The Circle Undone/Scenario/Return to For the Greater
+      Good
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455508
+    m_Key: Campaign/Return To/The Circle Undone/Scenario/Return to In the Clutches
+      of Chaos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455509
+    m_Key: Campaign/Return To/The Circle Undone/Scenario/Return to The Secret Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455510
+    m_Key: Campaign/Return To/The Circle Undone/Scenario/Return to The Wages of Sin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455511
+    m_Key: Campaign/Return To/The Circle Undone/Scenario/Return to The Witching Hour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455512
+    m_Key: Campaign/Return To/The Circle Undone/Scenario/Return to Union and Disillusion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455513
+    m_Key: Campaign/Return To/The Dunwich Legacy/Encounter/Beyond the Threshold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455514
+    m_Key: Campaign/Return To/The Dunwich Legacy/Encounter/Creeping Cold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455515
+    m_Key: Campaign/Return To/The Dunwich Legacy/Encounter/Erratic Fear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455516
+    m_Key: Campaign/Return To/The Dunwich Legacy/Encounter/Resurgent Evils
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455517
+    m_Key: Campaign/Return To/The Dunwich Legacy/Encounter/Secret Doors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455518
+    m_Key: Campaign/Return To/The Dunwich Legacy/Encounter/Yog-Sothoth's Emissaries
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455519
+    m_Key: Campaign/Return To/The Dunwich Legacy/Scenario/Return to Blood on the
+      Altar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455520
+    m_Key: Campaign/Return To/The Dunwich Legacy/Scenario/Return to Extracurricular
+      Activity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455521
+    m_Key: Campaign/Return To/The Dunwich Legacy/Scenario/Return to Lost in Time
+      and Space
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455522
+    m_Key: Campaign/Return To/The Dunwich Legacy/Scenario/Return to The Essex County
+      Express
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455523
+    m_Key: Campaign/Return To/The Dunwich Legacy/Scenario/Return to the House Always
+      Wins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455524
+    m_Key: Campaign/Return To/The Dunwich Legacy/Scenario/Return to The Miskatonic
+      University
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455525
+    m_Key: Campaign/Return To/The Dunwich Legacy/Scenario/Return to Undimensioned
+      and Unseen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455526
+    m_Key: Campaign/Return To/The Dunwich Legacy/Scenario/Return to Where Doom Awaits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455527
+    m_Key: Campaign/Return To/The Forgotten Age/Encounter/Cult of Pnakotus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455528
+    m_Key: Campaign/Return To/The Forgotten Age/Encounter/Doomed Expedition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455529
+    m_Key: Campaign/Return To/The Forgotten Age/Encounter/Return to the Rainforest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455530
+    m_Key: Campaign/Return To/The Forgotten Age/Encounter/Temporal Hunters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455531
+    m_Key: Campaign/Return To/The Forgotten Age/Encounter/Venomous Hate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455532
+    m_Key: Campaign/Return To/The Forgotten Age/Scenario/Return to Heart of the Elders
+      Part A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455533
+    m_Key: Campaign/Return To/The Forgotten Age/Scenario/Return to Heart of the Elders
+      Part B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455534
+    m_Key: Campaign/Return To/The Forgotten Age/Scenario/Return to Shattered Aeons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455535
+    m_Key: Campaign/Return To/The Forgotten Age/Scenario/Return to The Boundary Beyond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455536
+    m_Key: Campaign/Return To/The Forgotten Age/Scenario/Return to The City of Archives
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455537
+    m_Key: Campaign/Return To/The Forgotten Age/Scenario/Return to The Depths of
+      Yoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455538
+    m_Key: Campaign/Return To/The Forgotten Age/Scenario/Return to The Doom of Etzli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455539
+    m_Key: Campaign/Return To/The Forgotten Age/Scenario/Return to The Untamed Wild
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455540
+    m_Key: Campaign/Return To/The Forgotten Age/Scenario/Return to Threads of Fate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455541
+    m_Key: Campaign/Return To/The Forgotten Age/Scenario/Return to Turn Back Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455542
+    m_Key: Campaign Name/All or Nothing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455543
+    m_Key: Campaign Name/Bad Blood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455544
+    m_Key: Campaign Name/By the Books
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455545
+    m_Key: Campaign Name/Read or Die
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455546
+    m_Key: Campaign Name/Return to the Circle Undone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455547
+    m_Key: Campaign Name/Return to the Dunwich Legacy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455548
+    m_Key: Campaign Name/Return to the Forgotten Age
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455549
+    m_Key: Campaign Name/Return to the Path to Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455550
+    m_Key: Campaign Name/The Circle Undone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455551
+    m_Key: Campaign Name/The Dream-Eaters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455552
+    m_Key: Campaign Name/The Dunwich Legacy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455553
+    m_Key: Campaign Name/The Forgotten Age
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455554
+    m_Key: Campaign Name/The Innsmouth Conspiracy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455555
+    m_Key: Campaign Name/The Path to Carcosa
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1638263717415

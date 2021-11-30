@@ -12,10 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 441de306b4a2b46ae82f4372d27c7c01, type: 3}
   m_Name: Seeker 0
   m_EditorClassIdentifier: 
-  mainText: Seeker
+  mainText:
+    m_TableReference:
+      m_TableCollectionName: GUID:0fe55b6e16baa4337b49d27ef6014293
+    m_TableEntryReference:
+      m_KeyId: 1066455261217
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
   playerCornerDisplay: 1
   playerCornerSpec: {fileID: 11400000, guid: 7d64d3d321c4b4a3289c03e74bd65c97, type: 2}
   setDisplay: 0
   setSpec: {fileID: 0}
   iconDisplay: 0
   iconDisplayIcon: {fileID: 0}
+  references:
+    version: 1

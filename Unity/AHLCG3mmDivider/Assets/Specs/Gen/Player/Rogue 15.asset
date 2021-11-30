@@ -12,10 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 441de306b4a2b46ae82f4372d27c7c01, type: 3}
   m_Name: Rogue 15
   m_EditorClassIdentifier: 
-  mainText: Rogue
+  mainText:
+    m_TableReference:
+      m_TableCollectionName: GUID:0fe55b6e16baa4337b49d27ef6014293
+    m_TableEntryReference:
+      m_KeyId: 1066455261216
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
   playerCornerDisplay: 1
   playerCornerSpec: {fileID: 11400000, guid: f8e56314190fe44b3a6cb9e0286cea42, type: 2}
   setDisplay: 0
   setSpec: {fileID: 0}
   iconDisplay: 0
   iconDisplayIcon: {fileID: 0}
+  references:
+    version: 1

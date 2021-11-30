@@ -1,12 +1,12 @@
 using UnityEngine;
-using UnityEngine.UI;
+using UnityEngine.Localization;
 
 namespace E7.AhLcgMiniDivider
 {
     [CreateAssetMenu]
     internal class GenSpec : ScriptableObject
     {
-        [SerializeField] internal string mainText;
+        [SerializeField] internal LocalizedString mainText;
 
         [Space]
         [SerializeField] internal bool playerCornerDisplay;

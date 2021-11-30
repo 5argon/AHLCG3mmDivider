@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Localization;
 
 namespace E7.AhLcgMiniDivider
 {
@@ -6,6 +7,6 @@ namespace E7.AhLcgMiniDivider
     internal class SetSpec : ScriptableObject
     {
         [SerializeField] internal Color setStripColor;
-        [SerializeField] internal string setStripText;
+        [SerializeField] internal LocalizedString setStripText;
     }
 }
