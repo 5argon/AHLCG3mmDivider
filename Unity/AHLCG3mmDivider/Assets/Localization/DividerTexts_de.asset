@@ -318,8 +318,8 @@ MonoBehaviour:
     m_Localized: "Anh\xE4nger von Azathoth"
     m_Metadata:
       m_Items: []
-  - m_Id: 1066455261224
-    m_Localized: Anettes Hexenzirkel
+  - m_Id: 157933798154240
+    m_Localized: Schrecken aus dem Tal
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261225
@@ -434,10 +434,6 @@ MonoBehaviour:
     m_Localized: Spinnen
     m_Metadata:
       m_Items: []
-  - m_Id: 1066455261253
-    m_Localized: Schrecken aus dem Tal
-    m_Metadata:
-      m_Items: []
   - m_Id: 1066455261254
     m_Localized: "Gefl\xFCster des Hypnos"
     m_Metadata:
@@ -544,10 +540,6 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1066455261299
     m_Localized: Die Tiefen von Yoth
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261300
-    m_Localized: Das Verderben von Etzli
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261301
@@ -874,8 +866,8 @@ MonoBehaviour:
     m_Localized: "R\xFCckkehr zu: Die Tiefen von Yoth"
     m_Metadata:
       m_Items: []
-  - m_Id: 1066459455538
-    m_Localized: "R\xFCckkehr zu: Das Verderben von Etzli"
+  - m_Id: 154116885045248
+    m_Localized: Anettes Hexenzirkel
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455539
@@ -940,6 +932,14 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 117235535306754
     m_Localized: Lies oder Stirb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152899299565568
+    m_Localized: Das Verderben von Eztli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152899303759872
+    m_Localized: "R\xFCckkehr zu: Das Verderben von Eztli"
     m_Metadata:
       m_Items: []
   references:

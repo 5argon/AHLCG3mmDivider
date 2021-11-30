@@ -182,8 +182,8 @@ MonoBehaviour:
     m_Localized: Agents of Azathoth
     m_Metadata:
       m_Items: []
-  - m_Id: 1066455261224
-    m_Localized: Annette's Coven
+  - m_Id: 157933798154240
+    m_Localized: Terror of the Vale
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261225
@@ -296,10 +296,6 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1066455261252
     m_Localized: Spiders
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261253
-    m_Localized: Terror into the Vale
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261254
@@ -484,10 +480,6 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1066455261299
     m_Localized: The Depths of Yoth
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261300
-    m_Localized: The Doom of Etzli
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261301
@@ -814,8 +806,8 @@ MonoBehaviour:
     m_Localized: Return to The Depths of Yoth
     m_Metadata:
       m_Items: []
-  - m_Id: 1066459455538
-    m_Localized: Return to The Doom of Etzli
+  - m_Id: 154116885045248
+    m_Localized: Anette's Coven
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455539
@@ -1064,6 +1056,14 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 117235535306783
     m_Localized: War of the Outer Gods
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152899299565568
+    m_Localized: The Doom of Eztli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152899303759872
+    m_Localized: Return to The Doom of Eztli
     m_Metadata:
       m_Items: []
   references:

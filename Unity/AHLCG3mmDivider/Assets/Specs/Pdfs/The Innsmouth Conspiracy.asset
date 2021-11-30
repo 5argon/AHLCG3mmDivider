@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: The Innsmouth Conspiracy
+  m_EditorClassIdentifier: 
+  pdfName: The Innsmouth Conspiracy
+  genSpecs:
+  - {fileID: 11400000, guid: b69309a1b17724764b15c35c2941e504, type: 2}
+  - {fileID: 11400000, guid: 9da1413500a2e4749a0d08dacfc560df, type: 2}
+  - {fileID: 11400000, guid: cf53a6e465bbd452ba37c96391892710, type: 2}
+  - {fileID: 11400000, guid: 16e9a3ff077694e2fb1ed461b7e2c87c, type: 2}
+  - {fileID: 11400000, guid: cac48fd8c09fc4e1da1f05ab62621c7c, type: 2}
+  - {fileID: 11400000, guid: c70fc1b231e0f40f5bfe8a7767abc604, type: 2}
+  - {fileID: 11400000, guid: 3e4c067290aee4ce293a8e3b32cbcdfd, type: 2}
+  - {fileID: 11400000, guid: b8d2cb0d90c1f4acb9bda8dd65ee2682, type: 2}
+  - {fileID: 11400000, guid: 6be263a853c5b45d7bc700adaa982628, type: 2}
+  - {fileID: 11400000, guid: 2f99be0c302474906b3c87ec530f65e9, type: 2}
+  - {fileID: 11400000, guid: 2dd0e7764712341a694b34082e18f755, type: 2}
+  - {fileID: 11400000, guid: 9e17ad18ada2c4f94a6e7353864e14e3, type: 2}
+  - {fileID: 11400000, guid: 4d3a2042028754df3982e7926584d6da, type: 2}
+  - {fileID: 11400000, guid: 4c1d133f8a6aa467cb22986dac2a1f52, type: 2}
+  - {fileID: 11400000, guid: e5f82dca3e0854ab9878625a336b4da8, type: 2}
+  - {fileID: 11400000, guid: 0a75032dc2ed744f28dd3455ca9ddaa7, type: 2}
+  - {fileID: 11400000, guid: f9798b11705674b2e9eacb562bdbf698, type: 2}
+  - {fileID: 11400000, guid: 2fe3777ff36c34c64a9e5fb5283d0890, type: 2}
+  - {fileID: 11400000, guid: ae7c70d7f8f8841cfa7f042cff87573f, type: 2}
+  - {fileID: 11400000, guid: 312b3f73e5d5c4cae8ef6697c4ac1194, type: 2}
+  - {fileID: 11400000, guid: 8cf5cf4df452e470d877002e0b1a6813, type: 2}
+  - {fileID: 11400000, guid: 7f8fcea2687ce460bb39a583f9000210, type: 2}
+  - {fileID: 11400000, guid: a2c324b71510347c18436830772e2275, type: 2}
+  - {fileID: 11400000, guid: 28319de30701b41b5aba84b6a333c2e0, type: 2}
