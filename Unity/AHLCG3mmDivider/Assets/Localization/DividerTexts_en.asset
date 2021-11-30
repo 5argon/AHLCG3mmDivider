@@ -830,22 +830,6 @@ MonoBehaviour:
     m_Localized: Return to Turn Back Time
     m_Metadata:
       m_Items: []
-  - m_Id: 1066459455542
-    m_Localized: All or Nothing
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455543
-    m_Localized: Bad Blood
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455544
-    m_Localized: By the Books
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455545
-    m_Localized: Read or Die
-    m_Metadata:
-      m_Items: []
   - m_Id: 1066459455546
     m_Localized: Return to the Circle Undone
     m_Metadata:
@@ -944,6 +928,138 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 68803349176332
     m_Localized: Return to The Unspeakable Oath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235484975104
+    m_Localized: All or Nothing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306752
+    m_Localized: Bad Blood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306753
+    m_Localized: By the Books
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306754
+    m_Localized: Read or Die
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306755
+    m_Localized: The Meddling of Meowlathotep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306756
+    m_Localized: The Bayou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306757
+    m_Localized: Abyssal Gifts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306758
+    m_Localized: Abyssal Tribute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306759
+    m_Localized: Brotherhood of the Beast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306760
+    m_Localized: Sands of Egypt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306761
+    m_Localized: The Eternal Slumber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306762
+    m_Localized: The Night's Usurper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306763
+    m_Localized: Alien Interference
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306764
+    m_Localized: Dark Rituals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306765
+    m_Localized: Excelsior Management
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306766
+    m_Localized: Sins of the Past
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306767
+    m_Localized: Vile Experiments
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306768
+    m_Localized: Epic Multiplayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306769
+    m_Localized: Mi-Go Incursion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306770
+    m_Localized: Single Group
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306771
+    m_Localized: Epic Multiplayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306772
+    m_Localized: Single Group
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306773
+    m_Localized: Children of Paradise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306774
+    m_Localized: Death of Stars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306775
+    m_Localized: Swarm of Assimilation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306776
+    m_Localized: Barkham Horror
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306777
+    m_Localized: Carnevale of Horrors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306778
+    m_Localized: Curse of the Rougarou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306779
+    m_Localized: Guardians of the Abyss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306780
+    m_Localized: Murder at the Excelsior Hotel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306781
+    m_Localized: The Blob That Ate Everything
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306782
+    m_Localized: The Labyrinths of Lunacy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306783
+    m_Localized: War of the Outer Gods
     m_Metadata:
       m_Items: []
   references:
