@@ -35,17 +35,18 @@ namespace E7.AhLcgMiniDivider
             controllerSettings.SetRecordModeToManual();
             var recorderController = new RecorderController(controllerSettings);
             recorderController.PrepareRecording();
-
-            for (var i = 0; i < 3; i++)
-            {
-                yield return null;
-            }
-
             var dividersFolder = Path.Combine(Application.dataPath, "..", "..", "..", "Dividers");
             Directory.CreateDirectory(dividersFolder);
             Directory.Delete(dividersFolder, true);
 
             recorderController.StartRecording();
+
+            // For some reason without this it misses first few images...
+            for (var i = 0; i < 20; i++)
+            {
+                yield return null;
+            }
+
             foreach (var l in locales)
             {
                 LocalizationSettings.SelectedLocale = l;

@@ -314,5 +314,261 @@ MonoBehaviour:
     m_Localized: "Das Verm\xE4chtnis von Dunwich"
     m_Metadata:
       m_Items: []
+  - m_Id: 1066455261223
+    m_Localized: "Anh\xE4nger von Azathoth"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261224
+    m_Localized: Anettes Hexenzirkel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261225
+    m_Localized: "Stadt der S\xFCnden"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261226
+    m_Localized: Unerbittliches Schicksal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261227
+    m_Localized: "Kl\xE4nge der Verdammten"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261228
+    m_Localized: Reich des Todes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261229
+    m_Localized: Geheimnisse des Universums
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261230
+    m_Localized: "Silberloge der D\xE4mmerung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261231
+    m_Localized: "Geisterhafte R\xE4uber"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261232
+    m_Localized: Der Beobachter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261233
+    m_Localized: Gefangene Geister
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261234
+    m_Localized: Hexenkunst
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261235
+    m_Localized: Auf der Schwelle des Todes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261236
+    m_Localized: Vor dem Schwarzen Thron
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261237
+    m_Localized: "Die Vermissten vom Anwesen der D\xE4mmerung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261238
+    m_Localized: "F\xFCr das gro\xDFe Ganze"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261239
+    m_Localized: "In den F\xE4ngen des Chaos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261240
+    m_Localized: Der geheime Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261241
+    m_Localized: "Der S\xFCnde Lohn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261242
+    m_Localized: Hexenstunde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261243
+    m_Localized: "Einheit und Ern\xFCchterung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261244
+    m_Localized: "Anh\xE4nger von Atlach-Nacha"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261245
+    m_Localized: "Anh\xE4nger von Nyarlathotep"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261246
+    m_Localized: Korsaren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261247
+    m_Localized: Kreaturen aus der Unterwelt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261248
+    m_Localized: "Abstieg in die Schw\xE4rze"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261249
+    m_Localized: "Der Fluch des Tr\xE4umers"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261250
+    m_Localized: Traumlande
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261251
+    m_Localized: "Vermischte Realit\xE4ten"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261252
+    m_Localized: Spinnen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261253
+    m_Localized: Schrecken aus dem Tal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261254
+    m_Localized: "Gefl\xFCster des Hypnos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261255
+    m_Localized: Zoogs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261256
+    m_Localized: Tausend Formen des Schreckens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261257
+    m_Localized: Hinter den Toren des Schlafes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261258
+    m_Localized: Die dunkle Seite des Mondes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261259
+    m_Localized: "Kein Zur\xFCck mehr"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261260
+    m_Localized: Die Suche nach Kadath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261261
+    m_Localized: Erwachter Abtraum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261262
+    m_Localized: Weber des Kosmos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261263
+    m_Localized: "Wo G\xF6tter wohnen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261281
+    m_Localized: Agenten des Yig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261282
+    m_Localized: "T\xF6dliche Fallen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261283
+    m_Localized: Expedition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261284
+    m_Localized: Vergessene Ruinen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261285
+    m_Localized: "W\xE4chter der Zeit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261288
+    m_Localized: Pnakotische Bruderschaft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261289
+    m_Localized: Gift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261290
+    m_Localized: Regenwald
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261291
+    m_Localized: Schlangen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261292
+    m_Localized: "Zeitstr\xF6mung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261293
+    m_Localized: Yigs Gift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261294
+    m_Localized: "Das Herz der \xC4lteren A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261295
+    m_Localized: "Das Herz der \xC4lteren B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261296
+    m_Localized: "Zest\xF6rte Zeitalter"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261297
+    m_Localized: Die jenseitige Grenze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261298
+    m_Localized: Die Archivstadt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261299
+    m_Localized: Die Tiefen von Yoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261300
+    m_Localized: Das Verderben von Etzli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261301
+    m_Localized: "Die ungez\xE4hmte Wildnis"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261302
+    m_Localized: "F\xE4den des Schicksals"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261303
+    m_Localized: "Die Zeit zur\xFCckdrehen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261339
+    m_Localized: Die bleiche Maske
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261340
+    m_Localized: Der unaussprechliche Eid
+    m_Metadata:
+      m_Items: []
   references:
     version: 1
