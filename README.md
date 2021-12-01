@@ -103,13 +103,19 @@ After you have added some translations, you can ping me somewhere, like in [BGG 
 
 ## How to use
 
+### Download
+
 Download everything as a `.zip` by clicking the **green button** on around top-right corner of this page then select "Download ZIP". Alternatively you can try [this direct link](https://github.com/5argon/AHLCG3mmDivider/archive/refs/heads/main.zip).
 
 Look inside `Dividers` folder. Inside you will find a folder representing a language code, then category folders ending in number of dividers inside that folder (e.g. `8x`, `16x`). Dividers in the same folder are meant to be grouped in the same paper when you send to print shop, as they are likely used together. (e.g. for the same campaign box.)
 
-And notice that file number is a multiple of 8, because A4 is a common size of paper and that size could fit at most 8 dividers per sheet. If some category is not quite at the multiple of 8 yet, they are filled with some extra generic dividers until it is a multiple of 8. If you use bigger or smaller size of paper than A4, you can try merging multiple folders or take out those extra generic dividers as needed.
+And notice that file number is a multiple of 8, because A4 is a common size of paper and that size could fit at most 8 dividers per sheet. If some category is not quite at the multiple of 8 yet, they are filled with some extra dividers until it is a multiple of 8. If you use bigger or smaller size of paper than A4, you can try merging multiple folders or take out those extra generic dividers as needed.
 
-Send items in the same folder into any program that can laid them out on paper size then save a merged image for printing. (In macOS for example, Photos program can do this.) Make sure size of each divider is physically 93mm x 68mm on the paper (1098x804 px at 300 DPI), some programs like to offer scaling to fit. Make sure that is off.
+### Layout, print, and cut
+
+Send items in the same folder into any program that can laid them out on paper size then save a merged image for printing. Make sure size of each divider is physically 93mm x 68mm on the paper (1098x804 px at 300 DPI), some programs like to offer scaling to fit. Make sure that is off.
+
+- [See examples of using "Photos" app in macOS or "IrfanView Thumbnails" on Windows to do this.](./print.md)
 
 After that you can cut them up. You will be making skill test (4) on cutting since there is little room for error before the text is also trimmed off. I also forgot to make the graphic bleed outside of cut line to accommodate cutting errors.
 
