@@ -25,6 +25,8 @@ namespace E7.AhLcgMiniDivider
 
         [SerializeField] private StripRef strip2;
 
+        [SerializeField] private StripRef strip3;
+
         [Space]
         [SerializeField] private IconRef icon1;
 
@@ -51,7 +53,16 @@ namespace E7.AhLcgMiniDivider
             }
 
             strip1.ApplySpec(gs);
-            strip2.ApplySpec(gs);
+            if (!gs.lowerVerticalStrip)
+            {
+                strip2.ApplySpec(gs);
+                strip3.go.SetActive(false);
+            }
+            else
+            {
+                strip3.ApplySpec(gs);
+                strip2.go.SetActive(false);
+            }
 
             icon1.ApplySpec(gs);
             icon2.ApplySpec(gs);
