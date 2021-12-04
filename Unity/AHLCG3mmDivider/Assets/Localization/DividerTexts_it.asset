@@ -103,7 +103,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261206
-    m_Localized: Ritorno a... La Notte della Zelota
+    m_Localized: Ritorno a La Notte della Zelota
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261209
@@ -292,6 +292,182 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 62739937484800
     m_Localized: Ai Confini della Terra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261223
+    m_Localized: Agenti di Azathoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154116885045248
+    m_Localized: Congrega di Anette
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261225
+    m_Localized: "Citt\xE0 dei Peccati"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261226
+    m_Localized: Fato Inesorabile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261228
+    m_Localized: Reame della Morte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261230
+    m_Localized: Loggia del Crepuscolo d'Argento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261231
+    m_Localized: Predatori Spettrali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261232
+    m_Localized: Osservatore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261233
+    m_Localized: Spiriti Intrappolati
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261234
+    m_Localized: Malia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261235
+    m_Localized: Sulla Soglia della Morte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261236
+    m_Localized: Al Cospetto del Trono Nero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261237
+    m_Localized: Sparizione alla Villa del Crepuscolo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261238
+    m_Localized: Per il Bene Superiore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261239
+    m_Localized: Nelle Grinfie del Caos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261240
+    m_Localized: Il Nome Segreto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261241
+    m_Localized: Il Prezzo del Peccato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261242
+    m_Localized: L'Ora delle Streghe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261243
+    m_Localized: Unione e Disillusione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261304
+    m_Localized: Agenti di Dagon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261305
+    m_Localized: Agenti di Idra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261306
+    m_Localized: Creature dagli Abissi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261307
+    m_Localized: Grotte Allagate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261308
+    m_Localized: Nebbia su Innsmouth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261309
+    m_Localized: Guasto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261310
+    m_Localized: Alta Marea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261311
+    m_Localized: Ricordi Infranti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261312
+    m_Localized: Sizigia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261313
+    m_Localized: Autoctoni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261314
+    m_Localized: Una Luce nella Nebbia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261315
+    m_Localized: Lo Scoglio del Diavolo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261316
+    m_Localized: "Orrore ad Alta Velocit\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261317
+    m_Localized: Con l'Acqua alla Gola
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261318
+    m_Localized: Nel Maelstrom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261319
+    m_Localized: Il Covo di Dagon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261320
+    m_Localized: La Grotta della Disperazione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261321
+    m_Localized: La Scomparsa di Elina Harper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306777
+    m_Localized: Il Carnevale degli Orrori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306778
+    m_Localized: La Maledizione del Rougarou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306779
+    m_Localized: I Guardiani dell'Abisso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306780
+    m_Localized: Omicidio all'Hotel Excelsior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306781
+    m_Localized: "La Melma che Divor\xF2 Ogni Cosa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306782
+    m_Localized: I Labirinti della Follia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306783
+    m_Localized: La Guerra degli Dei Esterni
     m_Metadata:
       m_Items: []
   references:

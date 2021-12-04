@@ -942,5 +942,125 @@ MonoBehaviour:
     m_Localized: "R\xFCckkehr zu: Das Verderben von Eztli"
     m_Metadata:
       m_Items: []
+  - m_Id: 117235535306755
+    m_Localized: Die Verstrickung des Miaulathotep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306756
+    m_Localized: Der Bayou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306757
+    m_Localized: Gaben des Abgrunds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306758
+    m_Localized: "Tribut f\xFCr den Abrund"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306759
+    m_Localized: Bruderschaft der Bestie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306760
+    m_Localized: "\xC4gyptischer Sand"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306761
+    m_Localized: Der ewige Schlaf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306762
+    m_Localized: Usurpator der Nacht
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306763
+    m_Localized: "Au\xDFerirdische Einmischung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306764
+    m_Localized: Dunkle Rituale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306765
+    m_Localized: Excelsior-Management
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306766
+    m_Localized: "S\xFCnden der Vergangenheit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306767
+    m_Localized: Abscheuliche Experimente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306768
+    m_Localized: Epischer Mehrspielermodus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306769
+    m_Localized: Mi-Go Ansturm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306770
+    m_Localized: Einzelspielermodus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306771
+    m_Localized: Epischer Mehrspielermodus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306772
+    m_Localized: Einzelspielermodus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306773
+    m_Localized: Kinder des Paradieses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306774
+    m_Localized: Der Tod der Sterne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306775
+    m_Localized: Assimilierender Schwarm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306776
+    m_Localized: Barkham Horror
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306777
+    m_Localized: Karneval des Schreckens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306778
+    m_Localized: Der Fluch des Rougarou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306779
+    m_Localized: "W\xE4chter des Abgrunds"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119936797106176
+    m_Localized: Machenschaften in der Zeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306780
+    m_Localized: Mord im Excelsior-Hotel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306781
+    m_Localized: "Der Blob, der alles fra\xDF"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306782
+    m_Localized: Die Labyrinthe des Irrsinns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306783
+    m_Localized: "Krieg der \xC4u\xDFeren G\xF6tter"
+    m_Metadata:
+      m_Items: []
   references:
     version: 1
