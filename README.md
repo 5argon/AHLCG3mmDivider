@@ -55,6 +55,12 @@ Each "set" is one folder inside the language folder. Each folder is optimized ar
 - Extra x8 : Some extras such as deck dividers, bonded, etc.
 - Core Set x16 : Night of the Zealot + Core Set encounters
 
+#### Per-expansion Player Cards
+
+Like "Player" but with expansion set markings. For people who don't mix cards from different expansion sets, or mix but still segmented according to collector's number and icons.
+
+- Edge of the Earth
+
 #### Expansion
 
 - The Dunwich Legacy x24 (Padded with : Murder at the Excelsior Hotel)

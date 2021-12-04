@@ -9,18 +9,24 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b1e75ca6b8044563842653c16ee3cb17, type: 3}
-  m_Name: Edge of the Earth
+  m_Script: {fileID: 11500000, guid: 441de306b4a2b46ae82f4372d27c7c01, type: 3}
+  m_Name: Survivor 0
   m_EditorClassIdentifier: 
-  setStripColor: {r: 0.2509804, g: 0.62352943, b: 0.7254902, a: 1}
-  setStripText:
+  mainText:
     m_TableReference:
       m_TableCollectionName: GUID:0fe55b6e16baa4337b49d27ef6014293
     m_TableEntryReference:
-      m_KeyId: 62739937484800
+      m_KeyId: 1066455261218
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0
     m_LocalVariables: []
+  playerCornerDisplay: 1
+  playerCornerSpec: {fileID: 11400000, guid: 9ed3528e208414e33a513ca50729f2d4, type: 2}
+  setDisplay: 1
+  setSpec: {fileID: 11400000, guid: 99cd2616ad3014b7b883027bb1db59a8, type: 2}
+  lowerVerticalStrip: 1
+  iconDisplay: 0
+  iconDisplayIcon: {fileID: 0}
   references:
     version: 1

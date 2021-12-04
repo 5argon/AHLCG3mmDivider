@@ -17,6 +17,7 @@ namespace E7.AhLcgMiniDivider
         [SerializeField] internal bool setDisplay;
 
         [SerializeField] internal SetSpec setSpec;
+        [SerializeField] internal bool lowerVerticalStrip;
 
         [Space]
         [SerializeField] internal bool iconDisplay;
