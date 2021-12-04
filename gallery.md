@@ -34,3 +34,9 @@ Unlike Boulder, this box still has wiggle room and can close nicely.
 ![Image](./Images/sidewinder-1.jpg)
 ![Image](./Images/sidewinder-2.jpg)
 ![Image](./Images/sidewinder-3.jpg)
+
+## Sleeving
+
+![Image](./Images/sleeve-1.jpg)
+
+It is a perfect fit inside KMC Character Sleeve Guard (69x94 mm). Depending on thickness of your paper, you may have trouble fitting this in without destroying the edge. I used 300 gsm paper and it is pretty difficult to get each one in.
