@@ -470,5 +470,13 @@ MonoBehaviour:
     m_Localized: La Guerra degli Dei Esterni
     m_Metadata:
       m_Items: []
+  - m_Id: 1775737471229952
+    m_Localized: 2 Classi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775737475424256
+    m_Localized: 3 Classi
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

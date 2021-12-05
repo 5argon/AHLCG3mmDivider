@@ -1062,5 +1062,13 @@ MonoBehaviour:
     m_Localized: "Krieg der \xC4u\xDFeren G\xF6tter"
     m_Metadata:
       m_Items: []
+  - m_Id: 1775737471229952
+    m_Localized: 2 Klassen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775737475424256
+    m_Localized: 3 Klassen
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

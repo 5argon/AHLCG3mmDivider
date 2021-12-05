@@ -966,6 +966,14 @@ MonoBehaviour:
     m_Key: Player/Deck Divider/Deck 4
     m_Metadata:
       m_Items: []
+  - m_Id: 1775737471229952
+    m_Key: Player/Multi-Class/2 Classes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775737475424256
+    m_Key: Player/Multi-Class/3 Classes
+    m_Metadata:
+      m_Items: []
   - m_Id: 117235535306755
     m_Key: Standalone Scenario/Barkham Horror/The Meddling of Meowlathotep
     m_Metadata:

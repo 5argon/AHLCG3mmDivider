@@ -14,7 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pdfName: Player Alt
   genSpecs:
-  - {fileID: 11400000, guid: b48086820cb1944fd9452b2f6358df4f, type: 2}
   - {fileID: 11400000, guid: 40de0217e8e91496fac7c88fa1e01897, type: 2}
   - {fileID: 11400000, guid: 6748b8f75b0364872ae0887efa681936, type: 2}
   - {fileID: 11400000, guid: 2cd1d7b1fdec646d6a8872548fe567c6, type: 2}
@@ -30,3 +29,4 @@ MonoBehaviour:
   - {fileID: 11400000, guid: cc4c678cbd18d40388250de96f3a87ce, type: 2}
   - {fileID: 11400000, guid: 479afe27105d3492893006c36efcf144, type: 2}
   - {fileID: 11400000, guid: ae7c70d7f8f8841cfa7f042cff87573f, type: 2}
+  - {fileID: 11400000, guid: b48086820cb1944fd9452b2f6358df4f, type: 2}
