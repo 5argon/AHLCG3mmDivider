@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: Player - Edge of the Earth - Multi-Class
+  m_EditorClassIdentifier: 
+  pdfName: Player - Edge of the Earth - Multi-Class
+  genSpecs:
+  - {fileID: 11400000, guid: 04ecee6019d1348fcbdef20661bdf5ce, type: 2}
+  - {fileID: 11400000, guid: 68d114376eb614a45b6fd049a3c1d6a7, type: 2}
+  - {fileID: 11400000, guid: 9c2a9538b618a49f8af614d46095fe53, type: 2}
+  - {fileID: 11400000, guid: 47277dd71759346f398e737742ce813a, type: 2}
+  - {fileID: 11400000, guid: 6c74e58c8675846228bd9c67dc28e3a8, type: 2}
+  - {fileID: 11400000, guid: 2ed48aac4e77f474cb3b2d01248b8f25, type: 2}
+  - {fileID: 11400000, guid: d0fa80efdbc7349b9b3a99cccedf30f4, type: 2}
+  - {fileID: 11400000, guid: 9705421c3d6b34241beedc6575c1caad, type: 2}
+  - {fileID: 11400000, guid: c80ea7a4f01ce4a11a7fd750ea839d86, type: 2}
+  - {fileID: 11400000, guid: 8976189a7cef74039b32069f62cefd4c, type: 2}
+  - {fileID: 11400000, guid: acc485b00b7654f82b6118cf907a20ae, type: 2}
+  - {fileID: 11400000, guid: 5aa6c72c3cc44437089798f889f268ba, type: 2}
+  - {fileID: 11400000, guid: f2d0c0d6340564e28b7b4fe6fbe3cb9e, type: 2}
+  - {fileID: 11400000, guid: 861ec4be5389a4501aa74e0626b04b78, type: 2}
+  - {fileID: 11400000, guid: 50f6597c096dd4b189a0849e901b7f54, type: 2}
+  - {fileID: 11400000, guid: b5183d735fb0047e8aa4478cdbd0e865, type: 2}

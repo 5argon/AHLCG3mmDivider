@@ -32,6 +32,11 @@ namespace E7.AhLcgMiniDivider
 
         [SerializeField] private IconRef icon2;
 
+        [Space]
+        [SerializeField] private ClassIconRef classIconRef1;
+
+        [SerializeField] private ClassIconRef classIconRef2;
+
         [ContextMenu("Gen")]
         internal void Gen()
         {
@@ -66,6 +71,9 @@ namespace E7.AhLcgMiniDivider
 
             icon1.ApplySpec(gs);
             icon2.ApplySpec(gs);
+
+            classIconRef1.ApplySpec(gs);
+            classIconRef2.ApplySpec(gs);
 
             mainText1.text = gs.mainText.IsEmpty ? string.Empty : gs.mainText.GetLocalizedString();
             mainText2.text = gs.mainText.IsEmpty ? string.Empty : gs.mainText.GetLocalizedString();

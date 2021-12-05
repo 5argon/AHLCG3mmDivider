@@ -48,10 +48,11 @@ Each "set" is one folder inside the language folder. Each folder is optimized ar
 
 "Padded with" means unrelated dividers were added to that folder to get a multiple of 8, so not to waste blank space on the paper.
 
-#### Core Set
+#### Main Sets
 
 - Player x16 : 5 classes, neutral, multi-class, in lv.0 and lv. 1 ~ 5, basic weakness.
 - Player Alt x16 : Similar to Player but without Lv. on the corner, blank class-colored dividers, etc.
+- Player - Multi-Class x16 : Just dividers for multi-class cards, but with each permutations of 2-class and a 3-class divider. This is for use with many multi-class cards added in Edge of the Earth.
 - Extra x8 : Some extras such as deck dividers, bonded, etc.
 - Core Set x16 : Night of the Zealot + Core Set encounters
 
@@ -59,7 +60,8 @@ Each "set" is one folder inside the language folder. Each folder is optimized ar
 
 Like "Player" but with expansion set markings. For people who don't mix cards from different expansion sets, or mix but still segmented according to collector's number and icons.
 
-- Edge of the Earth
+- Player - Edge of the Earth x16
+- Player - Edge of the Earth - Multi-Class x16 : Like "Player - Multi-Class x16" but with "Edge of the Earth" set strip at the corner.
 
 #### Expansion
 

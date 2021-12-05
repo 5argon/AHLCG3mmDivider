@@ -23,5 +23,22 @@ namespace E7.AhLcgMiniDivider
         [SerializeField] internal bool iconDisplay;
 
         [SerializeField] internal Sprite iconDisplayIcon;
+
+        [Space]
+        [SerializeField] internal bool classIconDisplay;
+
+        [SerializeField] internal CardClass firstClass;
+        [SerializeField] internal CardClass secondClass;
+        [SerializeField] internal CardClass thirdClass;
+    }
+
+    internal enum CardClass
+    {
+        NoClass,
+        Guardian,
+        Seeker,
+        Rogue,
+        Mystic,
+        Survivor
     }
 }
