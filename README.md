@@ -53,17 +53,19 @@ Each "set" is one folder inside the language folder. Each folder is optimized ar
 - Player x16 : 5 classes, neutral, multi-class, in lv.0 and lv. 1 ~ 5, basic weakness.
 - Player Alt x16 : Similar to Player but without Lv. on the corner, blank class-colored dividers, etc.
 - Player - Multi-Class x16 : Just dividers for multi-class cards, but with each permutations of 2-class and a 3-class divider. This is for use with many multi-class cards added in Edge of the Earth.
+- Player - Investigator x16 : Everything says "Investigators" but with different set strip or different colored class corner. For those who order stack of investigator cards, signature asset/weakness by sets/classes.
 - Extra x8 : Some extras such as deck dividers, bonded, etc.
 - Core Set x16 : Night of the Zealot + Core Set encounters
 
 #### Per-expansion Player Cards
 
-Like "Player" but with expansion set markings. For people who don't mix cards from different expansion sets, or mix but still segmented according to collector's number and icons.
+For people who prefer to keep cards added from sets separate in their box. Or also works for mixed collection that order by collector's number since the number restarts on new expansion.
 
 - Player - Edge of the Earth x16
+- Player Alt - Edge of the Earth x8
 - Player - Edge of the Earth - Multi-Class x16 : Like "Player - Multi-Class x16" but with "Edge of the Earth" set strip at the corner.
 
-#### Expansion
+#### Expansions
 
 - The Dunwich Legacy x24 (Padded with : Murder at the Excelsior Hotel)
 - The Path to Carcosa x24 (Padded with : War of the Outer Gods)
@@ -71,6 +73,7 @@ Like "Player" but with expansion set markings. For people who don't mix cards fr
 - The Circle Undone x24 (Padded with : Curse of the Rougarou)
 - The Dream-Eaters x24 (Padded with : The Labyrinths of Lunacy)
 - The Innsmouth Conspiracy x24 (Padded with : The Blob That Ate Everything)
+- Edge of the Earth x32
 
 #### Standalone Scenarios
 

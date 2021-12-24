@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d75cdb6396146c38ce28d63d8518960, type: 3}
   m_Name: Gold-Lv0
   m_EditorClassIdentifier: 
-  playerCornerColor: {r: 0.8784314, g: 0.7058824, b: 0.40784314, a: 1}
+  playerCornerColor: {r: 0.70199996, g: 0.62598723, b: 0.371121, a: 1}
   playerCornerText:
     m_TableReference:
       m_TableCollectionName: GUID:0fe55b6e16baa4337b49d27ef6014293

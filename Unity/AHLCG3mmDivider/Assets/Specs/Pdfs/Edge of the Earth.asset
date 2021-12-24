@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: Edge of the Earth
+  m_EditorClassIdentifier: 
+  pdfName: Edge of the Earth
+  genSpecs:
+  - {fileID: 11400000, guid: 19977184a487344659a646d1ec41d6b5, type: 2}
+  - {fileID: 11400000, guid: f78e095eb3a8b4eb887f27f033c5e473, type: 2}
+  - {fileID: 11400000, guid: 6ec169b23892f4ab8a69d31d842cc648, type: 2}
+  - {fileID: 11400000, guid: 8a80e7dbe48824bf99de59721128e732, type: 2}
+  - {fileID: 11400000, guid: e851a2ae150524eac97cab90b37b06cf, type: 2}
+  - {fileID: 11400000, guid: df3f02420bf2c43cda9dafa8670b8564, type: 2}
+  - {fileID: 11400000, guid: ebf453bc0e02b47aeb3f8cb842ef3260, type: 2}
+  - {fileID: 11400000, guid: 61c16b7d7a0bc4f2da40545120276f0b, type: 2}
+  - {fileID: 11400000, guid: 003a18905c8264e848369bcdffd31bc0, type: 2}
+  - {fileID: 11400000, guid: b8951b2e2fbdd47d3b1c97d80fead404, type: 2}
+  - {fileID: 11400000, guid: 6cfb0d1b6657d4a87a1e552da782120e, type: 2}
+  - {fileID: 11400000, guid: b4cccb8cde73b4f4fa626d1b0fb951ed, type: 2}
+  - {fileID: 11400000, guid: 193e8167286eb4bd4b4a4774f03bfe35, type: 2}
+  - {fileID: 11400000, guid: 9ed74242fbd64404eae2a9bd04cbe81c, type: 2}
+  - {fileID: 11400000, guid: 515ccc1ce69ef46c88861efd1125492f, type: 2}
+  - {fileID: 11400000, guid: f2d792ea752824578b5370a496cc0e22, type: 2}
+  - {fileID: 11400000, guid: af25e8aa86ab548c5a43f139d884eb67, type: 2}
+  - {fileID: 11400000, guid: 96c1170e13ef241399c808c088c1c819, type: 2}
+  - {fileID: 11400000, guid: e7cfc027718134b8ba6b079686309d80, type: 2}
+  - {fileID: 11400000, guid: ba39763364b454d1983b8e36dc5f966d, type: 2}
+  - {fileID: 11400000, guid: bfbd413e8f6d64ee59f782e525052b3b, type: 2}
+  - {fileID: 11400000, guid: a3e22ea53a19242029e76d3d558d6b29, type: 2}
+  - {fileID: 11400000, guid: e8cc61c4bbe394b1aaf788a7d2ccd6cf, type: 2}
+  - {fileID: 11400000, guid: 26f1916b27634408b9474a7c08391e95, type: 2}
+  - {fileID: 11400000, guid: c7f84e0744e974120a72e6794d4177b0, type: 2}
+  - {fileID: 11400000, guid: e5d1c71390d3a447590d2634e796361e, type: 2}
+  - {fileID: 11400000, guid: e5a2264c9cd6e46b8b3b3953fb42fc02, type: 2}
+  - {fileID: 11400000, guid: cde2a6f00939146bcb09d34ae9165937, type: 2}
+  - {fileID: 11400000, guid: 823e7a629e84a4539a3cdb0604107059, type: 2}
+  - {fileID: 11400000, guid: e40e12c39367945a2a4c496fa4676044, type: 2}
+  - {fileID: 11400000, guid: e056301f76a6a4b57bec649bf06772a8, type: 2}
+  - {fileID: 11400000, guid: a183ed2d208c9499d9c0ab2df42c7a43, type: 2}

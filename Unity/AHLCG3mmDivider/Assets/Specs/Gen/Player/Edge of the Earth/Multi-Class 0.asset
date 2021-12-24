@@ -28,5 +28,9 @@ MonoBehaviour:
   lowerVerticalStrip: 1
   iconDisplay: 0
   iconDisplayIcon: {fileID: 0}
+  classIconDisplay: 0
+  firstClass: 0
+  secondClass: 0
+  thirdClass: 0
   references:
     version: 1

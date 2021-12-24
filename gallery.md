@@ -18,7 +18,7 @@ Tiny but still OK to see what is what at a glance from above.
 ![Image](./Images/boulder-1.jpg)
 ![Image](./Images/boulder-2.jpg)
 
-Can close, but very tight. I think it would have trouble closing if you sleeve the dividers.
+Can close, but very tight. If divider is sleeved in KMC Character Sleeve, they won't fit in the Boulder anymore.
 
 ![Image](./Images/boulder-3.jpg)
 

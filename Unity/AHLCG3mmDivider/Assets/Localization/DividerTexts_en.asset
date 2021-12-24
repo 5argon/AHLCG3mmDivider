@@ -1074,5 +1074,129 @@ MonoBehaviour:
     m_Localized: 3 Classes
     m_Metadata:
       m_Items: []
+  - m_Id: 8864346468769792
+    m_Localized: Agents of the Unknown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964096
+    m_Localized: Creatures in the Ice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964097
+    m_Localized: Deadly Weather
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964098
+    m_Localized: Elder Things
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964099
+    m_Localized: Expedition Team
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964100
+    m_Localized: Hazards of Antarctica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964101
+    m_Localized: Left Behind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964102
+    m_Localized: Lost in the Night
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964103
+    m_Localized: Memorials of the Lost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964104
+    m_Localized: Miasma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964105
+    m_Localized: Nameless Horrors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964106
+    m_Localized: Penguins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964107
+    m_Localized: Seeping Nightmares
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964108
+    m_Localized: Shoggoths
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964109
+    m_Localized: Silence and Mystery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964110
+    m_Localized: Stirring in the Deep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964111
+    m_Localized: Tekeli-li
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964112
+    m_Localized: The Crash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964113
+    m_Localized: The Great Seal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964114
+    m_Localized: City of the Elder Things
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964115
+    m_Localized: Fatal Mirage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964116
+    m_Localized: Ice and Death
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964117
+    m_Localized: Ice and Death, Part I
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964118
+    m_Localized: Ice and Death, Part II
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964119
+    m_Localized: Ice and Death, Part III
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964120
+    m_Localized: The Heart of Madness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964121
+    m_Localized: The Heart of Madness, Part I
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964122
+    m_Localized: The Heart of Madness, Part II
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964123
+    m_Localized: To the Forbidden Peaks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8891433854427136
+    m_Localized: Challenge Scenario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8891433858621440
+    m_Localized: Parallel Investigator
+    m_Metadata:
+      m_Items: []
   references:
     version: 1
