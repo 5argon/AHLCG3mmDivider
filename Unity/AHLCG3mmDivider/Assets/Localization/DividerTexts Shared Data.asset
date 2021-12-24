@@ -67,6 +67,124 @@ MonoBehaviour:
     m_Key: Campaign/Regular/Core Set/Encounter/Striking Fear
     m_Metadata:
       m_Items: []
+  - m_Id: 8864346468769792
+    m_Key: Campaign/Regular/Edge of the Earth/Encounter/Agents of the Unknown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964096
+    m_Key: Campaign/Regular/Edge of the Earth/Encounter/Creatures in the Ice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964097
+    m_Key: Campaign/Regular/Edge of the Earth/Encounter/Deadly Weather
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964098
+    m_Key: Campaign/Regular/Edge of the Earth/Encounter/Elder Things
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964099
+    m_Key: Campaign/Regular/Edge of the Earth/Encounter/Expedition Team
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964100
+    m_Key: Campaign/Regular/Edge of the Earth/Encounter/Hazards of Antarctica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964101
+    m_Key: Campaign/Regular/Edge of the Earth/Encounter/Left Behind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964102
+    m_Key: Campaign/Regular/Edge of the Earth/Encounter/Lost in the Night
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964103
+    m_Key: Campaign/Regular/Edge of the Earth/Encounter/Memorials of the Lost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964104
+    m_Key: Campaign/Regular/Edge of the Earth/Encounter/Miasma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964105
+    m_Key: Campaign/Regular/Edge of the Earth/Encounter/Nameless Horrors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964106
+    m_Key: Campaign/Regular/Edge of the Earth/Encounter/Penguins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964107
+    m_Key: Campaign/Regular/Edge of the Earth/Encounter/Seeping Nightmares
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964108
+    m_Key: Campaign/Regular/Edge of the Earth/Encounter/Shoggoths
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964109
+    m_Key: Campaign/Regular/Edge of the Earth/Encounter/Silence and Mystery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964110
+    m_Key: Campaign/Regular/Edge of the Earth/Encounter/Stirring in the Deep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964111
+    m_Key: Campaign/Regular/Edge of the Earth/Encounter/Tekeli-li
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964112
+    m_Key: Campaign/Regular/Edge of the Earth/Encounter/The Crash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964113
+    m_Key: Campaign/Regular/Edge of the Earth/Encounter/The Great Seal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964114
+    m_Key: Campaign/Regular/Edge of the Earth/Scenario/City of the Elder Things
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964115
+    m_Key: Campaign/Regular/Edge of the Earth/Scenario/Fatal Mirage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964116
+    m_Key: Campaign/Regular/Edge of the Earth/Scenario/Ice and Death
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964117
+    m_Key: Campaign/Regular/Edge of the Earth/Scenario/Ice and Death, Part I
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964118
+    m_Key: Campaign/Regular/Edge of the Earth/Scenario/Ice and Death, Part II
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964119
+    m_Key: Campaign/Regular/Edge of the Earth/Scenario/Ice and Death, Part III
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964120
+    m_Key: Campaign/Regular/Edge of the Earth/Scenario/The Heart of Madness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964121
+    m_Key: Campaign/Regular/Edge of the Earth/Scenario/The Heart of Madness, Part
+      I
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964122
+    m_Key: Campaign/Regular/Edge of the Earth/Scenario/The Heart of Madness, Part
+      II
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964123
+    m_Key: Campaign/Regular/Edge of the Earth/Scenario/To the Forbidden Peaks
+    m_Metadata:
+      m_Items: []
   - m_Id: 1066455261195
     m_Key: Campaign/Regular/Night of the Zealot/Scenario/The Devourer Below
     m_Metadata:
@@ -830,6 +948,10 @@ MonoBehaviour:
       Oath
     m_Metadata:
       m_Items: []
+  - m_Id: 8891433854427136
+    m_Key: Campaign Name/Challenge Scenario
+    m_Metadata:
+      m_Items: []
   - m_Id: 1066455261204
     m_Key: Campaign Name/Core Set
     m_Metadata:
@@ -920,6 +1042,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1066455261211
     m_Key: Player/Category/Investigators
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8891433858621440
+    m_Key: Player/Category/Parallel Investigator
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261212

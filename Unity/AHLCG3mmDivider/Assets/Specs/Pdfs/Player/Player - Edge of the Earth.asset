@@ -14,19 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pdfName: Player - Edge of the Earth
   genSpecs:
-  - {fileID: 11400000, guid: b5183d735fb0047e8aa4478cdbd0e865, type: 2}
-  - {fileID: 11400000, guid: ae7c70d7f8f8841cfa7f042cff87573f, type: 2}
-  - {fileID: 11400000, guid: 9154ddc60248e4136a76929173d37aa1, type: 2}
-  - {fileID: 11400000, guid: 3de01eec1117a4d9388ba405e650f1fc, type: 2}
-  - {fileID: 11400000, guid: f2d0c0d6340564e28b7b4fe6fbe3cb9e, type: 2}
-  - {fileID: 11400000, guid: 861ec4be5389a4501aa74e0626b04b78, type: 2}
-  - {fileID: 11400000, guid: d4dce2cc972e34b33ae41479bb896772, type: 2}
-  - {fileID: 11400000, guid: cf38cf4ddc6864095bdcbe0efa51a0b2, type: 2}
-  - {fileID: 11400000, guid: f04d362f792cb44eb912aed3e0a3326b, type: 2}
-  - {fileID: 11400000, guid: 4f5e60f4ae1e74e4d93be6c00d964e2f, type: 2}
-  - {fileID: 11400000, guid: dced16a1ceea846cd832e79872e49557, type: 2}
-  - {fileID: 11400000, guid: 218ea06c60e9a4192bca2670599741e4, type: 2}
-  - {fileID: 11400000, guid: 514522219df8546a39bb6218f714c2a3, type: 2}
-  - {fileID: 11400000, guid: 93fefa8521f804f9aadd4f3711780680, type: 2}
-  - {fileID: 11400000, guid: e9c04f71ad9544d1192bb127e227e7ed, type: 2}
-  - {fileID: 11400000, guid: 1f714334c95b14f589a8f1b2488ea355, type: 2}
+  - {fileID: 11400000, guid: aaf939e7e8b234322bff8ae4bc5c7711, type: 2}
+  - {fileID: 11400000, guid: bdd98cc23daba4d2cb8f342e0447e864, type: 2}
+  - {fileID: 11400000, guid: 2482378241b774794aa8c7fa9a352e76, type: 2}
+  - {fileID: 11400000, guid: 5f50c29b424954faf988650406db6c3c, type: 2}
+  - {fileID: 11400000, guid: d135e8e2837bb44fdab377079f47197c, type: 2}
+  - {fileID: 11400000, guid: c841b16f7d1434d96b299435ac9f2ac3, type: 2}
+  - {fileID: 11400000, guid: d52a3d4a0e3e243b18b0c549ca9e20da, type: 2}
+  - {fileID: 11400000, guid: 258b1361af5c44b68a00a6da3fcdaee2, type: 2}

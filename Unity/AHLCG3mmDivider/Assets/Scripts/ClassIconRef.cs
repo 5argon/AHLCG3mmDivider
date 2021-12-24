@@ -18,6 +18,12 @@ namespace E7.AhLcgMiniDivider
         [SerializeField] internal Sprite rogue;
         [SerializeField] internal Sprite mystic;
         [SerializeField] internal Sprite survivor;
+        
+        // [SerializeField] internal Color guardianColor;
+        // [SerializeField] internal Color seekerColor;
+        // [SerializeField] internal Color rogueColor;
+        // [SerializeField] internal Color mysticColor;
+        // [SerializeField] internal Color survivorColor;
 
         internal void ApplySpec(GenSpec genSpec)
         {
@@ -32,6 +38,10 @@ namespace E7.AhLcgMiniDivider
                 classIcon1.sprite = GetSprite(gs.firstClass);
                 classIcon2.sprite = GetSprite(gs.secondClass);
                 classIcon3.sprite = GetSprite(gs.thirdClass);
+
+                // classIcon1.color = GetColor(gs.firstClass);
+                // classIcon2.color = GetColor(gs.secondClass);
+                // classIcon3.color = GetColor(gs.thirdClass);
             }
         }
 
@@ -48,5 +58,19 @@ namespace E7.AhLcgMiniDivider
                 _ => throw new ArgumentOutOfRangeException(nameof(c), c, null)
             };
         }
+
+        // private Color GetColor(CardClass c)
+        // {
+        //     return c switch
+        //     {
+        //         CardClass.NoClass => default,
+        //         CardClass.Guardian => guardianColor,
+        //         CardClass.Seeker => seekerColor,
+        //         CardClass.Rogue => rogueColor,
+        //         CardClass.Mystic => mysticColor,
+        //         CardClass.Survivor => survivorColor,
+        //         _ => throw new ArgumentOutOfRangeException(nameof(c), c, null)
+        //     };
+        // }
     }
 }
