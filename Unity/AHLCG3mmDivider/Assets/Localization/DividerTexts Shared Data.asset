@@ -15,6 +15,278 @@ MonoBehaviour:
   m_TableCollectionName: DividerTexts
   m_TableCollectionNameGuidString: 0fe55b6e16baa4337b49d27ef6014293
   m_Entries:
+  - m_Id: 117235535306776
+    m_Key: Standalone Scenario Name/Barkham Horror
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306777
+    m_Key: Standalone Scenario Name/Carnevale of Horrors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306778
+    m_Key: Standalone Scenario Name/Curse of the Rougarou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306779
+    m_Key: Standalone Scenario Name/Guardians of the Abyss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119936797106176
+    m_Key: Standalone Scenario Name/Machinations Through Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306780
+    m_Key: Standalone Scenario Name/Murder at the Excelsior Hotel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306781
+    m_Key: Standalone Scenario Name/The Blob That Ate Everything
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306782
+    m_Key: Standalone Scenario Name/The Labyrinths of Lunacy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306783
+    m_Key: Standalone Scenario Name/War of the Outer Gods
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306755
+    m_Key: Standalone Scenario/Barkham Horror/The Meddling of Meowlathotep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306756
+    m_Key: Standalone Scenario/Curse of the Rougarou/The Bayou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306757
+    m_Key: Standalone Scenario/Guardians of the Abyss/Abyssal Gifts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306758
+    m_Key: Standalone Scenario/Guardians of the Abyss/Abyssal Tribute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306759
+    m_Key: Standalone Scenario/Guardians of the Abyss/Brotherhood of the Beast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306760
+    m_Key: Standalone Scenario/Guardians of the Abyss/Sands of Egypt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306761
+    m_Key: Standalone Scenario/Guardians of the Abyss/The Eternal Slumber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306762
+    m_Key: Standalone Scenario/Guardians of the Abyss/The Night's Usurper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306763
+    m_Key: Standalone Scenario/Murder at the Excelsior Hotel/Alien Interference
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306764
+    m_Key: Standalone Scenario/Murder at the Excelsior Hotel/Dark Rituals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306765
+    m_Key: Standalone Scenario/Murder at the Excelsior Hotel/Excelsior Management
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306766
+    m_Key: Standalone Scenario/Murder at the Excelsior Hotel/Sins of the Past
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306767
+    m_Key: Standalone Scenario/Murder at the Excelsior Hotel/Vile Experiments
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306768
+    m_Key: Standalone Scenario/The Blob That Ate Everything/Epic Multiplayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306769
+    m_Key: Standalone Scenario/The Blob That Ate Everything/Mi-Go Incursion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306770
+    m_Key: Standalone Scenario/The Blob That Ate Everything/Single Group
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306771
+    m_Key: Standalone Scenario/The Labyrinths of Lunacy/Epic Multiplayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306772
+    m_Key: Standalone Scenario/The Labyrinths of Lunacy/Single Group
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306773
+    m_Key: Standalone Scenario/War of the Outer Gods/Children of Paradise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306774
+    m_Key: Standalone Scenario/War of the Outer Gods/Death of Stars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306775
+    m_Key: Standalone Scenario/War of the Outer Gods/Swarm of Assimilation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261207
+    m_Key: Player/Card Level/Lv. 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261208
+    m_Key: Player/Card Level/Lv. 1 ~ 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261209
+    m_Key: Player/Category/Basic Weakness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261210
+    m_Key: Player/Category/Bonded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261211
+    m_Key: Player/Category/Investigators
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8891433858621440
+    m_Key: Player/Category/Parallel Investigator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261212
+    m_Key: Player/Class/Guardian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261213
+    m_Key: Player/Class/Multi-Class
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261214
+    m_Key: Player/Class/Mystic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261215
+    m_Key: Player/Class/Neutral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261216
+    m_Key: Player/Class/Rogue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261217
+    m_Key: Player/Class/Seeker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261218
+    m_Key: Player/Class/Survivor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261219
+    m_Key: Player/Deck Divider/Deck 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261220
+    m_Key: Player/Deck Divider/Deck 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261221
+    m_Key: Player/Deck Divider/Deck 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261222
+    m_Key: Player/Deck Divider/Deck 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775737471229952
+    m_Key: Player/Multi-Class/2 Classes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775737475424256
+    m_Key: Player/Multi-Class/3 Classes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235484975104
+    m_Key: Challenge Scenario Name/All or Nothing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306752
+    m_Key: Challenge Scenario Name/Bad Blood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306753
+    m_Key: Challenge Scenario Name/By the Books
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306754
+    m_Key: Challenge Scenario Name/Read or Die
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8891433854427136
+    m_Key: Campaign Name/Challenge Scenario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261204
+    m_Key: Campaign Name/Core Set
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62739937484800
+    m_Key: Campaign Name/Edge of the Earth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261205
+    m_Key: Campaign Name/Night of the Zealot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455546
+    m_Key: Campaign Name/Return to the Circle Undone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455547
+    m_Key: Campaign Name/Return to the Dunwich Legacy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455548
+    m_Key: Campaign Name/Return to the Forgotten Age
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261206
+    m_Key: Campaign Name/Return to the Night of the Zealot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455549
+    m_Key: Campaign Name/Return to the Path to Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455550
+    m_Key: Campaign Name/The Circle Undone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455551
+    m_Key: Campaign Name/The Dream-Eaters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455552
+    m_Key: Campaign Name/The Dunwich Legacy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455553
+    m_Key: Campaign Name/The Forgotten Age
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455554
+    m_Key: Campaign Name/The Innsmouth Conspiracy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455555
+    m_Key: Campaign Name/The Path to Carcosa
+    m_Metadata:
+      m_Items: []
   - m_Id: 8220054642688
     m_Key: Campaign/Regular/Core Set/Encounter/Agents of Cthulhu
     m_Metadata:
@@ -946,278 +1218,6 @@ MonoBehaviour:
   - m_Id: 68803349176332
     m_Key: Campaign/Return To/The Path to Carcosa/Scenario/Return to The Unspeakable
       Oath
-    m_Metadata:
-      m_Items: []
-  - m_Id: 8891433854427136
-    m_Key: Campaign Name/Challenge Scenario
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261204
-    m_Key: Campaign Name/Core Set
-    m_Metadata:
-      m_Items: []
-  - m_Id: 62739937484800
-    m_Key: Campaign Name/Edge of the Earth
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261205
-    m_Key: Campaign Name/Night of the Zealot
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455546
-    m_Key: Campaign Name/Return to the Circle Undone
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455547
-    m_Key: Campaign Name/Return to the Dunwich Legacy
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455548
-    m_Key: Campaign Name/Return to the Forgotten Age
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261206
-    m_Key: Campaign Name/Return to the Night of the Zealot
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455549
-    m_Key: Campaign Name/Return to the Path to Carcosa
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455550
-    m_Key: Campaign Name/The Circle Undone
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455551
-    m_Key: Campaign Name/The Dream-Eaters
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455552
-    m_Key: Campaign Name/The Dunwich Legacy
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455553
-    m_Key: Campaign Name/The Forgotten Age
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455554
-    m_Key: Campaign Name/The Innsmouth Conspiracy
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455555
-    m_Key: Campaign Name/The Path to Carcosa
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235484975104
-    m_Key: Challenge Scenario Name/All or Nothing
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306752
-    m_Key: Challenge Scenario Name/Bad Blood
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306753
-    m_Key: Challenge Scenario Name/By the Books
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306754
-    m_Key: Challenge Scenario Name/Read or Die
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261207
-    m_Key: Player/Card Level/Lv. 0
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261208
-    m_Key: Player/Card Level/Lv. 1 ~ 5
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261209
-    m_Key: Player/Category/Basic Weakness
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261210
-    m_Key: Player/Category/Bonded
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261211
-    m_Key: Player/Category/Investigators
-    m_Metadata:
-      m_Items: []
-  - m_Id: 8891433858621440
-    m_Key: Player/Category/Parallel Investigator
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261212
-    m_Key: Player/Class/Guardian
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261213
-    m_Key: Player/Class/Multi-Class
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261214
-    m_Key: Player/Class/Mystic
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261215
-    m_Key: Player/Class/Neutral
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261216
-    m_Key: Player/Class/Rogue
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261217
-    m_Key: Player/Class/Seeker
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261218
-    m_Key: Player/Class/Survivor
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261219
-    m_Key: Player/Deck Divider/Deck 1
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261220
-    m_Key: Player/Deck Divider/Deck 2
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261221
-    m_Key: Player/Deck Divider/Deck 3
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261222
-    m_Key: Player/Deck Divider/Deck 4
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1775737471229952
-    m_Key: Player/Multi-Class/2 Classes
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1775737475424256
-    m_Key: Player/Multi-Class/3 Classes
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306755
-    m_Key: Standalone Scenario/Barkham Horror/The Meddling of Meowlathotep
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306756
-    m_Key: Standalone Scenario/Curse of the Rougarou/The Bayou
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306757
-    m_Key: Standalone Scenario/Guardians of the Abyss/Abyssal Gifts
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306758
-    m_Key: Standalone Scenario/Guardians of the Abyss/Abyssal Tribute
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306759
-    m_Key: Standalone Scenario/Guardians of the Abyss/Brotherhood of the Beast
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306760
-    m_Key: Standalone Scenario/Guardians of the Abyss/Sands of Egypt
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306761
-    m_Key: Standalone Scenario/Guardians of the Abyss/The Eternal Slumber
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306762
-    m_Key: Standalone Scenario/Guardians of the Abyss/The Night's Usurper
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306763
-    m_Key: Standalone Scenario/Murder at the Excelsior Hotel/Alien Interference
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306764
-    m_Key: Standalone Scenario/Murder at the Excelsior Hotel/Dark Rituals
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306765
-    m_Key: Standalone Scenario/Murder at the Excelsior Hotel/Excelsior Management
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306766
-    m_Key: Standalone Scenario/Murder at the Excelsior Hotel/Sins of the Past
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306767
-    m_Key: Standalone Scenario/Murder at the Excelsior Hotel/Vile Experiments
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306768
-    m_Key: Standalone Scenario/The Blob That Ate Everything/Epic Multiplayer
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306769
-    m_Key: Standalone Scenario/The Blob That Ate Everything/Mi-Go Incursion
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306770
-    m_Key: Standalone Scenario/The Blob That Ate Everything/Single Group
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306771
-    m_Key: Standalone Scenario/The Labyrinths of Lunacy/Epic Multiplayer
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306772
-    m_Key: Standalone Scenario/The Labyrinths of Lunacy/Single Group
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306773
-    m_Key: Standalone Scenario/War of the Outer Gods/Children of Paradise
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306774
-    m_Key: Standalone Scenario/War of the Outer Gods/Death of Stars
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306775
-    m_Key: Standalone Scenario/War of the Outer Gods/Swarm of Assimilation
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306776
-    m_Key: Standalone Scenario Name/Barkham Horror
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306777
-    m_Key: Standalone Scenario Name/Carnevale of Horrors
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306778
-    m_Key: Standalone Scenario Name/Curse of the Rougarou
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306779
-    m_Key: Standalone Scenario Name/Guardians of the Abyss
-    m_Metadata:
-      m_Items: []
-  - m_Id: 119936797106176
-    m_Key: Standalone Scenario Name/Machinations Through Time
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306780
-    m_Key: Standalone Scenario Name/Murder at the Excelsior Hotel
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306781
-    m_Key: Standalone Scenario Name/The Blob That Ate Everything
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306782
-    m_Key: Standalone Scenario Name/The Labyrinths of Lunacy
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306783
-    m_Key: Standalone Scenario Name/War of the Outer Gods
     m_Metadata:
       m_Items: []
   m_Metadata:
