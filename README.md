@@ -90,7 +90,7 @@ For people who prefer to keep cards added from sets separate in their box. Or al
 ### Languages
 
 - English
-- German (Contributed by : [@empty0911](https://boardgamegeek.com/user/empty0911))
+- German (Contributed by : [@empty0911](https://boardgamegeek.com/user/empty0911), [@Miriamelbgg](https://boardgamegeek.com/user/Miriamelbgg))
 - Italian (Contributed by : [@fabioflx](https://boardgamegeek.com/user/fabioflx))
 
 If translation is missing, file is still rendered but text area will be empty.
