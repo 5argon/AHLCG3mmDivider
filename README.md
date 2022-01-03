@@ -148,3 +148,7 @@ Assuming you know how to use Unity, you can use the project to generate custom d
 - Game view and Recorder should be set to 1098x804. (Becomes 93mm x 68mm at 300 DPI)
 - [Localization package](https://docs.unity3d.com/Packages/com.unity.localization@latest) is also used, which has Google Sheet service connected to [this spreadsheet](https://docs.google.com/spreadsheets/d/1jA8786alNXLDSA-LVSh4HzJ6gza1JqO1_XyImz7ncaE/edit#gid=0).
 - Finally, it exits Play Mode immediately after everything is over. Therefore what you do to regenerate the `Dividers` folder is just press enter Play Mode and wait until it exits.
+
+## Extras
+
+I have made other printable stuff outside of the dividers : [Print and Play](./PrintAndPlay/README.md)
