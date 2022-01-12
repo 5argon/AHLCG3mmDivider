@@ -1158,32 +1158,28 @@ MonoBehaviour:
     m_Localized: Eis und Tod
     m_Metadata:
       m_Items: []
-  - m_Id: 8864346472964117
-    m_Localized: Eis und Tod, Teil 1
-    m_Metadata:
-      m_Items: []
-  - m_Id: 8864346472964118
-    m_Localized: Eis und Tod, Teil 2
-    m_Metadata:
-      m_Items: []
-  - m_Id: 8864346472964119
-    m_Localized: Eis und Tod, Teil 3
-    m_Metadata:
-      m_Items: []
   - m_Id: 8864346472964120
     m_Localized: Das Herz des Wahnsinns
     m_Metadata:
       m_Items: []
-  - m_Id: 8864346472964121
-    m_Localized: Das Herz des Wahnsinns, Teil 1
-    m_Metadata:
-      m_Items: []
-  - m_Id: 8864346472964122
-    m_Localized: Das Herz des Wahnsinns, Teil 2
-    m_Metadata:
-      m_Items: []
   - m_Id: 8864346472964123
     m_Localized: Zu den Verbotenen Gipfeln
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15519646810628096
+    m_Localized: Eis und Tod (Spielerkarten)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15532527526600704
+    m_Localized: Stadt der alten Wesen (Spielerkarten)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15532527534989312
+    m_Localized: Zu den Verbotenen Gipfeln (Spielerkarten)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15532527534989313
+    m_Localized: Dauerhaft
     m_Metadata:
       m_Items: []
   references:

@@ -1162,28 +1162,8 @@ MonoBehaviour:
     m_Localized: Ice and Death
     m_Metadata:
       m_Items: []
-  - m_Id: 8864346472964117
-    m_Localized: Ice and Death, Part I
-    m_Metadata:
-      m_Items: []
-  - m_Id: 8864346472964118
-    m_Localized: Ice and Death, Part II
-    m_Metadata:
-      m_Items: []
-  - m_Id: 8864346472964119
-    m_Localized: Ice and Death, Part III
-    m_Metadata:
-      m_Items: []
   - m_Id: 8864346472964120
     m_Localized: The Heart of Madness
-    m_Metadata:
-      m_Items: []
-  - m_Id: 8864346472964121
-    m_Localized: The Heart of Madness, Part I
-    m_Metadata:
-      m_Items: []
-  - m_Id: 8864346472964122
-    m_Localized: The Heart of Madness, Part II
     m_Metadata:
       m_Items: []
   - m_Id: 8864346472964123
@@ -1196,6 +1176,22 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 8891433858621440
     m_Localized: Parallel Investigator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15519646810628096
+    m_Localized: Fatal Mirage (Player Card)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15532527526600704
+    m_Localized: City of the Elder Things (Player Card)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15532527534989312
+    m_Localized: To the Forbidden Peaks (Player Card)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15532527534989313
+    m_Localized: Permanent
     m_Metadata:
       m_Items: []
   references:

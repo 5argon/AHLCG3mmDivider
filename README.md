@@ -54,7 +54,7 @@ Each "set" is one folder inside the language folder. Each folder is optimized ar
 - Player Alt x16 : Similar to Player but without Lv. on the corner, blank class-colored dividers, etc.
 - Player - Multi-Class x16 : Just dividers for multi-class cards, but with each permutations of 2-class and a 3-class divider. This is for use with many multi-class cards added in Edge of the Earth.
 - Player - Investigator x16 : Everything says "Investigators" but with different set strip or different colored class corner. For those who order stack of investigator cards, signature asset/weakness by sets/classes.
-- Extra x8 : Some extras such as deck dividers, bonded, etc.
+- Extra x8 : Some extras such as deck dividers, bonded, permanent, etc.
 - Core Set x16 : Night of the Zealot + Core Set encounters
 
 #### Per-expansion Player Cards
@@ -73,7 +73,8 @@ For people who prefer to keep cards added from sets separate in their box. Or al
 - The Circle Undone x24 (Padded with : Curse of the Rougarou)
 - The Dream-Eaters x24 (Padded with : The Labyrinths of Lunacy)
 - The Innsmouth Conspiracy x24 (Padded with : The Blob That Ate Everything)
-- Edge of the Earth x32
+- Edge of the Earth x24
+- Edge of the Earth (Extra) x3 : These are sub-dividers inside some icons already covered in the x24 set. There are scenarios that has player cards (cards which go into your deck) in it, and having an inner divider can make picking out or putting back just these cards easier without touching the scenario cards.
 
 #### Standalone Scenarios
 
