@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: Return to the Path to Carcosa
+  m_EditorClassIdentifier: 
+  pdfName: Return to the Path to Carcosa
+  genSpecs:
+  - {fileID: 11400000, guid: 88cb1ccda217f4cbcbc43d64b08582f5, type: 2}
+  - {fileID: 11400000, guid: 225307d156e18479ba9c4a28cea4b691, type: 2}
+  - {fileID: 11400000, guid: d996989d1c8a54587a77d08b2dcdc251, type: 2}
+  - {fileID: 11400000, guid: 7e2786bec3fb442f5959c2d4a21a3c77, type: 2}
+  - {fileID: 11400000, guid: c3f5ddc2681674f60b8c663c532e05cb, type: 2}
+  - {fileID: 11400000, guid: ecc38f3dc78344e6ba2599dccd1629a2, type: 2}
+  - {fileID: 11400000, guid: b51799b3082f84c1299ca4eb94683113, type: 2}
+  - {fileID: 11400000, guid: d210942660f824f1f86911cc28a5d2a7, type: 2}
+  - {fileID: 11400000, guid: a2555af399c124376b2ffc4ad4fac43a, type: 2}
+  - {fileID: 11400000, guid: 1d2ea83c0cc8e4a9482dbb2573aa7512, type: 2}
+  - {fileID: 11400000, guid: a24ddd77e41fb47169e4c11501b98a62, type: 2}
+  - {fileID: 11400000, guid: 7e10e4b2a71e447d4816fb879a803dff, type: 2}
+  - {fileID: 11400000, guid: 3b49cc92e299845c0af0e7d2b41f71a7, type: 2}

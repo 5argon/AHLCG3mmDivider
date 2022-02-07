@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: War of the Outer Gods
+  m_EditorClassIdentifier: 
+  pdfName: Standalone - War of the Outer Gods
+  genSpecs:
+  - {fileID: 11400000, guid: 280c1ecce08504e56aad79f9d149891e, type: 2}
+  - {fileID: 11400000, guid: 7750768d3d11c4c2ca6c63560d271664, type: 2}
+  - {fileID: 11400000, guid: da067db97fa9a4f588a84dac2fa833a6, type: 2}
+  - {fileID: 11400000, guid: 5ddd70ffb9e0c45ff865f2ac395b3b48, type: 2}
+  - {fileID: 11400000, guid: 267b2d0a62076420499a3c7cb756f94a, type: 2}

@@ -44,55 +44,64 @@ Card graphics was remixed from official FFG print-and-play PDF. I didn't design 
 
 ### Sets
 
-Each "set" is one folder inside the language folder. Each folder is optimized around printing on A4 paper which fits 8 dividers.
+Each "set" is one folder inside the language folder. You will collect divider graphics from different sets together then layout them according to the [printing guide](./print.md). If there are blank space remaining on the last page, you can pick some individual graphics from Extra set, etc. to fill up. (With A4 printing, you should gather a multiple of 8 dividers.)
 
-"Padded with" means unrelated dividers were added to that folder to get a multiple of 8, so not to waste blank space on the paper.
+Set folder has `x` number suffixed. That is an amount of dividers inside. Perhaps they can help you estimate amount of paper needed to get everything you want. (You can selectively gather only some of them inside each set.)
 
-#### Main Sets
+#### For organizing player cards
 
-- Player x16 : 5 classes, neutral, multi-class, in lv.0 and lv. 1 ~ 5, basic weakness.
-- Player Alt x16 : Similar to Player but without Lv. on the corner, blank class-colored dividers, etc.
-- Player - Multi-Class x16 : Just dividers for multi-class cards, but with each permutations of 2-class and a 3-class divider. This is for use with many multi-class cards added in Edge of the Earth.
-- Player - Investigator x16 : Everything says "Investigators" but with different set strip or different colored class corner. For those who order stack of investigator cards, signature asset/weakness by sets/classes.
-- Extra x8 : Some extras such as deck dividers, bonded, permanent, etc.
-- Core Set x16 : Night of the Zealot + Core Set encounters
+- Player : 5 classes, neutral, multi-class, in lv.0 and lv. 1 ~ 5, basic weakness, bonded, permanent.
+- Player Alt : Similar to Player but without Lv. on the corner, blank class-colored dividers, etc.
+- Player - Multi-Class : Dividers for multi-class cards with fine-grained permutations of classes. This is for use with many multi-class cards added in Edge of the Earth.
+- Player - Investigator : Everything says "Investigators" but with different set strip or different colored class corner. For organizing your investigator cards in different grouping criterias.
+- Extra : Some extras such as deck dividers and generic blank dividers.
 
-#### Per-expansion Player Cards
+#### Per-expansion player cards
 
 For people who prefer to keep cards added from sets separate in their box. Or also works for mixed collection that order by collector's number since the number restarts on new expansion.
 
-- Player - Edge of the Earth x16
-- Player Alt - Edge of the Earth x8
-- Player - Edge of the Earth - Multi-Class x16 : Like "Player - Multi-Class x16" but with "Edge of the Earth" set strip at the corner.
+- Player - Edge of the Earth
+- Player Alt - Edge of the Earth
+- Player - Edge of the Earth - Multi-Class (Like "Player - Multi-Class" but with "Edge of the Earth" set strip at the corner.)
 
-#### Expansions
+#### Campaigns
 
-- The Dunwich Legacy x24 (Padded with : Murder at the Excelsior Hotel)
-- The Path to Carcosa x24 (Padded with : War of the Outer Gods)
-- The Forgotten Age x24
-- The Circle Undone x24 (Padded with : Curse of the Rougarou)
-- The Dream-Eaters x24 (Padded with : The Labyrinths of Lunacy)
-- The Innsmouth Conspiracy x24 (Padded with : The Blob That Ate Everything)
-- Edge of the Earth x24
-- Edge of the Earth (Extra) x3 : These are sub-dividers inside some icons already covered in the x24 set. There are scenarios that has player cards (cards which go into your deck) in it, and having an inner divider can make picking out or putting back just these cards easier without touching the scenario cards.
+These are strictly 1 divider per unique set icon officially stated in the campaign guide. With these, you can rely on counting numbers printed on the corner of the card whether you had cleaned up the game properly without losing any card or not, then pack them inside the divider.
 
-#### Standalone Scenarios
-
-- Standalone - War of the Outer Gods + Carnevale of Horrors x8
-- Standalone - The Labyrinths of Lunacy + Curse of the Rougarou x8
-- Standalone - The Blob That Ate Everything + Barkham Horror x8
-- Standalone - Murder at the Excelsior Hotel x8
-- Standalone - Guardians of the Abyss x8
+- Core Set (Night of the Zealot + Core Set encounters)
+- The Dunwich Legacy
+- The Path to Carcosa
+- The Forgotten Age
+- The Circle Undone
+- The Dream-Eaters
+- The Innsmouth Conspiracy
+- Edge of the Earth
 
 #### Return to 
 
-- Return to The Night of the Zealot x8 (Padded with : Carnevale of Horrors)
+- Return to the Night of the Zealot
+- Return to the Path to Carcosa
+- Return to the Circle Undone
+
+#### Standalone Scenarios
+
+- Standalone - War of the Outer Gods
+- Standalone - Carnevale of Horrors
+- Standalone - The Labyrinths of Lunacy
+- Standalone - Curse of the Rougarou
+- Standalone - The Blob That Ate Everything
+- Standalone - Barkham Horror
+- Standalone - Murder at the Excelsior Hotel
+- Standalone - Guardians of the Abyss
 
 ### Languages
 
 - English
 - German (Contributed by : [@empty0911](https://boardgamegeek.com/user/empty0911), [@Miriamelbgg](https://boardgamegeek.com/user/Miriamelbgg))
 - Italian (Contributed by : [@fabioflx](https://boardgamegeek.com/user/fabioflx))
+- Russian (Unknown contributor)
+- Spanish (Contributed by : [@colococolo](https://boardgamegeek.com/user/colococolo), [@Fran77](https://boardgamegeek.com/user/Fran77)
+- French (Contributed by : [@retsnimel](https://boardgamegeek.com/user/retsnimel)
 
 If translation is missing, file is still rendered but text area will be empty.
 

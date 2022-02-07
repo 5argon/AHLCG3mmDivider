@@ -10,15 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
-  m_Name: Return to The Night of the Zealot
+  m_Name: Return to the Night of the Zealot
   m_EditorClassIdentifier: 
-  pdfName: Return to The Night of the Zealot
+  pdfName: Return to the Night of the Zealot
   genSpecs:
-  - {fileID: 11400000, guid: 2e15373084fb34ac6bbd56a14c207d9d, type: 2}
-  - {fileID: 11400000, guid: 5c7e8f44b9de54e61b66664546bfe8da, type: 2}
-  - {fileID: 11400000, guid: 12916cc31d8c94513b32dc37221bd134, type: 2}
-  - {fileID: 11400000, guid: c40f8e4321112424fbad0a96a553a920, type: 2}
   - {fileID: 11400000, guid: f20adb7c48741456c917c3e8325dbb64, type: 2}
   - {fileID: 11400000, guid: 645ea0f78f3e14c90bab5e38a7b8b21f, type: 2}
-  - {fileID: 11400000, guid: f695024cf71874d55af16af686245a65, type: 2}
-  - {fileID: 11400000, guid: 9574fd36fae004d0dbae297b0ad7920f, type: 2}
+  - {fileID: 11400000, guid: 12916cc31d8c94513b32dc37221bd134, type: 2}
+  - {fileID: 11400000, guid: 2e15373084fb34ac6bbd56a14c207d9d, type: 2}
+  - {fileID: 11400000, guid: 5c7e8f44b9de54e61b66664546bfe8da, type: 2}
+  - {fileID: 11400000, guid: c40f8e4321112424fbad0a96a553a920, type: 2}

@@ -15,7 +15,6 @@ MonoBehaviour:
   pdfName: Player - Investigator
   genSpecs:
   - {fileID: 11400000, guid: 462e3251a3b2c448badeb96b9085b4b4, type: 2}
-  - {fileID: 11400000, guid: 462e3251a3b2c448badeb96b9085b4b4, type: 2}
   - {fileID: 11400000, guid: 3588ff97a3eed419dbcc531fd4494c32, type: 2}
   - {fileID: 11400000, guid: f6f2eb2e70a13440995062f93cc654c2, type: 2}
   - {fileID: 11400000, guid: 13a2d1f8e12564b76ac32802cbaae207, type: 2}

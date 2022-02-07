@@ -1,0 +1,678 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DividerTexts_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 0fe55b6e16baa4337b49d27ef6014293, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8220054642688
+    m_Localized: Agents de Cthulhu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066451066880
+    m_Localized: Agents d'Hastur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261184
+    m_Localized: Agents de Shub-Niggurath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261185
+    m_Localized: Agents de Yog-Sothoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261186
+    m_Localized: "Antiques Fl\xE9aux"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261187
+    m_Localized: Un Froid Mordant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261188
+    m_Localized: "Culte d'Um\xF4rdhoth"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261189
+    m_Localized: Sombre Culte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261190
+    m_Localized: Goules
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261191
+    m_Localized: Portes Closes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261192
+    m_Localized: "Maigres B\xEAtes de la Nuit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261193
+    m_Localized: Rats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261194
+    m_Localized: "R\xE9pandre la Peur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346468769792
+    m_Localized: Agents de l'Inconnu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964096
+    m_Localized: "Cr\xE9atures dans la Glace"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964097
+    m_Localized: Climat Mortel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964098
+    m_Localized: Elder Things
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964099
+    m_Localized: "Membres de l'Exp\xE9dition"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964100
+    m_Localized: Les Dangers de l'Antarctique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964101
+    m_Localized: "Laiss\xE9s en Arri\xE8re"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964102
+    m_Localized: Perdus dans la Nuit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964103
+    m_Localized: Souvenirs des Disparus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964104
+    m_Localized: Miasme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964105
+    m_Localized: Horreurs Sans Nom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964106
+    m_Localized: Les Manchots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964107
+    m_Localized: Cauchemars Suintants
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964108
+    m_Localized: Les Shoggoths
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964109
+    m_Localized: "Silence et Myst\xE8re"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964110
+    m_Localized: Agitation dans les Profondeurs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964111
+    m_Localized: Tekeli-li
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964112
+    m_Localized: L'Accident
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964113
+    m_Localized: Le Grand Sceau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964114
+    m_Localized: "La Cit\xE9 des Anciens"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964115
+    m_Localized: Mirage Fatal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964116
+    m_Localized: De Glace et de Mort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964120
+    m_Localized: Le Coeur de la Folie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964123
+    m_Localized: Vers les Sommets Interdits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261195
+    m_Localized: "Le D\xE9voreur du Dessous"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261196
+    m_Localized: Le Rassemblement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261197
+    m_Localized: Les Masques de Minuit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261223
+    m_Localized: Agents d'Azathoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154116885045248
+    m_Localized: "La Congr\xE9gation d'Annette"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261225
+    m_Localized: "Cit\xE9 des P\xE9ch\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261226
+    m_Localized: "Destin In\xE9luctable"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261227
+    m_Localized: "Musique des Damn\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261228
+    m_Localized: Royaume des Morts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261229
+    m_Localized: Les Secrets de l'Univers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261230
+    m_Localized: "Loge du Cr\xE9puscule d'Argent"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261231
+    m_Localized: "Pr\xE9dateurs Spectraux"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261232
+    m_Localized: Le Guetteur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261233
+    m_Localized: "Esprits Pi\xE9g\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261234
+    m_Localized: Pratiques Occultes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261235
+    m_Localized: Aux Portes de la Mort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261236
+    m_Localized: "Devant le Tr\xF4ne Noir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261237
+    m_Localized: "Disparitions dans la Demeure du Cr\xE9puscule"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261238
+    m_Localized: Pour le Bien Commun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261239
+    m_Localized: Dans les Griffes du Chaos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261240
+    m_Localized: Le Nom Secret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261241
+    m_Localized: "Le Salaire du P\xE9ch\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261242
+    m_Localized: "L'Heure des Sorci\xE8res"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261243
+    m_Localized: "Union et D\xE9sillusion"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261264
+    m_Localized: Malchance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261265
+    m_Localized: Thralls Bestiaux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261266
+    m_Localized: Les Thralls de Bishop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261267
+    m_Localized: Dunwich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261268
+    m_Localized: Hideuses Abominations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261269
+    m_Localized: La Banque de Naomi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261270
+    m_Localized: Sorcellerie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261271
+    m_Localized: "L'Au-Del\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261272
+    m_Localized: Les Engoulevents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261273
+    m_Localized: Du Sang sur l'Autel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261274
+    m_Localized: "Activit\xE9 Extrascolaire"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261275
+    m_Localized: Perdus dans le Temps et l'Espace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261276
+    m_Localized: "L'Express du Comt\xE9 d'Essex"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261277
+    m_Localized: La Banque Gagne Toujours
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261278
+    m_Localized: "Le Mus\xE9e Miskatonic"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261279
+    m_Localized: "Aux Fronti\xE8res du Visible"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261280
+    m_Localized: "L\xE0 o\xF9 le Destin Attend"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261281
+    m_Localized: Agents de Yig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261282
+    m_Localized: "Pi\xE8ges Mortels"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261283
+    m_Localized: "Exp\xE9dition"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261284
+    m_Localized: "Ruines Oubli\xE9es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261285
+    m_Localized: Gardiens du Temps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261286
+    m_Localized: La Bouche de K'n-yan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261287
+    m_Localized: Pilliers du Jugement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261288
+    m_Localized: "Confr\xE9rie Pnakotique"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261289
+    m_Localized: Poison
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261290
+    m_Localized: "For\xEAt Vierge"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261291
+    m_Localized: Serpents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261292
+    m_Localized: Flux Temporel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261293
+    m_Localized: Venin de Yig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261294
+    m_Localized: Les Coeur des Anciens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261296
+    m_Localized: Paradoxes Temporels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261297
+    m_Localized: "Par-del\xE0 les Limites"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261298
+    m_Localized: "La Cit\xE9 des Archives"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261299
+    m_Localized: Les Profondeurs de Yoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152899299565568
+    m_Localized: "Le Fl\xE9au des Eztli"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261301
+    m_Localized: "La Contr\xE9e Sauvage"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261302
+    m_Localized: Les Fils du Destin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261303
+    m_Localized: Remonter le Temps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261304
+    m_Localized: Agents de Dagon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261305
+    m_Localized: Agents d'Hydra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261306
+    m_Localized: "Cr\xE9atures des Profondeurs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261307
+    m_Localized: "Cavernes Innond\xE9es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261308
+    m_Localized: Brouillard sur Innsmouth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261309
+    m_Localized: En Panne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261310
+    m_Localized: "Mar\xE9e Montante"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261311
+    m_Localized: "Souvenirs Fragment\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261312
+    m_Localized: Syzygie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261313
+    m_Localized: Les Autochtones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261314
+    m_Localized: Une Lueur dans le Brouillard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261315
+    m_Localized: "Le R\xE9cif du Diable"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261316
+    m_Localized: "Horreur \xE0 Toute Vitesse"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261317
+    m_Localized: "Mouill\xE9s Jusqu'au Cou"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261318
+    m_Localized: "Dans le Maelstr\xF6m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261319
+    m_Localized: "La Tani\xE8re de Dagon"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261320
+    m_Localized: "Le Gouffre du D\xE9sespoir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261321
+    m_Localized: La Disparition d'Elina Harper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261322
+    m_Localized: Les Byakhees
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261323
+    m_Localized: Le Culte du Signe Jaune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261324
+    m_Localized: Souillures et Immondices
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261325
+    m_Localized: Hallucinations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261326
+    m_Localized: "Pr\xE9sages Funestes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261327
+    m_Localized: "Le Pr\xE9sent d'Hastur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261328
+    m_Localized: Hantises
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261329
+    m_Localized: Les Habitants de Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261330
+    m_Localized: "Le Ph\xE9nom\xE8ne au Dessous"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261331
+    m_Localized: L'Etranger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261332
+    m_Localized: "Le Ph\xE9nom\xE8ne au Dessus"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261333
+    m_Localized: "Le Spectre de la V\xE9rit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261334
+    m_Localized: Sous les Etoiles Noires
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261335
+    m_Localized: Baisser de Rideau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261336
+    m_Localized: "La P\xE2le Carcosa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261337
+    m_Localized: "Les Echos du Pass\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261338
+    m_Localized: Le Dernier Roi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261339
+    m_Localized: "Le Masque Bl\xE8me"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261340
+    m_Localized: Le Serment Indicible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261209
+    m_Localized: Faiblesse de Base
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261210
+    m_Localized: "Li\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261211
+    m_Localized: Investigateurs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8891433858621440
+    m_Localized: "Investigateur Parall\xE8le"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15532527534989313
+    m_Localized: Permanent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261212
+    m_Localized: Gardien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261213
+    m_Localized: Multi-Classe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261214
+    m_Localized: Mystique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261215
+    m_Localized: Neutre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261216
+    m_Localized: Truand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261217
+    m_Localized: Chercheur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261218
+    m_Localized: Survivant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306756
+    m_Localized: Le Bayou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306757
+    m_Localized: "Cadeaux de l'Ab\xEEme"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306758
+    m_Localized: "Tributs de l'Ab\xEEme"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306759
+    m_Localized: "Fraternit\xE9 de la B\xEAte"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306760
+    m_Localized: Sables d'Egypte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306761
+    m_Localized: Eternelle Torpeur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306762
+    m_Localized: L'Usurpateur de la Nuit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306763
+    m_Localized: "Ing\xE9rence Extraterrestre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306764
+    m_Localized: Rituels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306765
+    m_Localized: Equipe de l'Excelsior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306766
+    m_Localized: "P\xE9ch\xE9s du Pass\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306767
+    m_Localized: "Exp\xE9riences Atroces"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306778
+    m_Localized: "La Mal\xE9diction du Rougarou"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306779
+    m_Localized: Les Gardiens de L'Abysse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306780
+    m_Localized: "Meurtre \xE0 l'H\xF4tel Excelsior"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

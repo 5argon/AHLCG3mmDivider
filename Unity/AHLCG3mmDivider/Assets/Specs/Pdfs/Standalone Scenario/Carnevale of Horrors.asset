@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: Carnevale of Horrors
+  m_EditorClassIdentifier: 
+  pdfName: Standalone - Carnevale of Horrors
+  genSpecs:
+  - {fileID: 11400000, guid: 9574fd36fae004d0dbae297b0ad7920f, type: 2}
+  - {fileID: 11400000, guid: f695024cf71874d55af16af686245a65, type: 2}
