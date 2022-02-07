@@ -674,5 +674,93 @@ MonoBehaviour:
     m_Localized: "Meurtre \xE0 l'H\xF4tel Excelsior"
     m_Metadata:
       m_Items: []
+  - m_Id: 1066455261204
+    m_Localized: "Bo\xEEte de Base"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62739937484800
+    m_Localized: Aux Confins de la Terre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261205
+    m_Localized: "La Nuit de la Z\xE9latrice"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455546
+    m_Localized: "Renouveau - Le Cercle Bris\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455547
+    m_Localized: "Renouveau - L'H\xE9ritage de Dunwich"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455548
+    m_Localized: "Renouveau - La Civilisation Oubli\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261206
+    m_Localized: "Renouveau - La Nuit de la Z\xE9latrice"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455549
+    m_Localized: Renouveau - La Route de Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455550
+    m_Localized: "Le Cercle Bris\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455551
+    m_Localized: "Les D\xE9voreurs de R\xEAves"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455552
+    m_Localized: "L'H\xE9ritage de Dunwich"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455553
+    m_Localized: "La Civilisation Oubli\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455554
+    m_Localized: La Conspiration d'Innsmouth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455555
+    m_Localized: La Route de Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261207
+    m_Localized: Niv. 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261208
+    m_Localized: Niv. 1 ~ 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261219
+    m_Localized: Deck 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261220
+    m_Localized: Deck 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261221
+    m_Localized: Deck 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261222
+    m_Localized: Deck 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775737471229952
+    m_Localized: 2 Classes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775737475424256
+    m_Localized: 3 Classes
+    m_Metadata:
+      m_Items: []
   references:
     version: 1
