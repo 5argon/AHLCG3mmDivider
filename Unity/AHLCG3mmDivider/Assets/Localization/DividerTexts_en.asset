@@ -1178,18 +1178,6 @@ MonoBehaviour:
     m_Localized: Parallel Investigator
     m_Metadata:
       m_Items: []
-  - m_Id: 15519646810628096
-    m_Localized: Fatal Mirage (Player Card)
-    m_Metadata:
-      m_Items: []
-  - m_Id: 15532527526600704
-    m_Localized: City of the Elder Things (Player Card)
-    m_Metadata:
-      m_Items: []
-  - m_Id: 15532527534989312
-    m_Localized: To the Forbidden Peaks (Player Card)
-    m_Metadata:
-      m_Items: []
   - m_Id: 15532527534989313
     m_Localized: Permanent
     m_Metadata:

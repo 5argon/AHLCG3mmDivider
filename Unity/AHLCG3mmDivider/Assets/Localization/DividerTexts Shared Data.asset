@@ -147,17 +147,8 @@ MonoBehaviour:
     m_Key: Campaign/Regular/Edge of the Earth/Scenario/City of the Elder Things
     m_Metadata:
       m_Items: []
-  - m_Id: 15532527526600704
-    m_Key: Campaign/Regular/Edge of the Earth/Scenario/City of the Elder Things (Player
-      Card)
-    m_Metadata:
-      m_Items: []
   - m_Id: 8864346472964115
     m_Key: Campaign/Regular/Edge of the Earth/Scenario/Fatal Mirage
-    m_Metadata:
-      m_Items: []
-  - m_Id: 15519646810628096
-    m_Key: Campaign/Regular/Edge of the Earth/Scenario/Fatal Mirage (Player Card)
     m_Metadata:
       m_Items: []
   - m_Id: 8864346472964116
@@ -170,11 +161,6 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 8864346472964123
     m_Key: Campaign/Regular/Edge of the Earth/Scenario/To the Forbidden Peaks
-    m_Metadata:
-      m_Items: []
-  - m_Id: 15532527534989312
-    m_Key: Campaign/Regular/Edge of the Earth/Scenario/To the Forbidden Peaks (Player
-      Card)
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261195

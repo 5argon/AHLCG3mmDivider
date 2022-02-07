@@ -1,0 +1,1062 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DividerTexts_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 0fe55b6e16baa4337b49d27ef6014293, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8220054642688
+    m_Localized: Agentes de Cthulhu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066451066880
+    m_Localized: Agentes de Hastur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261184
+    m_Localized: Agentes de Shub Niggurath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261185
+    m_Localized: Agentes de Yog-Sothoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261186
+    m_Localized: Antiguos Males
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261187
+    m_Localized: "Fr\xEDo Helador"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261188
+    m_Localized: "Secta de Um\xF4rdhoth"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261189
+    m_Localized: Secta Oscura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261190
+    m_Localized: Gules
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261191
+    m_Localized: Puertas Cerradas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261192
+    m_Localized: "\xC1ngeles Descarnados"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261193
+    m_Localized: Ratas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261194
+    m_Localized: Miedo Impactante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346468769792
+    m_Localized: Agentes de lo Desconocido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964096
+    m_Localized: Criaturas en el Hielo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964097
+    m_Localized: Tiempo Letal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964098
+    m_Localized: Antiguos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964099
+    m_Localized: "Equipo de Expedici\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964100
+    m_Localized: "Peligros de la Ant\xE1rtida"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964101
+    m_Localized: Abandonados
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964102
+    m_Localized: Perdidos en la Noche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964103
+    m_Localized: Memoriales de los Desaparecidos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964104
+    m_Localized: Miasma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964105
+    m_Localized: Horrores sin Nombre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964106
+    m_Localized: "Ping\xFCinos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964107
+    m_Localized: Pesadillas Rezumantes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964108
+    m_Localized: Shoggoths
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964109
+    m_Localized: Silencio y Misterio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964110
+    m_Localized: "Agit\xE1ndose en las Profundidades"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964111
+    m_Localized: Tekeli-li
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964112
+    m_Localized: El Accidente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964113
+    m_Localized: El Gran Sello
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964114
+    m_Localized: Ciudad de los Antiguos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964115
+    m_Localized: Espejismo Letal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964116
+    m_Localized: Hielo y Muerte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964120
+    m_Localized: "El Coraz\xF3n de la Locura"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964123
+    m_Localized: Hacia los Picos Prohibidos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261195
+    m_Localized: El Devorador de las Profundidades
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261196
+    m_Localized: El Encuentro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261197
+    m_Localized: "Las M\xE1scaras de Medianoche"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261223
+    m_Localized: Agentes de Azazoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154116885045248
+    m_Localized: Aquelarre de Anette
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261225
+    m_Localized: Ciudad de Pecados
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261226
+    m_Localized: Destino Inexorable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261227
+    m_Localized: "M\xFAsica de los Condenados"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261228
+    m_Localized: El Reino de la Muerte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261229
+    m_Localized: Secretos del Universo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261230
+    m_Localized: "Logia del Crep\xFAsculo de Plata"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261231
+    m_Localized: Depredadores Espectrales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261232
+    m_Localized: El Vigilante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261233
+    m_Localized: "Esp\xEDritus Atrapados"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261234
+    m_Localized: "Brujer\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261235
+    m_Localized: A las Puertas de la Muerte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261236
+    m_Localized: Ante el Trono Negro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261237
+    m_Localized: "Desaparici\xF3n en la Finca del Crep\xFAsculo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261238
+    m_Localized: "Por el Bien Com\xFAn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261239
+    m_Localized: En las Garras del Caos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261240
+    m_Localized: El Nombre Secreto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261241
+    m_Localized: La Paga del Pecado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261242
+    m_Localized: La Hora Bruja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261243
+    m_Localized: "Uni\xF3n y Desilusi\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261244
+    m_Localized: Agentes de Atlach-Nacha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261245
+    m_Localized: Agentes de Nyarlathotep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261246
+    m_Localized: Corsarios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261247
+    m_Localized: "Criaturas del Mundo Subterr\xE1neo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261248
+    m_Localized: Descenso a la Brea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261249
+    m_Localized: "Maldici\xF3n del So\xF1ador"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261250
+    m_Localized: "Tierras del Sue\xF1o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261251
+    m_Localized: Realidades Mezcladas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261252
+    m_Localized: "Ara\xF1as"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157933798154240
+    m_Localized: Terror del Valle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261254
+    m_Localized: Susurros de Hypnos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261255
+    m_Localized: Zoogs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261256
+    m_Localized: Mil Formas de Horror
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261257
+    m_Localized: "M\xE1s all\xE1 de las Puertas del Sue\xF1o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261258
+    m_Localized: El Lado Oscuro de la Luna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261259
+    m_Localized: Punto sin Retorno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261260
+    m_Localized: "La B\xFAsqueda de Kadath"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261261
+    m_Localized: Pesadilla Consciente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261262
+    m_Localized: Tejedora del Cosmos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261263
+    m_Localized: Donde Moran los Dioses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261264
+    m_Localized: Mala Suerte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261265
+    m_Localized: Esclavos Animales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261266
+    m_Localized: Esclavos de Bishop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261267
+    m_Localized: Dunwich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261268
+    m_Localized: Abominaciones Espantosas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261269
+    m_Localized: La Banda de Naomi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261270
+    m_Localized: "Brujer\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261271
+    m_Localized: "El M\xE1s All\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261272
+    m_Localized: Chotacabras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261273
+    m_Localized: Sangre en el Altar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261274
+    m_Localized: Actividad Extracurricular
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261275
+    m_Localized: Perdidos en el Tiempo y el Espacio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261276
+    m_Localized: El Essex County Express
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261277
+    m_Localized: La Casa Siempre Gana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261278
+    m_Localized: El Museo Miskatonic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261279
+    m_Localized: "Invisibles y sin Dimensi\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261280
+    m_Localized: "Donde Aguarda la Perdici\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261281
+    m_Localized: Agentes de Yig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261282
+    m_Localized: Trampas Letales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261283
+    m_Localized: "Expedici\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261284
+    m_Localized: Ruinas Olvidadas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261285
+    m_Localized: Guardianes del Tiempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261286
+    m_Localized: K'n-yan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261287
+    m_Localized: Columnas del Juicio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261288
+    m_Localized: "Hermandad Pnak\xF3tica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261289
+    m_Localized: Veneno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261290
+    m_Localized: Selva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261291
+    m_Localized: Serpientes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261292
+    m_Localized: Flujo Temporal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261293
+    m_Localized: "Ponzo\xF1a de Yig"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261294
+    m_Localized: "El Coraz\xF3n de los Ancianos Parte A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261295
+    m_Localized: "El Coraz\xF3n de los Ancianos Parte B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261296
+    m_Localized: Eones Destrozados
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261297
+    m_Localized: "El L\xEDmite del Otro Lado"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261298
+    m_Localized: La Ciudad de los Archivos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261299
+    m_Localized: Las Profundidades de Yoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152899299565568
+    m_Localized: "La Perdici\xF3n de Eztli"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261301
+    m_Localized: Naturaleza Salvaje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261302
+    m_Localized: Los Hilos del Destino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261303
+    m_Localized: "Vuelta Atr\xE1s en el Tiempo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261304
+    m_Localized: "Agentes de Dag\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261305
+    m_Localized: Agentes de Hidra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261306
+    m_Localized: Criaturas de las Profundidades
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261307
+    m_Localized: Cavernas Inundadas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261308
+    m_Localized: Niebla sobre Innsmouth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261309
+    m_Localized: "Aver\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261310
+    m_Localized: Marea Creciente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261311
+    m_Localized: Recuerdos Fragmentados
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261312
+    m_Localized: Sicigia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261313
+    m_Localized: "Los Lugare\xF1os"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261314
+    m_Localized: Una Luz en la Niebla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261315
+    m_Localized: Arrecife del Diablo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261316
+    m_Localized: "Horror a toda M\xE1quina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261317
+    m_Localized: Hasta el Cuello
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261318
+    m_Localized: Hacia el Remolino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261319
+    m_Localized: "La Guarida de Dag\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261320
+    m_Localized: "El Pozo de la Desesperaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261321
+    m_Localized: "La Desaparici\xF3n de Elina Harper"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261322
+    m_Localized: Byakhee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261323
+    m_Localized: Secta del Signo Amarillo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261324
+    m_Localized: Podredumbre e Impurezas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261325
+    m_Localized: Delirios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261326
+    m_Localized: Portentos Malignos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261327
+    m_Localized: El Regalo de Hastur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261328
+    m_Localized: Apariciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261329
+    m_Localized: Habitantes de Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261330
+    m_Localized: "La Inundaci\xF3n de Abajo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261331
+    m_Localized: El Extranjero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261332
+    m_Localized: "El V\xF3rtice de Arriba"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261333
+    m_Localized: El Fantasma de la Verdad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261334
+    m_Localized: Surgen Estrellas Negras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261335
+    m_Localized: "Se Cierra el Tel\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261336
+    m_Localized: Penumbrosa Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261337
+    m_Localized: Ecos del Pasado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261338
+    m_Localized: "El \xDAltimo Rey"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261339
+    m_Localized: "La M\xE1scara P\xE1lida"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261340
+    m_Localized: El Juramento Inconfesable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261198
+    m_Localized: "Secta de Um\xF4rdhoth (nuevo)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261199
+    m_Localized: "Gules de Um\xF4rdhoth"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261201
+    m_Localized: Regreso a El Devorador de las Profundidades
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261202
+    m_Localized: Regreso a El Encuentro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261203
+    m_Localized: "Regreso a Las M\xE1scaras de Medianoche"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455497
+    m_Localized: "Esp\xEDritus Sedientos de Sangre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455498
+    m_Localized: Nieblas Heladoras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455499
+    m_Localized: Ciudad de los Malditos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455500
+    m_Localized: "Hechicer\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455501
+    m_Localized: Males Inminentes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455502
+    m_Localized: Destino Innombrable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455503
+    m_Localized: El Reino Inestable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455504
+    m_Localized: Regreso a A las Puertas de la Muerte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455505
+    m_Localized: Regreso a Ante el Trono Negro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455506
+    m_Localized: "Regreso a Desaparici\xF3n en la Finca del Cresp\xFAsculo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455507
+    m_Localized: "Regreso a Por el Bien Com\xFAn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455508
+    m_Localized: Regreso a En las Garras del Caos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455509
+    m_Localized: Regreso a El Nombre Secreto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455510
+    m_Localized: Regreso a La Paga del Pecado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455511
+    m_Localized: Regreso a La Hora de la Bruja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455512
+    m_Localized: "Regreso a Uni\xF3n y Desilusi\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176320
+    m_Localized: Realidad Putrefacta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176321
+    m_Localized: Males Ilusorios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176322
+    m_Localized: Enviados de Hastur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176323
+    m_Localized: Delirios Enloquecedores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176324
+    m_Localized: "Miedo Neur\xF3tico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176325
+    m_Localized: Regreso a El Fantasma de la Verdad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176326
+    m_Localized: Regreso a Surgen Estrellas Negras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176327
+    m_Localized: "Regreso a Se Cierra el Tel\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176328
+    m_Localized: Regreso a Penumbrosa Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176329
+    m_Localized: Regreso a Ecos del Pasado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176330
+    m_Localized: "Regreso a El \xDAltimo Rey"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176331
+    m_Localized: "Regreso a La M\xE1scara P\xE1lida"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176332
+    m_Localized: Regreso a El Juramento Inconfesable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261204
+    m_Localized: "Caja B\xE1sica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62739937484800
+    m_Localized: Los Confines de la Tierra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261205
+    m_Localized: "La Noche de la Fan\xE1tica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455546
+    m_Localized: "Regreso a El C\xEDrculo Roto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455547
+    m_Localized: Regreso a El Legado de Dunwich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455548
+    m_Localized: Regreso a La Era Olvidada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261206
+    m_Localized: "Regreso a La Noche de la Fan\xE1tica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455549
+    m_Localized: Regreso a El camino a Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455550
+    m_Localized: "El C\xEDrculo Roto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455551
+    m_Localized: "Los Devoradores de Sue\xF1os"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455552
+    m_Localized: El Legado de Dunwich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455553
+    m_Localized: La Era Olvidada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455554
+    m_Localized: "La Conspiraci\xF3n de Innsmouth"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455555
+    m_Localized: El Camino a Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235484975104
+    m_Localized: Todo o Nada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306752
+    m_Localized: Mala Sangre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306753
+    m_Localized: Siguiendo el Procedimiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306754
+    m_Localized: Lee o Muere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261207
+    m_Localized: Nvl. 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261208
+    m_Localized: Nvl. 1 ~ 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261209
+    m_Localized: "Debilidad B\xE1sica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261210
+    m_Localized: Enlazadas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261211
+    m_Localized: Investigadores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8891433858621440
+    m_Localized: Investigador Paralelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15532527534989313
+    m_Localized: Permanente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261212
+    m_Localized: "Guardi\xE1n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261213
+    m_Localized: Multi-Clase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261214
+    m_Localized: "M\xEDstico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261215
+    m_Localized: Neutral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261216
+    m_Localized: Rebelde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261217
+    m_Localized: Buscador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261218
+    m_Localized: Superviviente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261219
+    m_Localized: Mazo 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261220
+    m_Localized: Mazo 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261221
+    m_Localized: Mazo 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261222
+    m_Localized: Mazo 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775737471229952
+    m_Localized: 2 Clases
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775737475424256
+    m_Localized: 3 Clases
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306755
+    m_Localized: "La Intromisi\xF3n de Miaulathotep"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306756
+    m_Localized: El Bayou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306757
+    m_Localized: Regalos Abisales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306758
+    m_Localized: Tributo Abisal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306759
+    m_Localized: La Hermandad de la Bestia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306760
+    m_Localized: Arenas de Egipto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306761
+    m_Localized: El Letargo Eterno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306762
+    m_Localized: El Usurpador de la Noche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306763
+    m_Localized: "Interferencia Alien\xEDgena"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306764
+    m_Localized: Rituales Oscuros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306765
+    m_Localized: "Direcci\xF3n del Excelsior"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306766
+    m_Localized: Pecados del Pasado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306767
+    m_Localized: Experimentos Viles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306768
+    m_Localized: "Multijugador \xC9pico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306769
+    m_Localized: "Incursi\xF3n Mi-Go"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306770
+    m_Localized: "Grupo \xDAnico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306771
+    m_Localized: "Multijugador \xC9pico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306772
+    m_Localized: "Grupo \xDAnico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306773
+    m_Localized: "Hijos del Para\xEDso"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306774
+    m_Localized: Muerte de las Estrellas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306775
+    m_Localized: "Enjambre de Asimilaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306776
+    m_Localized: Barkham Horror
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306777
+    m_Localized: Carnevale de Horrores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306778
+    m_Localized: "Maldici\xF3n del Rougarou"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306779
+    m_Localized: Guardianes del Abismo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119936797106176
+    m_Localized: Maquinaciones por el tiempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306780
+    m_Localized: Asesinato en el hotel Excelsior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306781
+    m_Localized: La Masa que lo devoraba todo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306782
+    m_Localized: Los laberintos de la demencia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306783
+    m_Localized: Guerra de los Dioses Exteriores.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
