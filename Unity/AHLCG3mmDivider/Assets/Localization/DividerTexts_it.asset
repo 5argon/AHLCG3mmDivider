@@ -478,5 +478,17 @@ MonoBehaviour:
     m_Localized: 3 Classi
     m_Metadata:
       m_Items: []
+  - m_Id: 8891433858621440
+    m_Localized: Investigatore Parallelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15532527534989313
+    m_Localized: Permanente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119936797106176
+    m_Localized: Macchinazioni Temporali
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

@@ -1058,5 +1058,9 @@ MonoBehaviour:
     m_Localized: Guerra de los Dioses Exteriores.
     m_Metadata:
       m_Items: []
+  - m_Id: 1066455261200
+    m_Localized: Secta del Devorador
+    m_Metadata:
+      m_Items: []
   references:
     version: 1
