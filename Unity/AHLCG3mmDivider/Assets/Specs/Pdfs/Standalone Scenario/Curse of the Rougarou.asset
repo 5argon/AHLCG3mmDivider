@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pdfName: Standalone - Curse of the Rougarou
   genSpecs:
-  - {fileID: 11400000, guid: 0ecd31a1479c740728226f6d1a898de4, type: 2}
   - {fileID: 11400000, guid: ba33c26154b6a46bdb7918beed92bc28, type: 2}
+  - {fileID: 11400000, guid: 0ecd31a1479c740728226f6d1a898de4, type: 2}
   - {fileID: 11400000, guid: dc5ec51300c6946b0a13c0adeb612079, type: 2}

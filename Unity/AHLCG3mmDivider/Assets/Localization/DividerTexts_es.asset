@@ -1062,5 +1062,13 @@ MonoBehaviour:
     m_Localized: Secta del Devorador
     m_Metadata:
       m_Items: []
+  - m_Id: 27856950468272128
+    m_Localized: "Multijugador \xC9pico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27856950472466432
+    m_Localized: "Grupo \xDAnico"
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

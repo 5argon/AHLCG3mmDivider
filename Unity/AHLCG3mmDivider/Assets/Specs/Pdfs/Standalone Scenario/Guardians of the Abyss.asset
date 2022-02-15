@@ -15,9 +15,9 @@ MonoBehaviour:
   pdfName: Standalone - Guardians of the Abyss
   genSpecs:
   - {fileID: 11400000, guid: 64014577db27a4d4789b67cba57529cc, type: 2}
-  - {fileID: 11400000, guid: 44a16c02185c24cb483825dc2863dad6, type: 2}
-  - {fileID: 11400000, guid: 9c459bb1c6ab14ab1a28adc8aa81c9ce, type: 2}
-  - {fileID: 11400000, guid: ec94a0bf8d5b3486d95943d88fcf9364, type: 2}
   - {fileID: 11400000, guid: f9dfdd30274154a0bb34b90097ebd709, type: 2}
   - {fileID: 11400000, guid: 75fffe78226ea40aeb77b5af174d4c8d, type: 2}
+  - {fileID: 11400000, guid: ec94a0bf8d5b3486d95943d88fcf9364, type: 2}
   - {fileID: 11400000, guid: 9651c23686fa6474a8ce3424e740c1f1, type: 2}
+  - {fileID: 11400000, guid: 44a16c02185c24cb483825dc2863dad6, type: 2}
+  - {fileID: 11400000, guid: 9c459bb1c6ab14ab1a28adc8aa81c9ce, type: 2}

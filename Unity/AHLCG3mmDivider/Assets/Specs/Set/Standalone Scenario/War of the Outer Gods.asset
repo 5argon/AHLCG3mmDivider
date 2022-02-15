@@ -22,5 +22,7 @@ MonoBehaviour:
     m_FallbackState: 0
     m_WaitForCompletion: 0
     m_LocalVariables: []
+  enableSecondarySetStrip: 1
+  secondarySetStripColor: {r: 0.45412073, g: 0.55796915, b: 0.6132076, a: 1}
   references:
     version: 1

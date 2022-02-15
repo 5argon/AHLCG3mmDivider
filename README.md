@@ -23,12 +23,8 @@ Unlike other dividers, they have a bit of unusual traits that leads to me making
   KMC Character Sleeve Guard has dimension 94mm x 69mm, which will make this 93mm x 68mm a perfect fit inside it.
 
   This eliminates the need of lamination machine to reinforce your dividers if you want to.
-- **Dual orientations** : It has graphics for both landscape and portrait arrangement. This gives you flexibility in your storage solution which may change in the future as you get more expansions.
-
-  There are inevitably some overlaps but graphics from each orientation tries to be as hidden as possible from the other orientation, especially the texts.
-
-  Though, I designed it mainly for landscape since I just bought a Revised Core Set and is still storing everything in that box. The "bonus" vertical graphics maybe a bit cramped.
-- **Easy to work on** : The graphics are generated from applied usage of Unity game engine (also hosted in this repository), which makes them consistent in layout, easy to add more in the future, or batch-modifying mistakes on all previous ones less tedious. It also works really well with generating many localizations.
+- **Dual orientations** : It has graphics for both landscape and portrait arrangement. This gives you flexibility in your storage solution which may change in the future as your collection grows.
+- **Easy to work on** : The graphics are generated from applied usage of Unity game engine (also hosted in this repository), which makes them consistent in layout, easy to add more in the future, or batch-modifying mistakes on all previous ones less tedious. It also works really well with generating many localizations. All this make sure it is easy for me to continue maintaining the project with minimal effort when FFG releases new products.
 
 ## More images
 
@@ -68,6 +64,8 @@ For people who prefer to keep cards added from sets separate in their box. Or al
 
 These are strictly 1 divider per unique set icon officially stated in the campaign guide. With these, you can rely on counting numbers printed on the corner of the card whether you had cleaned up the game properly without losing any card or not, then pack them inside the divider.
 
+Each set has differently colored corner strip based on product box's color. It is to benefit a collection with multiple campaigns in one big box so you can see at glance where are each campaign.
+
 - Core Set (Night of the Zealot + Core Set encounters)
 - The Dunwich Legacy
 - The Path to Carcosa
@@ -85,14 +83,22 @@ These are strictly 1 divider per unique set icon officially stated in the campai
 
 #### Standalone Scenarios
 
-- Standalone - War of the Outer Gods
+Since the product box of these standalones are black, the colored corner strip gets a little secondary color based on the art or theme inside that standalone scenario. This can be useful if you decided to arrange a box of all standalones stored together.
+
+- Standalone - Curse of the Rougarou
 - Standalone - Carnevale of Horrors
 - Standalone - The Labyrinths of Lunacy
-- Standalone - Curse of the Rougarou
-- Standalone - The Blob That Ate Everything
-- Standalone - Barkham Horror
-- Standalone - Murder at the Excelsior Hotel
 - Standalone - Guardians of the Abyss
+- Standalone - Murder at the Excelsior Hotel
+- Standalone - The Blob That Ate Everything
+- Standalone - War of the Outer Gods
+- Standalone - Machinations Through Time
+- Standalone - Barkham Horror: The Meddling of Meowlathotep
+
+What may confuse you is that the first graphic of each set is the "main" icon of the standalone (shown on the bottom corner of the card near the total cards counter), and is not an actual encounter set icon. The 2nd graphic is the real encounter set icon, that is named the same as standalone.
+
+- If you rather want a single divider per standalone no matter how many actual encounter sets are contained within, you may print **only** the first graphic in each set.
+- But if you want a divider for every encounter set icons inside, print everything **except** the first graphic.
 
 ### Languages
 

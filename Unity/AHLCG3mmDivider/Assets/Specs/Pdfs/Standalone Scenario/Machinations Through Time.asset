@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: Machinations Through Time
+  m_EditorClassIdentifier: 
+  pdfName: Standalone - Machinations Through Time
+  genSpecs:
+  - {fileID: 11400000, guid: 08aa8900e0de9468582b0a32e726715a, type: 2}
+  - {fileID: 11400000, guid: 1cc19969a4a264140b6e791878bd75b1, type: 2}
+  - {fileID: 11400000, guid: fb05d6e92282b43419d88d708086c4b8, type: 2}
+  - {fileID: 11400000, guid: 89f94adbf6e4f451d97821ed976ae809, type: 2}
