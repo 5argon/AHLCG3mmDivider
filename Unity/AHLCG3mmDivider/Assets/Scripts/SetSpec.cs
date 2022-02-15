@@ -8,5 +8,7 @@ namespace E7.AhLcgMiniDivider
     {
         [SerializeField] internal Color setStripColor;
         [SerializeField] internal LocalizedString setStripText;
+        [SerializeField] internal bool enableSecondarySetStrip;
+        [SerializeField] internal Color secondarySetStripColor;
     }
 }

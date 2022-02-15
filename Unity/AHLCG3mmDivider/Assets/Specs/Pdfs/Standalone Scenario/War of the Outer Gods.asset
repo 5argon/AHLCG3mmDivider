@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pdfName: Standalone - War of the Outer Gods
   genSpecs:
+  - {fileID: 11400000, guid: 5ddd70ffb9e0c45ff865f2ac395b3b48, type: 2}
+  - {fileID: 11400000, guid: da067db97fa9a4f588a84dac2fa833a6, type: 2}
   - {fileID: 11400000, guid: 280c1ecce08504e56aad79f9d149891e, type: 2}
   - {fileID: 11400000, guid: 7750768d3d11c4c2ca6c63560d271664, type: 2}
-  - {fileID: 11400000, guid: da067db97fa9a4f588a84dac2fa833a6, type: 2}
-  - {fileID: 11400000, guid: 5ddd70ffb9e0c45ff865f2ac395b3b48, type: 2}
   - {fileID: 11400000, guid: 267b2d0a62076420499a3c7cb756f94a, type: 2}

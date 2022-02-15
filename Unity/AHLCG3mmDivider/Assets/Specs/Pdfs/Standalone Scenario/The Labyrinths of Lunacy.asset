@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pdfName: Standalone - The Labyrinths of Lunacy
   genSpecs:
-  - {fileID: 11400000, guid: 7dd8e9e03f15640f0808af0b7dbc8f5c, type: 2}
-  - {fileID: 11400000, guid: 451233c51bb06460781372e092cdebd5, type: 2}
   - {fileID: 11400000, guid: 3109a84f325134c2e8835b696efeb92e, type: 2}
+  - {fileID: 11400000, guid: 7dd8e9e03f15640f0808af0b7dbc8f5c, type: 2}
   - {fileID: 11400000, guid: 5bf3598f56c8a4ce9b515a588bcd9a98, type: 2}
+  - {fileID: 11400000, guid: 451233c51bb06460781372e092cdebd5, type: 2}

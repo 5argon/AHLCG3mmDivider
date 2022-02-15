@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pdfName: Standalone - Murder at the Excelsior Hotel
   genSpecs:
+  - {fileID: 11400000, guid: 798592e2ee3a9481ab550e71d4f12c1d, type: 2}
+  - {fileID: 11400000, guid: 8f0cf91f58aa34411b1e57a2fce5d377, type: 2}
   - {fileID: 11400000, guid: 9b3dca59035a94157b18d97b5372f994, type: 2}
   - {fileID: 11400000, guid: 1e9c580aea5874dc48d59dd24b3f62db, type: 2}
-  - {fileID: 11400000, guid: 8f0cf91f58aa34411b1e57a2fce5d377, type: 2}
   - {fileID: 11400000, guid: 8abb6296a61654eb282d71c04707e8a4, type: 2}
-  - {fileID: 11400000, guid: 798592e2ee3a9481ab550e71d4f12c1d, type: 2}
   - {fileID: 11400000, guid: cea9db47b30b64ecbb9d7d4fa7eefe37, type: 2}
   - {fileID: 11400000, guid: c2bfdb527f0334aec9f80e9cabad7c40, type: 2}
