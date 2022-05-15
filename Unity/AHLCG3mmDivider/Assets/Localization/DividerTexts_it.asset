@@ -238,10 +238,6 @@ MonoBehaviour:
     m_Localized: Il Banco Vince Sempre
     m_Metadata:
       m_Items: []
-  - m_Id: 1066455261278
-    m_Localized: Il Museo della Miskatonic
-    m_Metadata:
-      m_Items: []
   - m_Id: 1066455261279
     m_Localized: Le Dimensioni dell'Invisibile
     m_Metadata:
@@ -488,6 +484,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 119936797106176
     m_Localized: Macchinazioni Temporali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55069609684885504
+    m_Localized: Il Museo della Miskatonic
     m_Metadata:
       m_Items: []
   references:

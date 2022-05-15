@@ -12,5 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d75cdb6396146c38ce28d63d8518960, type: 3}
   m_Name: Brown-Empty
   m_EditorClassIdentifier: 
-  playerCornerColor: {r: 0.3254902, g: 0.2627451, b: 0.1764706, a: 1}
-  playerCornerText: 
+  playerCornerColor: {r: 0.5686275, g: 0.3882353, b: 0.29411766, a: 1}
+  playerCornerText:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 1

@@ -394,10 +394,6 @@ MonoBehaviour:
     m_Localized: The House Always Wins
     m_Metadata:
       m_Items: []
-  - m_Id: 1066455261278
-    m_Localized: The Miskatonic University
-    m_Metadata:
-      m_Items: []
   - m_Id: 1066455261279
     m_Localized: Undimensioned and Unseen
     m_Metadata:
@@ -750,8 +746,8 @@ MonoBehaviour:
     m_Localized: Return to the House Always Wins
     m_Metadata:
       m_Items: []
-  - m_Id: 1066459455524
-    m_Localized: Return to The Miskatonic University
+  - m_Id: 55071232297525248
+    m_Localized: Heart of the Elders
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455525
@@ -932,10 +928,6 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 117235535306752
     m_Localized: Bad Blood
-    m_Metadata:
-      m_Items: []
-  - m_Id: 117235535306753
-    m_Localized: By the Books
     m_Metadata:
       m_Items: []
   - m_Id: 117235535306754
@@ -1188,6 +1180,34 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 27856950472466432
     m_Localized: Single Group
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34233692325928960
+    m_Localized: Red Tide Rising
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34233692338511872
+    m_Localized: Side Deck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34233692338511873
+    m_Localized: Out of the Void
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34235264225239040
+    m_Localized: By the Book
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35092301721100288
+    m_Localized: Novella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55069609684885504
+    m_Localized: The Miskatonic Museum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55069609689079808
+    m_Localized: Return to The Miskatonic Museum
     m_Metadata:
       m_Items: []
   references:

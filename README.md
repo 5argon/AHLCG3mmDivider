@@ -36,71 +36,7 @@ All encounter icons were obtained from combined effort in [this thread](https://
 
 Card graphics was remixed from official FFG print-and-play PDF. I didn't design anything other than putting texts, icons, and recolor a bit.
 
-## Currently done + Languages
-
-### Sets
-
-Each "set" is one folder inside the language folder. You will collect divider graphics from different sets together then layout them according to the [printing guide](./print.md). If there are blank space remaining on the last page, you can pick some individual graphics from Extra set, etc. to fill up. (With A4 printing, you should gather a multiple of 8 dividers.)
-
-Set folder has `x` number suffixed. That is an amount of dividers inside. Perhaps they can help you estimate amount of paper needed to get everything you want. (You can selectively gather only some of them inside each set.)
-
-#### For organizing player cards
-
-- Player : 5 classes, neutral, multi-class, in lv.0 and lv. 1 ~ 5, basic weakness, bonded, permanent.
-- Player Alt : Similar to Player but without Lv. on the corner, blank class-colored dividers, etc.
-- Player - Multi-Class : Dividers for multi-class cards with fine-grained permutations of classes. This is for use with many multi-class cards added in Edge of the Earth.
-- Player - Investigator : Everything says "Investigators" but with different set strip or different colored class corner. For organizing your investigator cards in different grouping criterias.
-- Extra : Some extras such as deck dividers and generic blank dividers.
-
-#### Per-expansion player cards
-
-For people who prefer to keep cards added from sets separate in their box. Or also works for mixed collection that order by collector's number since the number restarts on new expansion.
-
-- Player - Edge of the Earth
-- Player Alt - Edge of the Earth
-- Player - Edge of the Earth - Multi-Class (Like "Player - Multi-Class" but with "Edge of the Earth" set strip at the corner.)
-
-#### Campaigns
-
-These are strictly 1 divider per unique set icon officially stated in the campaign guide. With these, you can rely on counting numbers printed on the corner of the card whether you had cleaned up the game properly without losing any card or not, then pack them inside the divider.
-
-Each set has differently colored corner strip based on product box's color. It is to benefit a collection with multiple campaigns in one big box so you can see at glance where are each campaign.
-
-- Core Set (Night of the Zealot + Core Set encounters)
-- The Dunwich Legacy
-- The Path to Carcosa
-- The Forgotten Age
-- The Circle Undone
-- The Dream-Eaters
-- The Innsmouth Conspiracy
-- Edge of the Earth
-
-#### Return to 
-
-- Return to the Night of the Zealot
-- Return to the Path to Carcosa
-- Return to the Circle Undone
-
-#### Standalone Scenarios
-
-Since the product box of these standalones are black, the colored corner strip gets a little secondary color based on the art or theme inside that standalone scenario. This can be useful if you decided to arrange a box of all standalones stored together.
-
-- Standalone - Curse of the Rougarou
-- Standalone - Carnevale of Horrors
-- Standalone - The Labyrinths of Lunacy
-- Standalone - Guardians of the Abyss
-- Standalone - Murder at the Excelsior Hotel
-- Standalone - The Blob That Ate Everything
-- Standalone - War of the Outer Gods
-- Standalone - Machinations Through Time
-- Standalone - Barkham Horror: The Meddling of Meowlathotep
-
-What may confuse you is that the first graphic of each set is the "main" icon of the standalone (shown on the bottom corner of the card near the total cards counter), and is not an actual encounter set icon. The 2nd graphic is the real encounter set icon, that is named the same as standalone.
-
-- If you rather want a single divider per standalone no matter how many actual encounter sets are contained within, you may print **only** the first graphic in each set.
-- But if you want a divider for every encounter set icons inside, print everything **except** the first graphic.
-
-### Languages
+## Languages
 
 - English
 - German (Contributed by : [@empty0911](https://boardgamegeek.com/user/empty0911), [@Miriamelbgg](https://boardgamegeek.com/user/Miriamelbgg))
@@ -128,9 +64,13 @@ After you have added some translations, you can ping me somewhere, like in [BGG 
 - `Dividers` : Individual divider `.png` files for printing. You should print multiple files in one sheet, depending on your printer.
 - `Images` : Store preview photos shown in this page and in the [gallery page](./gallery.md).
 
+## List of Dividers
+
+Graphics inside `Dividers` folder support various organizing methods and there are overlaps. You can gather and print out just the one that matches what you want your box to look like. [See explanation of each set in a separated page](./list.md).
+
 ## How to use
 
-### Download
+### 1. Download
 
 Download everything as a `.zip` by clicking the **green button** on around top-right corner of this page then select "Download ZIP". Alternatively you can try [this direct link](https://github.com/5argon/AHLCG3mmDivider/archive/refs/heads/main.zip).
 
@@ -138,7 +78,7 @@ Look inside `Dividers` folder. Inside you will find a folder representing a lang
 
 And notice that file number is a multiple of 8, because A4 is a common size of paper and that size could fit at most 8 dividers per sheet. If some category is not quite at the multiple of 8 yet, they are filled with some extra dividers until it is a multiple of 8. If you use bigger or smaller size of paper than A4, you can try merging multiple folders or take out those extra generic dividers as needed.
 
-### Layout, print, and cut
+### 2. Layout, print, and cut
 
 Send items in the same folder into any program that can laid them out on paper size then save a merged image for printing. Make sure size of each divider is physically 93mm x 68mm on the paper (1098x804 px at 300 DPI), some programs like to offer scaling to fit. Make sure that is off.
 
@@ -146,7 +86,13 @@ Send items in the same folder into any program that can laid them out on paper s
 
 After that you can cut them up. You will be making skill test (4) on cutting since there is little room for error before the text is also trimmed off. I also forgot to make the graphic bleed outside of cut line to accommodate cutting errors.
 
-### Making custom graphics
+### 3. Finishing touch
+
+You may use rounded corner punch on them and maybe sleeve to make them last longer.
+
+The printed size 93mm x 68mm can fit inside KMC Character Sleeve just right. The trick to get it in is using the corner of divider or small ruler to stretch open up the 2 entry corners of the sleeve a bit. If you can get both corners in at the same time, the rest will be easy.
+
+## Making custom graphics
 
 `Unity` folder can be used to generate new graphics by opening it with Unity game engine. But it is likely only make sense to me since I hadn't putting in that much effort to make the project understandable.
 
@@ -154,7 +100,7 @@ If you don't know how to use Unity and have any requests of new graphics, it may
 
 I only own the Revised Core Set at the moment, so I myself isn't in a hurry to print more dividers... I likely be getting expansions released in new format starting from Edge of the Earth and add more dividers accordingly.
 
-## Brief explanation of the Unity project
+### Brief explanation of the Unity project
 
 Assuming you know how to use Unity, you can use the project to generate custom dividers with any text and icons. These can help you understand the project structure faster : 
 

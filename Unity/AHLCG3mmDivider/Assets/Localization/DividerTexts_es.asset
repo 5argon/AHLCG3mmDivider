@@ -398,8 +398,8 @@ MonoBehaviour:
     m_Localized: La Casa Siempre Gana
     m_Metadata:
       m_Items: []
-  - m_Id: 1066455261278
-    m_Localized: El Museo Miskatonic
+  - m_Id: 55071232297525248
+    m_Localized: "El Coraz\xF3n de los Ancianos"
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261279
@@ -850,10 +850,6 @@ MonoBehaviour:
     m_Localized: Mala Sangre
     m_Metadata:
       m_Items: []
-  - m_Id: 117235535306753
-    m_Localized: Siguiendo el Procedimiento
-    m_Metadata:
-      m_Items: []
   - m_Id: 117235535306754
     m_Localized: Lee o Muere
     m_Metadata:
@@ -1068,6 +1064,14 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 27856950472466432
     m_Localized: "Grupo \xDAnico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34235264225239040
+    m_Localized: Siguiendo el Procedimiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55069609684885504
+    m_Localized: El Museo Miskatonic
     m_Metadata:
       m_Items: []
   references:

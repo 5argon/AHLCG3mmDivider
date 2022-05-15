@@ -25,7 +25,15 @@ MonoBehaviour:
   playerCornerSpec: {fileID: 0}
   setDisplay: 0
   setSpec: {fileID: 0}
+  lowerVerticalStrip: 0
+  rangeDisplay: 0
+  rangeFrom: 0
+  rangeTo: 0
   iconDisplay: 0
   iconDisplayIcon: {fileID: 0}
+  classIconDisplay: 0
+  firstClass: 0
+  secondClass: 0
+  thirdClass: 0
   references:
     version: 1

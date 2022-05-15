@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: CNR - The Dunwich Legacy
+  m_EditorClassIdentifier: 
+  pdfName: CNR - The Dunwich Legacy
+  genSpecs:
+  - {fileID: 11400000, guid: 68c21351d3b89475d9b3a0dc56088b8c, type: 2}
+  - {fileID: 11400000, guid: 6946ef1d4df844be0bbfe18ce66203ca, type: 2}
+  - {fileID: 11400000, guid: 651cf6102b3d947049b34855a15d6517, type: 2}
+  - {fileID: 11400000, guid: 2058e4f1843f6425da5032606bdf1259, type: 2}
+  - {fileID: 11400000, guid: 5f4b78ddb65214541b2d0247bc9daf96, type: 2}
+  - {fileID: 11400000, guid: 7473d0e54a6e7467aa6de39badac8718, type: 2}
+  - {fileID: 11400000, guid: 35513954ce84d4f3195ff785a9be771a, type: 2}

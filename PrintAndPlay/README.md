@@ -59,3 +59,47 @@ Print in color then laminate it, then you can use non-permanent markers (wash wi
 
 - [Night of the Zealot](./CampaignLogs/NightOfTheZealot.pdf)
 - [Edge of the Earth](./CampaignLogs/EdgeOfTheEarth.pdf)
+
+### Backdrop
+
+![Backdrop](../Images/backdrop-1.jpg)
+![Backdrop](../Images/backdrop-2.jpg)
+
+The KMC Character Sleeve happened to be just the right size to store the sleeved mini cards as well. Doing so make the mini cards expanded to regular card size, and can be stored neatly near the investigator card.
+
+I thought the mini card floating inside empty Character Sleeve is a bit boring, so I made some backdroup graphics for this. It also improve the tightness and make the mini card harder to slip out the sleeve.
+
+The graphic are remixed from FFG official cards. I did nothing.
+
+#### Design 1
+
+- [Guardian](./Backdrop/backdrop-guardian.png)
+- [Mystic](./Backdrop/backdrop-mystic.png)
+- [Neutral](./Backdrop/backdrop-neutral.png)
+- [Rogue](./Backdrop/backdrop-rogue.png)
+- [Seeker](./Backdrop/backdrop-seeker.png)
+- [Survivor](./Backdrop/backdrop-survivor.png)
+
+#### Design 2
+
+- [Guardian](./Backdrop/backdrop2-guardian.png)
+- [Mystic](./Backdrop/backdrop2-mystic.png)
+- [Neutral](./Backdrop/backdrop2-neutral.png)
+- [Rogue](./Backdrop/backdrop2-rogue.png)
+- [Seeker](./Backdrop/backdrop2-seeker.png)
+- [Survivor](./Backdrop/backdrop2-survivor.png)
+
+### Chaos Token Tuck Boxes
+
+A box for storing your unused chaos tokens in the new format campaign box, since the width was designed to exactly fit the insert's width. Inside the box, there are folding dividers so you can store the coins upright, making it easy to pick the right symbol and keep them separated.
+
+One box can hold up to 16 tokens that are in 25~26 cheapo coin capsule. If a box design has less than 16 tokens capacity, the folding divider gets thicker instead so the coin slot still fits snugly and they stay upright.
+
+- [3 4 5 4](./chaos-token-tuck-boxes/3%204%205%204.png) : Intended for `+1 +1 +1 | 0 0 0 0 | 1 1 1 1 1 | -2 -2 -2 -2`
+- [3 2 2 3 2](./chaos-token-tuck-boxes/3%202%202%203%202.png) : Intended for `-3 -3 -3 | -4 -4 | -5 -5 | -6 -7 -8 | Auto-Fail ElderSign`
+- [4 4 4 4](./chaos-token-tuck-boxes/4%204%204%204.png) : Intended for 4x each of special symbol tokens.
+- [2 2 2 2](./chaos-token-tuck-boxes/2%202%202%202.png) : Intended for Edge of the Earth's 8x frost tokens.
+- [2 2 2 2 2](./chaos-token-tuck-boxes/2%202%202%202%202.png) : Intended for 10x bless or curse tokens. (So you need 2 boxes to store both.)
+- [Dividers Only](./chaos-token-tuck-boxes/dividers-only.png)
+
+The folding divider is the strip on top of each file. Colored part is to be vertical wall and white part is parallel to the box's bottom.

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: CNR - The Dream-Eaters
+  m_EditorClassIdentifier: 
+  pdfName: CNR - The Dream-Eaters
+  genSpecs:
+  - {fileID: 11400000, guid: 25e2cacead82642d6b69f1f4fac0863a, type: 2}
+  - {fileID: 11400000, guid: 97a7afea8f6b34c47be534482114ce3e, type: 2}
+  - {fileID: 11400000, guid: 5ba78975f4f6a418f9116e718c7eb62e, type: 2}
+  - {fileID: 11400000, guid: 2a76635a2e9df4d46aeb907a098c1368, type: 2}
+  - {fileID: 11400000, guid: 8a4ad2ac0844541d6ab1a2e6be43cbdd, type: 2}
+  - {fileID: 11400000, guid: 2fb6ee215922f4275b6a2d183a095f3d, type: 2}
+  - {fileID: 11400000, guid: 575d6c444e952422489fe92d416e4a91, type: 2}

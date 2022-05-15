@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: CNR - Edge of the Earth
+  m_EditorClassIdentifier: 
+  pdfName: CNR - Edge of the Earth
+  genSpecs:
+  - {fileID: 11400000, guid: 739eac405862e42bdb98a9196083dc86, type: 2}
+  - {fileID: 11400000, guid: c55e5d916f8a24150858f431e3f049ae, type: 2}
+  - {fileID: 11400000, guid: 4f00fa9c9d7d04047b8cb715d03b4da4, type: 2}
+  - {fileID: 11400000, guid: 6a37f5a0c63474b72965e916df6d3ab7, type: 2}
+  - {fileID: 11400000, guid: c2b29b90b5a61409f9ddfa2de5451617, type: 2}
+  - {fileID: 11400000, guid: 1e7363bbb4c804ca4b6f24d90f071850, type: 2}
+  - {fileID: 11400000, guid: a0533d62738284db9a06d4474f196739, type: 2}
+  - {fileID: 11400000, guid: 7cb370870d0a14abe9c3e0c115f62e11, type: 2}
