@@ -15,15 +15,6 @@ MonoBehaviour:
   pdfName: Player - Investigator
   genSpecs:
   - {fileID: 11400000, guid: 462e3251a3b2c448badeb96b9085b4b4, type: 2}
-  - {fileID: 11400000, guid: 3588ff97a3eed419dbcc531fd4494c32, type: 2}
-  - {fileID: 11400000, guid: f6f2eb2e70a13440995062f93cc654c2, type: 2}
-  - {fileID: 11400000, guid: 13a2d1f8e12564b76ac32802cbaae207, type: 2}
-  - {fileID: 11400000, guid: faa0e5467cd634c5eaa9b8f6c2673a1e, type: 2}
-  - {fileID: 11400000, guid: 1e8c179c0d88f4950865d4d6627045a2, type: 2}
-  - {fileID: 11400000, guid: f739c5b4cf19c443bbfeb97e41fdade3, type: 2}
-  - {fileID: 11400000, guid: 505a51dfed4b24169b086b7b8028a9fe, type: 2}
-  - {fileID: 11400000, guid: a6b52bd1c01dd4231bfb52b02d19accc, type: 2}
-  - {fileID: 11400000, guid: 2f956d98d1fd84803a4f20df29d80b37, type: 2}
   - {fileID: 11400000, guid: 5cb6a18a0459a4723b321bb7a29cad7f, type: 2}
   - {fileID: 11400000, guid: 7881671c4c3e4496fa52429f2cefb78f, type: 2}
   - {fileID: 11400000, guid: 8d55e2babfe5c4a83bdadf4108bba19b, type: 2}

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 441de306b4a2b46ae82f4372d27c7c01, type: 3}
+  m_Name: 229-236 (The City of Archives)
+  m_EditorClassIdentifier: 
+  mainText:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  playerCornerDisplay: 1
+  playerCornerSpec: {fileID: 11400000, guid: 23fa7dccc024e48cdbd41368db754651, type: 2}
+  setDisplay: 1
+  setSpec: {fileID: 11400000, guid: a903580475d8b4fb5b66512cac4f6bad, type: 2}
+  lowerVerticalStrip: 1
+  rangeDisplay: 1
+  rangeFrom: 229
+  rangeTo: 236
+  rangeSubText:
+    m_TableReference:
+      m_TableCollectionName: GUID:0fe55b6e16baa4337b49d27ef6014293
+    m_TableEntryReference:
+      m_KeyId: 1066455261298
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  iconDisplay: 0
+  iconDisplayIcon: {fileID: 21300000, guid: 34a8072c6566e413493fc4ff6c5439b4, type: 3}
+  classIconDisplay: 0
+  firstClass: 0
+  secondClass: 0
+  thirdClass: 0
+  references:
+    version: 1

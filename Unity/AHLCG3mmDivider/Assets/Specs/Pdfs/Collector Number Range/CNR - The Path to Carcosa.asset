@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: CNR - The Path to Carcosa
+  m_EditorClassIdentifier: 
+  pdfName: CNR - The Path to Carcosa
+  genSpecs:
+  - {fileID: 11400000, guid: 059b70ec5246d4070862b7f4e4d6514f, type: 2}
+  - {fileID: 11400000, guid: 3c44029306dfe4db29be2d1d5437f84d, type: 2}
+  - {fileID: 11400000, guid: 2a7ccba388fc24a3abb917ab1139795b, type: 2}
+  - {fileID: 11400000, guid: 0231b2cba26284d2d9df904b40b6fe76, type: 2}
+  - {fileID: 11400000, guid: 062471e92959a434186b367c16792147, type: 2}
+  - {fileID: 11400000, guid: 339615be1eaf44ee59d629080006aea2, type: 2}
+  - {fileID: 11400000, guid: a4ad7d1cadb134ecfbb1990b1fbc06b6, type: 2}

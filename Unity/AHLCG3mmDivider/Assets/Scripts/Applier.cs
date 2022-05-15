@@ -37,6 +37,11 @@ namespace E7.AhLcgMiniDivider
 
         [SerializeField] private ClassIconRef classIconRef2;
 
+        [Space]
+        [SerializeField] private RangeRef rangeRef1;
+
+        [SerializeField] private RangeRef rangeRef2;
+
         [ContextMenu("Gen")]
         internal void Gen()
         {
@@ -71,6 +76,9 @@ namespace E7.AhLcgMiniDivider
 
             icon1.ApplySpec(gs);
             icon2.ApplySpec(gs);
+
+            rangeRef1.ApplySpec(gs);
+            rangeRef2.ApplySpec(gs);
 
             classIconRef1.ApplySpec(gs);
             classIconRef2.ApplySpec(gs);

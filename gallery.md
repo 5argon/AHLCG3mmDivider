@@ -41,6 +41,8 @@ Unlike Boulder, this box still has wiggle room and can close nicely.
 
 It is a perfect fit inside KMC Character Sleeve Guard (69x94 mm). Depending on thickness of your paper, you may have trouble fitting this in without destroying the edge. I used 300 gsm paper and it is pretty difficult to get each one in.
 
+Try using thin ruler or the divider to open up the 2 entry corners a bit.
+
 ## Edge of the Earth
 
 **Spoiler for encounter set icons and their names.**
@@ -50,3 +52,14 @@ It is a perfect fit inside KMC Character Sleeve Guard (69x94 mm). Depending on t
 ![Image](./Images/eote-2.jpg)
 
 ![Image](./Images/eote-3.jpg)
+
+## Organizing by Collector Number Range
+
+![Collector number dividers](./Images/cnr-1.jpg)
+![Collector number dividers](./Images/cnr-2.jpg)
+![Collector number dividers](./Images/cnr-3.jpg)
+
+## Standalone Scenarios
+
+![Standalone dividers](./Images/standalone-2.jpg)
+![Standalone dividers](./Images/standalone-1.jpg)

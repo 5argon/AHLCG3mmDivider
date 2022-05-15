@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: CNR - The Forgotten Age
+  m_EditorClassIdentifier: 
+  pdfName: CNR - The Forgotten Age
+  genSpecs:
+  - {fileID: 11400000, guid: 7ddccfe8a659040b6af9e2127526da65, type: 2}
+  - {fileID: 11400000, guid: 8aa46a741b9c14533b0daa7e8c5415b8, type: 2}
+  - {fileID: 11400000, guid: 51926db84c0044f70a9028001dc155de, type: 2}
+  - {fileID: 11400000, guid: a39a5d7bb3a3641d6a29d84268490c93, type: 2}
+  - {fileID: 11400000, guid: b01c47256369b4ed7ab88664ecd4c2d6, type: 2}
+  - {fileID: 11400000, guid: a556f51be007845efacb9fb25190b473, type: 2}
+  - {fileID: 11400000, guid: bef2ef3a4d752461798eda2f9c976c9a, type: 2}

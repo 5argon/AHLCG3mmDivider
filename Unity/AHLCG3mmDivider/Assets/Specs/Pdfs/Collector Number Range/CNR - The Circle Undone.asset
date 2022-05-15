@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: CNR - The Circle Undone
+  m_EditorClassIdentifier: 
+  pdfName: CNR - The Circle Undone
+  genSpecs:
+  - {fileID: 11400000, guid: 45f13347377804c74b1e98614668f8ab, type: 2}
+  - {fileID: 11400000, guid: ce45ed636548548039e3b1bbab2dc621, type: 2}
+  - {fileID: 11400000, guid: 79c9e957d6ed0461ca07377ae1e868cb, type: 2}
+  - {fileID: 11400000, guid: a84340053b5294849b4fbd08054328e0, type: 2}
+  - {fileID: 11400000, guid: f80fa907c0511433188c81870d2edf1b, type: 2}
+  - {fileID: 11400000, guid: 59cf549e8f629428082ff4d31946558e, type: 2}
+  - {fileID: 11400000, guid: e073244cef9184b0596e6dce9d9f8b07, type: 2}

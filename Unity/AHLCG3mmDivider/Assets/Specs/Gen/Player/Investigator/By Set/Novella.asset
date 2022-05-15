@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 441de306b4a2b46ae82f4372d27c7c01, type: 3}
+  m_Name: Novella
+  m_EditorClassIdentifier: 
+  mainText:
+    m_TableReference:
+      m_TableCollectionName: GUID:0fe55b6e16baa4337b49d27ef6014293
+    m_TableEntryReference:
+      m_KeyId: 1066455261211
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  playerCornerDisplay: 0
+  playerCornerSpec: {fileID: 0}
+  setDisplay: 1
+  setSpec: {fileID: 11400000, guid: 4b25c54a0541e45dfa5e4d7f3cada7df, type: 2}
+  lowerVerticalStrip: 0
+  rangeDisplay: 0
+  rangeFrom: 0
+  rangeTo: 0
+  iconDisplay: 1
+  iconDisplayIcon: {fileID: 21300000, guid: af9d26bc406384a4192722cb86b3b3ba, type: 3}
+  classIconDisplay: 0
+  firstClass: 0
+  secondClass: 0
+  thirdClass: 0
+  references:
+    version: 1

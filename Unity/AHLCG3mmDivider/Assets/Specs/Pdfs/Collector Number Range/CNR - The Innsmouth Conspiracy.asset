@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: CNR - The Innsmouth Conspiracy
+  m_EditorClassIdentifier: 
+  pdfName: CNR - The Innsmouth Conspiracy
+  genSpecs:
+  - {fileID: 11400000, guid: 4879654e59def44f6b19a33329c95176, type: 2}
+  - {fileID: 11400000, guid: 0dcdb42326e6b43ddbff8523ad607067, type: 2}
+  - {fileID: 11400000, guid: 1375dd22203d749ffadf6ea06d248a15, type: 2}
+  - {fileID: 11400000, guid: 2fe4d788a6b024d3ba9c55ce3908a128, type: 2}
+  - {fileID: 11400000, guid: 2d36622476a8342fcba6383c247d399f, type: 2}
+  - {fileID: 11400000, guid: ca2d679ccf0a94d2483b070362f030e8, type: 2}
+  - {fileID: 11400000, guid: 1ab77787af683435c96e80e9cb4d63be, type: 2}

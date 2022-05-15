@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: CCQ - The Dunwich Legacy
+  m_EditorClassIdentifier: 
+  pdfName: CCQ - The Dunwich Legacy
+  genSpecs:
+  - {fileID: 11400000, guid: 00eab513b8b1e454ea242059f7f3e709, type: 2}
+  - {fileID: 11400000, guid: bab68f7527ff1419ba9f18166a737ca7, type: 2}
+  - {fileID: 11400000, guid: 81c0c5ec3cb004d15ae7a8f892efe7f9, type: 2}
+  - {fileID: 11400000, guid: ccc7d94f3584c4eb3b25474e54650935, type: 2}
+  - {fileID: 11400000, guid: 33ff6bf7280fd49219b8f3359643f529, type: 2}
+  - {fileID: 11400000, guid: 9890ac2cbf3a947b784732946209fdb1, type: 2}

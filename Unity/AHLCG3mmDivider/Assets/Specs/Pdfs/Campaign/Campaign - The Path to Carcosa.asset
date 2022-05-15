@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: Campaign - The Path to Carcosa
+  m_EditorClassIdentifier: 
+  pdfName: Campaign - The Path to Carcosa
+  genSpecs:
+  - {fileID: 11400000, guid: 6e81d6f5a451946b0af9866aed6fc395, type: 2}
+  - {fileID: 11400000, guid: a67d4520e7a774b5ea8476c0a1fb2272, type: 2}
+  - {fileID: 11400000, guid: ff90ae0cdc52b49b2b0a432bdadece2e, type: 2}
+  - {fileID: 11400000, guid: f55f1c9238e3949878d8a64543f230fc, type: 2}
+  - {fileID: 11400000, guid: 0965e0cdd22ad49409fd3b957c8fbe9e, type: 2}
+  - {fileID: 11400000, guid: 55a5be5bb6d314031938f52e61cf9b29, type: 2}
+  - {fileID: 11400000, guid: 0452110e344044336bdaa0d64e3ddad0, type: 2}
+  - {fileID: 11400000, guid: 446afdc44def34278b9174a5941d21b9, type: 2}
+  - {fileID: 11400000, guid: 73c4ad01fd5d743f5b6d9e13d2109f70, type: 2}
+  - {fileID: 11400000, guid: 456c8c7a3ba14425b905e740eff94470, type: 2}
+  - {fileID: 11400000, guid: 46b6d427fe9924acda11bc0e73cfa51c, type: 2}
+  - {fileID: 11400000, guid: ce92d43fa19e547d380b59009af2e073, type: 2}
+  - {fileID: 11400000, guid: 7e4e86222a8284f20b15748409651f69, type: 2}
+  - {fileID: 11400000, guid: e29c57e5e5d004a0daba75c5b7dc07d9, type: 2}
+  - {fileID: 11400000, guid: a2e790d2c80e541ddb6ea55d210a14a2, type: 2}
+  - {fileID: 11400000, guid: 6825f68a887be4c5580e7ef3b20d0e3a, type: 2}
+  - {fileID: 11400000, guid: 335d5111512084f50ba724b6535ebd36, type: 2}
+  - {fileID: 11400000, guid: 2df05e29f3c2a44a991944e1ac90438d, type: 2}
+  - {fileID: 11400000, guid: 936c9c84305354857866c41d1e77f222, type: 2}

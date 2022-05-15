@@ -238,10 +238,6 @@ MonoBehaviour:
     m_Localized: Das Haus gewinnt immer
     m_Metadata:
       m_Items: []
-  - m_Id: 1066455261278
-    m_Localized: Das Miskatonic-Museum
-    m_Metadata:
-      m_Items: []
   - m_Id: 1066455261279
     m_Localized: Gestaltlos und unsichtbar
     m_Metadata:
@@ -810,8 +806,8 @@ MonoBehaviour:
     m_Localized: "R\xFCckkehr zu: Das Haus gewinnt immer"
     m_Metadata:
       m_Items: []
-  - m_Id: 1066459455524
-    m_Localized: "R\xFCckkehr zu: Das Miskatonic-Museum"
+  - m_Id: 55071232297525248
+    m_Localized: "Das Herz der \xC4lteren"
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455525
@@ -1168,6 +1164,14 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 15532527534989313
     m_Localized: Dauerhaft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55069609684885504
+    m_Localized: Das Miskatonic-Museum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55069609689079808
+    m_Localized: "R\xFCckkehr zu: Das Miskatonic-Museum"
     m_Metadata:
       m_Items: []
   references:
