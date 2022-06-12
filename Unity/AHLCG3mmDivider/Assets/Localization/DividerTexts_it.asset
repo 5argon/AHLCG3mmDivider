@@ -490,5 +490,25 @@ MonoBehaviour:
     m_Localized: Il Museo della Miskatonic
     m_Metadata:
       m_Items: []
+  - m_Id: 70291989931745280
+    m_Localized: Liv. 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745281
+    m_Localized: Liv. 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745282
+    m_Localized: Liv. 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745283
+    m_Localized: Liv. 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745284
+    m_Localized: Liv. 5
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

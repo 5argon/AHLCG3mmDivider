@@ -83,7 +83,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8864346472964098
-    m_Localized: Elder Things
+    m_Localized: "Choses Tr\xE8s Anciennes"
     m_Metadata:
       m_Items: []
   - m_Id: 8864346472964099
@@ -768,6 +768,26 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 55071232297525248
     m_Localized: Les Coeur des Anciens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745280
+    m_Localized: Niv. 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745281
+    m_Localized: Niv. 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745282
+    m_Localized: Niv. 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745283
+    m_Localized: Niv. 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745284
+    m_Localized: Niv. 5
     m_Metadata:
       m_Items: []
   references:

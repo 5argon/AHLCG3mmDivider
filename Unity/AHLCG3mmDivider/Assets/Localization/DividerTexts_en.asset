@@ -1210,5 +1210,61 @@ MonoBehaviour:
     m_Localized: Return to The Miskatonic Museum
     m_Metadata:
       m_Items: []
+  - m_Id: 70284184654962688
+    m_Localized: Accessory Slot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156992
+    m_Localized: Body Slot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156993
+    m_Localized: 1 Hand Slot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156994
+    m_Localized: 2 Hand Slots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156995
+    m_Localized: 1 Arcane Slot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156996
+    m_Localized: 2 Arcane Slots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156997
+    m_Localized: Ally Slot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156998
+    m_Localized: Tarot Slot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156999
+    m_Localized: Other
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745280
+    m_Localized: Lv. 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745281
+    m_Localized: Lv. 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745282
+    m_Localized: Lv. 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745283
+    m_Localized: Lv. 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745284
+    m_Localized: Lv. 5
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

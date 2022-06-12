@@ -20,12 +20,14 @@ namespace E7.AhLcgMiniDivider
         
         [Space]
         [SerializeField] internal bool rangeDisplay;
+        [SerializeField] internal bool removeRangeIcon;
         [SerializeField] internal uint rangeFrom;
         [SerializeField] internal uint rangeTo;
         [SerializeField] internal LocalizedString rangeSubText;
 
         [Space]
         [SerializeField] internal bool iconDisplay;
+        [SerializeField] internal bool iconPreserveColor;
 
         [SerializeField] internal Sprite iconDisplayIcon;
 

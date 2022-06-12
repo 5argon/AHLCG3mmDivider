@@ -1018,6 +1018,26 @@ MonoBehaviour:
     m_Key: Player/Card Level/Lv. 1 ~ 5
     m_Metadata:
       m_Items: []
+  - m_Id: 70291989931745280
+    m_Key: Player/Card Level/Lv. 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745281
+    m_Key: Player/Card Level/Lv. 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745282
+    m_Key: Player/Card Level/Lv. 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745283
+    m_Key: Player/Card Level/Lv. 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745284
+    m_Key: Player/Card Level/Lv. 5
+    m_Metadata:
+      m_Items: []
   - m_Id: 1066455261209
     m_Key: Player/Category/Basic Weakness
     m_Metadata:
@@ -1228,6 +1248,42 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 34233692338511873
     m_Key: Unofficial/Out of the Void
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184654962688
+    m_Key: Player/Slot Requirement/Accessory Slot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156992
+    m_Key: Player/Slot Requirement/Body Slot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156993
+    m_Key: Player/Slot Requirement/1 Hand Slot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156994
+    m_Key: Player/Slot Requirement/2 Hand Slots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156995
+    m_Key: Player/Slot Requirement/1 Arcane Slot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156996
+    m_Key: Player/Slot Requirement/2 Arcane Slots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156997
+    m_Key: Player/Slot Requirement/Ally Slot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156998
+    m_Key: Player/Slot Requirement/Tarot Slot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156999
+    m_Key: Player/Slot Requirement/Other
     m_Metadata:
       m_Items: []
   m_Metadata:

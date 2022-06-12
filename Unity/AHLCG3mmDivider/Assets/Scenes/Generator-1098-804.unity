@@ -402,7 +402,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &693287152
 RectTransform:
   m_ObjectHideFlags: 0
@@ -540,7 +540,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 658153156283818062, guid: 9ea7f0f43e5df4dbba6ca3bd56ce5316, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1595244639081512610, guid: 9ea7f0f43e5df4dbba6ca3bd56ce5316, type: 3}
       propertyPath: m_Color.b
@@ -774,7 +774,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2169732194588403786, guid: 68fece620c6f34d608daf3461a69c10e, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 68fece620c6f34d608daf3461a69c10e, type: 3}
@@ -1268,7 +1268,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0a1bddfb3c484e04ae513b26f25d6827, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  genSpec: {fileID: 11400000, guid: 69721a61d70a3485c9e0619163169d5d, type: 2}
+  genSpec: {fileID: 11400000, guid: e19964216992e4577bc686d05b97123e, type: 2}
   playerCornerObject: {fileID: 693287151}
   playerCornerColor: {fileID: 1802498634}
   playerCornerText1: {fileID: 1497651298553748575}
@@ -1639,6 +1639,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: dc369d8000f1b473abb8cf28bd42d4d2, type: 2}
   - {fileID: 11400000, guid: 3312d4d34590a4e3599f7ea960142d05, type: 2}
   - {fileID: 11400000, guid: ce77b268b908e41049d987af338c0c8f, type: 2}
+  - {fileID: 11400000, guid: b5b0ef38102ce4b4f87f74ee29ef122b, type: 2}
   - {fileID: 11400000, guid: 7969fddd6284647adb09f8c2ac851db1, type: 2}
   - {fileID: 11400000, guid: fe42503ecb0444722a873a7b4f3f9118, type: 2}
   - {fileID: 11400000, guid: 7708afa52ff4f4fb88eac9f28866dcd0, type: 2}
@@ -1886,7 +1887,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5058576848674629891, guid: 9ea7f0f43e5df4dbba6ca3bd56ce5316, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ea7f0f43e5df4dbba6ca3bd56ce5316, type: 3}
@@ -2055,6 +2056,10 @@ PrefabInstance:
       value: 240.5829
       objectReference: {fileID: 0}
     - target: {fileID: 3298772839568451030, guid: f49b5c508f7004bdb81a2267643644d7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5397444706396862814, guid: f49b5c508f7004bdb81a2267643644d7, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
@@ -2639,7 +2644,7 @@ PrefabInstance:
       objectReference: {fileID: 21300000, guid: 790608f560c144941a70a2db93e5adbf, type: 3}
     - target: {fileID: 2169732194588403786, guid: 68fece620c6f34d608daf3461a69c10e, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 68fece620c6f34d608daf3461a69c10e, type: 3}
@@ -2863,7 +2868,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 658153156283818062, guid: 9ea7f0f43e5df4dbba6ca3bd56ce5316, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1595244639081512610, guid: 9ea7f0f43e5df4dbba6ca3bd56ce5316, type: 3}
       propertyPath: m_Color.b
@@ -2939,7 +2944,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5058576848674629891, guid: 9ea7f0f43e5df4dbba6ca3bd56ce5316, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ea7f0f43e5df4dbba6ca3bd56ce5316, type: 3}
@@ -2998,6 +3003,10 @@ PrefabInstance:
     - target: {fileID: 5397444706396862784, guid: f49b5c508f7004bdb81a2267643644d7, type: 3}
       propertyPath: m_PreserveAspect
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5397444706396862814, guid: f49b5c508f7004bdb81a2267643644d7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7818977351784794570, guid: f49b5c508f7004bdb81a2267643644d7, type: 3}
       propertyPath: m_Name
