@@ -1174,5 +1174,25 @@ MonoBehaviour:
     m_Localized: "R\xFCckkehr zu: Das Miskatonic-Museum"
     m_Metadata:
       m_Items: []
+  - m_Id: 70291989931745280
+    m_Localized: St. 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745281
+    m_Localized: St. 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745282
+    m_Localized: St. 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745283
+    m_Localized: St. 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745284
+    m_Localized: St. 5
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

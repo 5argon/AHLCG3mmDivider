@@ -4,7 +4,7 @@ Each "set" is one folder inside the language folder. You will collect divider gr
 
 Set folder has `x` number suffixed. That is an amount of dividers inside. Perhaps they can help you estimate amount of paper needed to get everything you want. (You can selectively gather only some of them inside each set.)
 
-## For organizing player cards
+## Player
 
 ![Player card dividers](./Images/box-1.jpg)
 
@@ -13,11 +13,12 @@ Set folder has `x` number suffixed. That is an amount of dividers inside. Perhap
 - Player - Investigator x6 : For organizing investigators by class.
 - Player - Investigator By Set x9 : For organizing investigator by the set they came from. It also has set icon on top left and set name on top right.
 - Player - Multi-Class x16 : More fine grained multi-class card dividers. Including every combination of 2 classes, or one saying "3 classes" for EotE talent cards.
+- Player - Slot Requirement x27 : 3 dividers for each slot requirement type (No level, Lv.0, Lv. 1~5), and also "Other" so it corresponds to how ArkhamDB categorize the Asset taking no slots or multiple type of slots at once.
 - Player - Misc x3 : Basic Weakness divider to bunch up all your weaknesses to shuffle and pick. Bonded and Permanent dividers are available as well if you want to organize that way.
 
-### Organizing by Cycle-Class-Quantity
+## CCQ (Cycle-Class-Quantity)
 
-This is a collection that maximizes deck teardown speed while maintaining good deck assembling speed, requiring help from quantity number printed on the dividers and online deckbuilder like ArkhamDB.
+This is a collection that maximizes deck teardown speed while maintaining good deck assembling speed, requiring help from quantity number printed on the dividers and online deckbuilder like ArkhamDB. It mimics the encounter set's UX to player cards.
 
 [Head to the dedicated page to learn about this.](./cycle-class-quantity.md)
 

@@ -21,21 +21,26 @@ namespace E7.AhLcgMiniDivider
             go.SetActive(gs.rangeDisplay);
             if (gs.rangeDisplay)
             {
-                if (gs.rangeFrom != 0 && gs.rangeTo == 0)
+                icon.gameObject.SetActive(gs.removeRangeIcon ? false : true);
+                icon.sprite = gs.removeRangeIcon ? null : gs.iconDisplayIcon;
+                rangeSubText.text = gs.rangeSubText.IsEmpty ? string.Empty : gs.rangeSubText.GetLocalizedString();
+                if (gs.rangeFrom == 0 && gs.rangeTo == 0)
                 {
-                    icon.sprite = gs.iconDisplayIcon;
+                    rangeLeft.text = "";
+                    rangeRight.text = "";
+                    rangeDash.gameObject.SetActive(false);
+                }
+                else if (gs.rangeFrom != 0 && gs.rangeTo == 0)
+                {
                     rangeLeft.text = $"<mspace=0.55em>{gs.rangeFrom}</mspace>";
                     rangeRight.text = "";
                     rangeDash.gameObject.SetActive(false);
-                    rangeSubText.text = gs.rangeSubText.IsEmpty ? string.Empty : gs.rangeSubText.GetLocalizedString();
                 }
                 else
                 {
-                    icon.sprite = gs.iconDisplayIcon;
                     rangeLeft.text = $"<mspace=0.55em>{gs.rangeFrom:000}</mspace>";
                     rangeRight.text = $"<mspace=0.55em>{gs.rangeTo:000}</mspace>";
                     rangeDash.gameObject.SetActive(true);
-                    rangeSubText.text = gs.rangeSubText.IsEmpty ? string.Empty : gs.rangeSubText.GetLocalizedString();
                 }
             }
         }

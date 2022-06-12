@@ -72,15 +72,11 @@ Graphics inside `Dividers` folder support various organizing methods and there a
 
 ### 1. Download
 
-Download everything as a `.zip` by clicking the **green button** on around top-right corner of this page then select "Download ZIP". Alternatively you can try [this direct link](https://github.com/5argon/AHLCG3mmDivider/archive/refs/heads/main.zip).
-
-Look inside `Dividers` folder. Inside you will find a folder representing a language code, then category folders ending in number of dividers inside that folder (e.g. `8x`, `16x`). Dividers in the same folder are meant to be grouped in the same paper when you send to print shop, as they are likely used together. (e.g. for the same campaign box.)
-
-And notice that file number is a multiple of 8, because A4 is a common size of paper and that size could fit at most 8 dividers per sheet. If some category is not quite at the multiple of 8 yet, they are filled with some extra dividers until it is a multiple of 8. If you use bigger or smaller size of paper than A4, you can try merging multiple folders or take out those extra generic dividers as needed.
+Download everything as a `.zip` by clicking the **green button** on around top-right corner of this page then select "Download ZIP". Alternatively you can try [this direct link](https://github.com/5argon/AHLCG3mmDivider/archive/refs/heads/main.zip) to download everything. Alternatively, browse online by going inside `Dividers` folder and hand pick each graphics you want. [See explanation of each set in this page](./list.md). There are a lot for different organization needs.
 
 ### 2. Layout, print, and cut
 
-Send items in the same folder into any program that can laid them out on paper size then save a merged image for printing. Make sure size of each divider is physically 93mm x 68mm on the paper (1098x804 px at 300 DPI), some programs like to offer scaling to fit. Make sure that is off.
+Send all picked graphics to any program that can laid them out on paper size then save a merged image for printing. Make sure size of each divider is physically 93mm x 68mm on the paper (1098x804 px at 300 DPI), some programs like to offer scaling to fit. Make sure that is off. It helps if you print multiple of 8 dividers for A4 printer. Maybe gather some extras to fit the paper.
 
 - [See examples of using "Photos" app in macOS or "IrfanView Thumbnails" on Windows to do this.](./print.md)
 
