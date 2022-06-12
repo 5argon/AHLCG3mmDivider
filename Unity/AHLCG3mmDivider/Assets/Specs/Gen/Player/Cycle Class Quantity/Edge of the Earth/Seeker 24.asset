@@ -27,6 +27,7 @@ MonoBehaviour:
   setSpec: {fileID: 11400000, guid: 99cd2616ad3014b7b883027bb1db59a8, type: 2}
   lowerVerticalStrip: 1
   rangeDisplay: 1
+  removeRangeIcon: 0
   rangeFrom: 24
   rangeTo: 0
   rangeSubText:
@@ -39,7 +40,8 @@ MonoBehaviour:
     m_WaitForCompletion: 0
     m_LocalVariables: []
   iconDisplay: 0
-  iconDisplayIcon: {fileID: 21300000, guid: 85ed3b7b560724b1380f8c2a11bf405f, type: 3}
+  iconPreserveColor: 0
+  iconDisplayIcon: {fileID: 21300000, guid: 8472afad5eeaa4841ac2d66555bc2632, type: 3}
   classIconDisplay: 0
   firstClass: 0
   secondClass: 0
