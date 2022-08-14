@@ -460,16 +460,16 @@ MonoBehaviour:
     m_Key: Campaign/Regular/The Forgotten Age/Encounter/Yig's Venom
     m_Metadata:
       m_Items: []
+  - m_Id: 55071232297525248
+    m_Key: Campaign/Regular/The Forgotten Age/Scenario/Heart of the Elders
+    m_Metadata:
+      m_Items: []
   - m_Id: 1066455261294
     m_Key: Campaign/Regular/The Forgotten Age/Scenario/Heart of the Elders Part A
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261295
     m_Key: Campaign/Regular/The Forgotten Age/Scenario/Heart of the Elders Part B
-    m_Metadata:
-      m_Items: []
-  - m_Id: 55071232297525248
-    m_Key: Campaign/Regular/The Forgotten Age/Scenario/Heart of the Elders
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261296
@@ -990,6 +990,10 @@ MonoBehaviour:
     m_Key: Campaign Name/The Path to Carcosa
     m_Metadata:
       m_Items: []
+  - m_Id: 93158039496941568
+    m_Key: Campaign Name/The Scarlet Keys
+    m_Metadata:
+      m_Items: []
   - m_Id: 117235484975104
     m_Key: Challenge Scenario Name/All or Nothing
     m_Metadata:
@@ -1014,12 +1018,12 @@ MonoBehaviour:
     m_Key: Player/Card Level/Lv. 0
     m_Metadata:
       m_Items: []
-  - m_Id: 1066455261208
-    m_Key: Player/Card Level/Lv. 1 ~ 5
-    m_Metadata:
-      m_Items: []
   - m_Id: 70291989931745280
     m_Key: Player/Card Level/Lv. 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261208
+    m_Key: Player/Card Level/Lv. 1 ~ 5
     m_Metadata:
       m_Items: []
   - m_Id: 70291989931745281
@@ -1050,12 +1054,12 @@ MonoBehaviour:
     m_Key: Player/Category/Investigators
     m_Metadata:
       m_Items: []
-  - m_Id: 8891433858621440
-    m_Key: Player/Category/Parallel Investigator
-    m_Metadata:
-      m_Items: []
   - m_Id: 35092301721100288
     m_Key: Player/Category/Novella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8891433858621440
+    m_Key: Player/Category/Parallel Investigator
     m_Metadata:
       m_Items: []
   - m_Id: 15532527534989313
@@ -1116,6 +1120,42 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1775737475424256
     m_Key: Player/Multi-Class/3 Classes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156995
+    m_Key: Player/Slot Requirement/1 Arcane Slot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156993
+    m_Key: Player/Slot Requirement/1 Hand Slot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156996
+    m_Key: Player/Slot Requirement/2 Arcane Slots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156994
+    m_Key: Player/Slot Requirement/2 Hand Slots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184654962688
+    m_Key: Player/Slot Requirement/Accessory Slot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156997
+    m_Key: Player/Slot Requirement/Ally Slot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156992
+    m_Key: Player/Slot Requirement/Body Slot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156999
+    m_Key: Player/Slot Requirement/Other
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156998
+    m_Key: Player/Slot Requirement/Tarot Slot
     m_Metadata:
       m_Items: []
   - m_Id: 117235535306755
@@ -1246,53 +1286,14 @@ MonoBehaviour:
     m_Key: Standalone Scenario Name/War of the Outer Gods
     m_Metadata:
       m_Items: []
-  - m_Id: 34233692338511873
-    m_Key: Unofficial/Out of the Void
-    m_Metadata:
-      m_Items: []
-  - m_Id: 70284184654962688
-    m_Key: Player/Slot Requirement/Accessory Slot
-    m_Metadata:
-      m_Items: []
-  - m_Id: 70284184659156992
-    m_Key: Player/Slot Requirement/Body Slot
-    m_Metadata:
-      m_Items: []
-  - m_Id: 70284184659156993
-    m_Key: Player/Slot Requirement/1 Hand Slot
-    m_Metadata:
-      m_Items: []
-  - m_Id: 70284184659156994
-    m_Key: Player/Slot Requirement/2 Hand Slots
-    m_Metadata:
-      m_Items: []
-  - m_Id: 70284184659156995
-    m_Key: Player/Slot Requirement/1 Arcane Slot
-    m_Metadata:
-      m_Items: []
-  - m_Id: 70284184659156996
-    m_Key: Player/Slot Requirement/2 Arcane Slots
-    m_Metadata:
-      m_Items: []
-  - m_Id: 70284184659156997
-    m_Key: Player/Slot Requirement/Ally Slot
-    m_Metadata:
-      m_Items: []
-  - m_Id: 70284184659156998
-    m_Key: Player/Slot Requirement/Tarot Slot
-    m_Metadata:
-      m_Items: []
-  - m_Id: 70284184659156999
-    m_Key: Player/Slot Requirement/Other
-    m_Metadata:
-      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
-    id: 0
+    rid: 0
   references:
-    version: 1
-    00000000:
+    version: 2
+    RefIds:
+    - rid: 0
       type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
       data:
         m_CustomEpoch: 1638263717415

@@ -1190,10 +1190,6 @@ MonoBehaviour:
     m_Localized: Side Deck
     m_Metadata:
       m_Items: []
-  - m_Id: 34233692338511873
-    m_Localized: Out of the Void
-    m_Metadata:
-      m_Items: []
   - m_Id: 34235264225239040
     m_Localized: By the Book
     m_Metadata:
@@ -1266,5 +1262,10 @@ MonoBehaviour:
     m_Localized: Lv. 5
     m_Metadata:
       m_Items: []
+  - m_Id: 93158039496941568
+    m_Localized: The Scarlet Keys
+    m_Metadata:
+      m_Items: []
   references:
-    version: 1
+    version: 2
+    RefIds: []
