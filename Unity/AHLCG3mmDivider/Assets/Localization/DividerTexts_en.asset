@@ -1266,6 +1266,18 @@ MonoBehaviour:
     m_Localized: The Scarlet Keys
     m_Metadata:
       m_Items: []
+  - m_Id: 93482576071614464
+    m_Localized: Armitage's Fate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93483817522683904
+    m_Localized: Customizable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93483817522683905
+    m_Localized: Upgrade Sheet
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

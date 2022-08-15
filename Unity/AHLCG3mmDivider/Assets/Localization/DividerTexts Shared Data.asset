@@ -340,6 +340,10 @@ MonoBehaviour:
     m_Key: Campaign/Regular/The Dream-Eaters/Scenario/Where the Gods Dwell
     m_Metadata:
       m_Items: []
+  - m_Id: 93482576071614464
+    m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Armitage's Fate
+    m_Metadata:
+      m_Items: []
   - m_Id: 1066455261264
     m_Key: Campaign/Regular/The Dunwich Legacy/Encounter/Bad Luck
     m_Metadata:
@@ -1050,6 +1054,10 @@ MonoBehaviour:
     m_Key: Player/Category/Bonded
     m_Metadata:
       m_Items: []
+  - m_Id: 93483817522683904
+    m_Key: Player/Category/Customizable
+    m_Metadata:
+      m_Items: []
   - m_Id: 1066455261211
     m_Key: Player/Category/Investigators
     m_Metadata:
@@ -1064,6 +1072,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 15532527534989313
     m_Key: Player/Category/Permanent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93483817522683905
+    m_Key: Player/Category/Upgrade Sheet
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261212
