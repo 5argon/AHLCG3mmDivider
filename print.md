@@ -14,6 +14,8 @@ Here I show how to use Windows and macOS to create PDF file that you can send to
 - The next dialog, do not press Print, but press the dropdown saying "PDF" then select the "PDF" choice to save a file out of it instead.
 - After it finished saving PDF, you can now go back and press delete to remove the highlighted images. If there are more than 8 images, the produced PDF will be multi-page.
 
+Note : If you don't have any printer installed in the list, the page may not fit 8 dividers like shown because the system assume a default value of paper's edge to reserve. The information that the printer can print closer to the edge of paper comes differently depending on printer, so try installing or choosing different printer if you cannot do it.
+
 ## Windows
 
 I can't believe it is so difficult on Windows 10 to do this!! The new Photos app has only paper size adjustment but not the size of individual image. "Restoring" the old Windows Photo Viewer via Registry Editor also similarly lacks control. Paint, Paint .NET, GIMP requires manually laying out each image on the page.
