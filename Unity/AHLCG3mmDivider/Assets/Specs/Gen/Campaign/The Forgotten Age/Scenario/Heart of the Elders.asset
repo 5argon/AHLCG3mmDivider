@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 441de306b4a2b46ae82f4372d27c7c01, type: 3}
-  m_Name: Heart of the Elders Part A
+  m_Name: Heart of the Elders
   m_EditorClassIdentifier: 
   mainText:
     m_TableReference:
       m_TableCollectionName: GUID:0fe55b6e16baa4337b49d27ef6014293
     m_TableEntryReference:
-      m_KeyId: 1066455261294
+      m_KeyId: 55071232297525248
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0
@@ -25,7 +25,27 @@ MonoBehaviour:
   playerCornerSpec: {fileID: 0}
   setDisplay: 1
   setSpec: {fileID: 11400000, guid: a903580475d8b4fb5b66512cac4f6bad, type: 2}
+  lowerVerticalStrip: 0
+  rangeDisplay: 0
+  removeRangeIcon: 0
+  rangeFrom: 0
+  rangeTo: 0
+  rangeSubText:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
   iconDisplay: 1
+  iconPreserveColor: 0
   iconDisplayIcon: {fileID: 21300000, guid: 1bc6d6e9acf374570b9253e210edf339, type: 3}
+  classIconDisplay: 0
+  firstClass: 0
+  secondClass: 0
+  thirdClass: 0
   references:
-    version: 1
+    version: 2
+    RefIds: []

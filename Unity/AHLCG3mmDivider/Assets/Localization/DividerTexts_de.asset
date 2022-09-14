@@ -514,12 +514,8 @@ MonoBehaviour:
     m_Localized: Yigs Gift
     m_Metadata:
       m_Items: []
-  - m_Id: 1066455261294
-    m_Localized: "Das Herz der \xC4lteren A"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261295
-    m_Localized: "Das Herz der \xC4lteren B"
+  - m_Id: 104361253835628544
+    m_Localized: "R\xFCckkehr zu: Das Herz der \xC4lteren"
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261296
@@ -836,14 +832,6 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1066459455531
     m_Localized: Giftiger Hass
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455532
-    m_Localized: "R\xFCckkehr zu: Das Herz der \xC4lteren A"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455533
-    m_Localized: "R\xFCckkehr zu: Das Herz der \xC4lteren B"
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455534

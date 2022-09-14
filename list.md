@@ -14,7 +14,12 @@ Set folder has `x` number suffixed. That is an amount of dividers inside. Perhap
 - Player - Investigator By Set x9 : For organizing investigator by the set they came from. It also has set icon on top left and set name on top right.
 - Player - Multi-Class x16 : More fine grained multi-class card dividers. Including every combination of 2 classes, or one saying "3 classes" for EotE talent cards.
 - Player - Slot Requirement x27 : 3 dividers for each slot requirement type (No level, Lv.0, Lv. 1~5), and also "Other" so it corresponds to how ArkhamDB categorize the Asset taking no slots or multiple type of slots at once.
-- Player - Misc x3 : Basic Weakness divider to bunch up all your weaknesses to shuffle and pick. Bonded and Permanent dividers are available as well if you want to organize that way.
+- Player - Misc x5 : 
+  - Basic Weakness divider to bunch up all your weaknesses to shuffle and pick.
+  - Permanent 
+  - Bonded (The Circle Undone)
+  - Customizable (Scarlet Keys)
+  - Upgrade Sheet (Scarlet Keys)
 
 ## CCQ (Cycle-Class-Quantity)
 
@@ -26,11 +31,13 @@ This is a collection that maximizes deck teardown speed while maintaining good d
 
 ![Core Set](./Images/sidewinder-2.jpg)
 
-These are encounters they often ask for reuse when playing other campaigns. They sometimes ask for "Night of the Zealot" campaign cards as well (such as locations from Midnight Mask), which is **not** in this core set.
+These are encounters they often ask for reuse when playing other campaigns. They sometimes ask for "Night of the Zealot" campaign cards as well (such as False Lead + Hunting Shadow from Midnight Mask), which is **not** in this core set.
 
 ## Campaigns
 
 ![Campaign dividers](./Images/eote-1.jpg)
+
+![Campaign dividers](./Images/ptc-1.jpg)
 
 These are strictly 1 divider per unique set icon officially stated in the campaign guide. With these, you can rely on counting numbers printed on the corner of the card whether you had cleaned up the game properly without losing any card or not, then pack them inside the divider.
 

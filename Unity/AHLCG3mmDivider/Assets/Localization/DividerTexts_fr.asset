@@ -318,10 +318,6 @@ MonoBehaviour:
     m_Localized: La Banque Gagne Toujours
     m_Metadata:
       m_Items: []
-  - m_Id: 1066455261295
-    m_Localized: Les Coeur des Anciens
-    m_Metadata:
-      m_Items: []
   - m_Id: 1066455261279
     m_Localized: "Aux Fronti\xE8res du Visible"
     m_Metadata:
@@ -380,10 +376,6 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1066455261293
     m_Localized: Venin de Yig
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261294
-    m_Localized: Les Coeur des Anciens
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261296

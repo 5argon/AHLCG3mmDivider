@@ -454,12 +454,8 @@ MonoBehaviour:
     m_Localized: Yig's Venom
     m_Metadata:
       m_Items: []
-  - m_Id: 1066455261294
-    m_Localized: Heart of the Elders Part A
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066455261295
-    m_Localized: Heart of the Elders Part B
+  - m_Id: 104361253835628544
+    m_Localized: Return to Heart of the Elders
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261296
@@ -776,14 +772,6 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 1066459455531
     m_Localized: Venomous Hate
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455532
-    m_Localized: Return to Heart of the Elders Part A
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1066459455533
-    m_Localized: Return to Heart of the Elders Part B
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455534
