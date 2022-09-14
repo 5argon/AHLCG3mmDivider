@@ -6,6 +6,8 @@ Card divider graphics you can print out and cut up to use with [Arkham Horror : 
 
 ![Preview 2](./Images/main-2.jpg)
 
+![Preview 2](./Images/ptc-1.jpg)
+
 ![Preview 3](./Images/main-3.jpg)
 
 Unlike other dividers, they have a bit of unusual traits that leads to me making them on my own : 
@@ -16,7 +18,7 @@ Unlike other dividers, they have a bit of unusual traits that leads to me making
   
   Tiny texts are actually great when reading at lower angle, you can see more dividers behind it. Very useful when there are a lot of categories with as few as 2-4 cards in this game.
   
-  These dividers are best if you use perfect fit sleeves on all your cards or not sleeving at all, otherwise the cards maybe too tall and obscure the dividers.
+  These dividers are best if you use perfect fit sleeves on all your cards, which makes the horizontal orientation height touch the bottom edge of brown strip. If you use standard sleeve though, I have confirmed that the height will touch the exact bottom edge of the text and they would be still readable (while not ideal).
 - **High compatibility** : When the divider is not much taller than the cards, it is mostly compatible with any box you used for your cards without folding it. Using these dividers in the Revised Core Set box won't add too much height. The box still closes just fine even with that left over token punch-out cardboard in the box. I have tested with Ultimate Guard Boulder and Sidewinder and those boxes can still close.
 - **Can be sleeved** : This 93mm x 68mm number is chosen for one more reason : You can sleeve the divider with "outer sleeve" designed to cover character sleeves in one more layer.
 
@@ -42,8 +44,9 @@ Card graphics was remixed from official FFG print-and-play PDF. I didn't design 
 - German (Contributed by : [@empty0911](https://boardgamegeek.com/user/empty0911), [@Miriamelbgg](https://boardgamegeek.com/user/Miriamelbgg))
 - Italian (Contributed by : [@fabioflx](https://boardgamegeek.com/user/fabioflx))
 - Russian (Unknown contributor)
-- Spanish (Contributed by : [@colococolo](https://boardgamegeek.com/user/colococolo), [@Fran77](https://boardgamegeek.com/user/Fran77)
-- French (Contributed by : [@retsnimel](https://boardgamegeek.com/user/retsnimel)
+- Spanish (Contributed by : [@colococolo](https://boardgamegeek.com/user/colococolo), [@Fran77](https://boardgamegeek.com/user/Fran77))
+- French (Contributed by : [@retsnimel](https://boardgamegeek.com/user/retsnimel))
+- Portuguese (Contributed by : [@vinimsouza](https://boardgamegeek.com/user/vinimsouza))
 
 If translation is missing, file is still rendered but text area will be empty.
 
