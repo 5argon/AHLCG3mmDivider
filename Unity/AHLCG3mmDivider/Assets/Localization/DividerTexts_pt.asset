@@ -374,6 +374,82 @@ MonoBehaviour:
     m_Localized: "Maquina\xE7\xF5es Atrav\xE9s do Tempo"
     m_Metadata:
       m_Items: []
+  - m_Id: 1066455261322
+    m_Localized: Byakhee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261323
+    m_Localized: "Culto do S\xEDmbolo Amarelo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261324
+    m_Localized: "Decad\xEAncia e Imundice"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261325
+    m_Localized: "Del\xEDrios"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261326
+    m_Localized: "Press\xE1gios Malignos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261327
+    m_Localized: "A D\xE1diva de Hastur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261328
+    m_Localized: "Assombra\xE7\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261329
+    m_Localized: Habitantes de Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261330
+    m_Localized: A Enchente Abaixo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261331
+    m_Localized: O Estranho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261332
+    m_Localized: "O V\xF3rtice Acima"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261333
+    m_Localized: Um Fantasma da Verdade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261334
+    m_Localized: "Ascens\xE3o das Estrelas Sombrias"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261335
+    m_Localized: Fecham-se as Cortinas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261336
+    m_Localized: Sombria Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261337
+    m_Localized: Ecos do Passado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261338
+    m_Localized: "O \xDAltimo Rei"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261339
+    m_Localized: "A M\xE1scara P\xE1lida"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261340
+    m_Localized: "O Juramento Indiz\xEDvel"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
