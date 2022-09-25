@@ -43,9 +43,9 @@ It is a perfect fit inside KMC Character Sleeve Guard (69x94 mm). Depending on t
 
 Try using thin ruler or the divider to open up the 2 entry corners a bit.
 
-## Edge of the Earth
+## Campaigns
 
-**Spoiler for encounter set icons and their names.**
+![Image](./Images/ptc-1.jpg)
 
 ![Image](./Images/eote-1.jpg)
 
@@ -53,11 +53,13 @@ Try using thin ruler or the divider to open up the 2 entry corners a bit.
 
 ![Image](./Images/eote-3.jpg)
 
-## Organizing by Collector Number Range
+## Organizing by Collector Number Range (CNR)
 
 ![Collector number dividers](./Images/cnr-1.jpg)
-![Collector number dividers](./Images/cnr-2.jpg)
-![Collector number dividers](./Images/cnr-3.jpg)
+
+## Organizing by Cycle Class Quantity (CCQ)
+
+![CCQ](./Images/ccq.jpg)
 
 ## Standalone Scenarios
 

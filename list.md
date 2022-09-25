@@ -25,7 +25,15 @@ Set folder has `x` number suffixed. That is an amount of dividers inside. Perhap
 
 This is a collection that maximizes deck teardown speed while maintaining good deck assembling speed, requiring help from quantity number printed on the dividers and online deckbuilder like ArkhamDB. It mimics the encounter set's UX to player cards.
 
+Look for all the folders prefixed with "CCQ".
+
 [Head to the dedicated page to learn about this.](./cycle-class-quantity.md)
+
+## CNR (Collector Number Range)
+
+[Head to the dedicated page to learn about this.](./collector-number-range.md)
+
+Look for all the folders prefixed with "CNR".
 
 ## Core Set
 

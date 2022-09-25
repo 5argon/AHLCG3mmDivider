@@ -1,5 +1,7 @@
 # Collection based on Cycle-Class-Quantity (CCQ)
 
+![CCQ](./Images/ccq.jpg)
+
 A collection that maximizes deck teardown speed while maintaining great deck construction speed, assuming that the deck was made from ArkhamDB. (No browsing, you already know the complete list of cards to take out.) It is inspired from the encounter sets.
 
 It gives the player cards an easy to identify "set" **just like how the encounter set has an icon**, and in one kind of icon contains cards of managable size that you can count. (e.g. Ancient Evils contains 3 cards. False Lead contains 4 cards.) The missing piece is this quantity count inside the set, and the set dividing criteria.
