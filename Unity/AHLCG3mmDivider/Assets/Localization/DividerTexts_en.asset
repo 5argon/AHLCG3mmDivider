@@ -1266,6 +1266,34 @@ MonoBehaviour:
     m_Localized: Upgrade Sheet
     m_Metadata:
       m_Items: []
+  - m_Id: 114883216937050112
+    m_Localized: Fortune and Folly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114883216937050113
+    m_Localized: Nathaniel Cho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114883216937050114
+    m_Localized: Harvey Walters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114883216937050115
+    m_Localized: Winifred Habbamock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114883216937050116
+    m_Localized: Jacqueline Fine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114883216937050117
+    m_Localized: Stella Clark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114883216937050118
+    m_Localized: Investigator Starter Decks
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

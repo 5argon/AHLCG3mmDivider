@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: CCQ - Investigator Starter Decks
+  m_EditorClassIdentifier: 
+  pdfName: CCQ - Investigator Starter Decks
+  genSpecs:
+  - {fileID: 11400000, guid: 9b8725b9274174f7e8d746fff8664343, type: 2}
+  - {fileID: 11400000, guid: c8e4886a268b24b28b940b8c54e5b31f, type: 2}
+  - {fileID: 11400000, guid: 0c58a6dbce9e04076903a20a107cbdd3, type: 2}
+  - {fileID: 11400000, guid: baf3ee6474b2f4b7fa2c493baf4217cb, type: 2}
+  - {fileID: 11400000, guid: 821d82ceb55b841339647d34a89f4c5e, type: 2}

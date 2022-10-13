@@ -1284,6 +1284,34 @@ MonoBehaviour:
     m_Key: Standalone Scenario Name/War of the Outer Gods
     m_Metadata:
       m_Items: []
+  - m_Id: 114883216937050112
+    m_Key: Standalone Scenario Name/Fortune and Folly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114883216937050113
+    m_Key: Investigator Starter Decks/Nathaniel Cho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114883216937050114
+    m_Key: Investigator Starter Decks/Harvey Walters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114883216937050115
+    m_Key: Investigator Starter Decks/Winifred Habbamock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114883216937050116
+    m_Key: Investigator Starter Decks/Jacqueline Fine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114883216937050117
+    m_Key: Investigator Starter Decks/Stella Clark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114883216937050118
+    m_Key: Investigator Starter Decks/Investigator Starter Decks
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

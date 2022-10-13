@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: CCQ - The Scarlet Keys
+  m_EditorClassIdentifier: 
+  pdfName: CCQ - The Scarlet Keys
+  genSpecs:
+  - {fileID: 11400000, guid: 5dd1665d070144fc4a09affe5a29f522, type: 2}
+  - {fileID: 11400000, guid: 18fe0ae7bf04145048daaa92df940857, type: 2}
+  - {fileID: 11400000, guid: 55d023251dc294d1b86c5edba53341f5, type: 2}
+  - {fileID: 11400000, guid: b3e7af0e89ccf418a9f24b4034eae683, type: 2}
+  - {fileID: 11400000, guid: d55233914332e4b649ba7712dce17591, type: 2}
+  - {fileID: 11400000, guid: 3e9fe206a7e504b4ca3b127c215fe567, type: 2}

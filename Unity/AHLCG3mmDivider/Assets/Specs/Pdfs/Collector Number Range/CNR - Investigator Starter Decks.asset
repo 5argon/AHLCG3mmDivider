@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: CNR - Investigator Starter Decks
+  m_EditorClassIdentifier: 
+  pdfName: CNR - Investigator Starter Decks
+  genSpecs:
+  - {fileID: 11400000, guid: 8a620ff952eb2489cb5ecfa0f77722ab, type: 2}
+  - {fileID: 11400000, guid: fa10f0b7f2e854ceab795bad8a66c742, type: 2}
+  - {fileID: 11400000, guid: 1c51f5396becf4a419ddb51a8e6e3c28, type: 2}
+  - {fileID: 11400000, guid: 1dddf89652a874057ba6677fdb8fa0d6, type: 2}
+  - {fileID: 11400000, guid: 215b22aeacdc0431c81fa863576a167f, type: 2}
