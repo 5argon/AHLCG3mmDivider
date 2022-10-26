@@ -4,7 +4,7 @@
 
 A collection that maximizes deck teardown speed while maintaining great deck construction speed, assuming that the deck was made from ArkhamDB. (No browsing, you already know the complete list of cards to take out.) It is inspired from the encounter sets.
 
-It gives the player cards an easy to identify "set" **just like how the encounter set has an icon**, and in one kind of icon contains cards of managable size that you can count. (e.g. Ancient Evils contains 3 cards. False Lead contains 4 cards.) The missing piece is this quantity count inside the set, and the set dividing criteria.
+It gives the player cards an easy to identify "set" **just like how the encounter set has an icon**, and in one kind of icon contains cards of managable size that you can count. (e.g. Ancient Evils contains 3 cards.) The missing piece is this quantity count inside the set, and the set dividing criteria.
 
 My dividers will provide those missing information that will enable this kind of collection. I wrote a script that iterate through card database in ArkhamDB to automatically determine this count, accounted for cards that the game gives you only 1 copy or more than 2 copies already for you.
 

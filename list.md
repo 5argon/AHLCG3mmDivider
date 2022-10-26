@@ -18,8 +18,7 @@ Set folder has `x` number suffixed. That is an amount of dividers inside. Perhap
   - Basic Weakness divider to bunch up all your weaknesses to shuffle and pick.
   - Permanent 
   - Bonded (The Circle Undone)
-  - Customizable (Scarlet Keys)
-  - Upgrade Sheet (Scarlet Keys)
+- Player - Customizable x11 / Player - Customizable With Set Strip x11 : Dividers for The Scarlet Keys Customizable and Upgrade Sheet cards in various styles and various granularity. Such as having The Scarlet Keys red set strip or not, or Upgrade Sheet divided subjectively into several smaller sections. They gave you 3 Upgrade Sheet of each, and each class has 3 different Customizable cards (neutral has one). So with a single Upgrade Sheet divider it would contain 3x3x5 = 45 + 3 neutral = 48 cards. It is up to you whether you want a big chunk of 48 cards or something smaller.
 
 ## CCQ (Cycle-Class-Quantity)
 
