@@ -38,7 +38,13 @@ Look for all the folders prefixed with "CNR".
 
 ![Core Set](./Images/sidewinder-2.jpg)
 
-These are encounters they often ask for reuse when playing other campaigns. They sometimes ask for "Night of the Zealot" campaign cards as well (such as False Lead + Hunting Shadow from Midnight Mask), which is **not** in this core set.
+These are encounters they often ask for reuse when playing other campaigns. The corner is marked as "Core Set" and not "Night of the Zealot".
+
+However, it seems FFG made a regrettable mistake in the "Night of the Zealot" campaign that there are 5 very useful encounter cards in "The Midnight Masks" scenario they love to have available in designing the scenario (2x False Lead + 3x Hunting Shadow). They often ask you to pick just those 5 cards.
+
+Those 5 cards normally are classified as campaign cards instead of core encounters, but I have made a special "The Midnight Masks" divider with "Core Set" corner so you can store those 5 cards together with the rest of Core Set cards instead of in the campaign.
+
+You can decide if you want to print it or not, but it was useful to me because I like moving all the needed core encounter sets to the campaign box I am playing together with the dividers. If I don't print this separated special "The Midnight Masks" divider, the rest of "The Midnight Masks" scenario cards will be left without a divider in my storage box.
 
 ## Campaigns
 
