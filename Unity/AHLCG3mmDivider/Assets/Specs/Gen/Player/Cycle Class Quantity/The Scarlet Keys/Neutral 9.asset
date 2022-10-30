@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 441de306b4a2b46ae82f4372d27c7c01, type: 3}
-  m_Name: Seeker 34
+  m_Name: Neutral 9
   m_EditorClassIdentifier: 
   mainText:
     m_TableReference:
@@ -22,13 +22,13 @@ MonoBehaviour:
     m_WaitForCompletion: 0
     m_LocalVariables: []
   playerCornerDisplay: 1
-  playerCornerSpec: {fileID: 11400000, guid: a3595bbf74a58446ca92ce9f349bd044, type: 2}
+  playerCornerSpec: {fileID: 11400000, guid: 829352fe78e61457d88b254b6c8bad1e, type: 2}
   setDisplay: 1
   setSpec: {fileID: 11400000, guid: 73517c067da774f39b8f82326f6174da, type: 2}
   lowerVerticalStrip: 1
   rangeDisplay: 1
   removeRangeIcon: 0
-  rangeFrom: 34
+  rangeFrom: 19
   rangeTo: 0
   rangeSubText:
     m_TableReference:
