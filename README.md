@@ -43,7 +43,7 @@ Card graphics was remixed from official FFG print-and-play PDF. I didn't design 
 - English
 - German (Contributed by : [@empty0911](https://boardgamegeek.com/user/empty0911), [@Miriamelbgg](https://boardgamegeek.com/user/Miriamelbgg))
 - Italian (Contributed by : [@fabioflx](https://boardgamegeek.com/user/fabioflx))
-- Russian (Unknown contributor)
+- Russian (Contributed by : [@khrabr](https://boardgamegeek.com/user/khrabr))
 - Spanish (Contributed by : [@colococolo](https://boardgamegeek.com/user/colococolo), [@Fran77](https://boardgamegeek.com/user/Fran77))
 - French (Contributed by : [@retsnimel](https://boardgamegeek.com/user/retsnimel))
 - Portuguese (Contributed by : [@vinimsouza](https://boardgamegeek.com/user/vinimsouza))

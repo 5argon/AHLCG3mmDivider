@@ -7,7 +7,7 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
-	"last_search.B655092D" = "st:midnight"
+	"last_search.B655092D" = "st:Without a Trace"
 	"OpenInspectorPreview.B655092D" = "0"
 	"currentGroup.B655092D" = "all"
 }
@@ -66,6 +66,22 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	"st:Without a Trace"
+	"st:Shades of Suffering"
+	"st:Sanguine Shadows"
+	"st:Riddles and Rain"
+	"st:On Thin Ice"
+	"st:Dogs of War"
+	"st:Dealings in the Dark"
+	"st:Dead Heat"
+	"Dead Heat"
+	"st:Dancing Mad"
+	"st:Congress of the Keys"
+	"st:Strange Happenings"
+	"Strange Happenings"
+	"st:Spreading Corruption"
+	"st:Spatial Anomaly"
+	"st:Shadow of a Doubt"
 	"?"
 ]
 searchItemFavorites = [

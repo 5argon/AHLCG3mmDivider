@@ -28,7 +28,7 @@ MonoBehaviour:
   lowerVerticalStrip: 1
   rangeDisplay: 1
   removeRangeIcon: 0
-  rangeFrom: 34
+  rangeFrom: 38
   rangeTo: 0
   rangeSubText:
     m_TableReference:

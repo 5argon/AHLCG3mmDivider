@@ -10,24 +10,25 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 441de306b4a2b46ae82f4372d27c7c01, type: 3}
-  m_Name: Neutral 19
+  m_Name: Shades of Suffering
   m_EditorClassIdentifier: 
   mainText:
     m_TableReference:
-      m_TableCollectionName: 
+      m_TableCollectionName: GUID:0fe55b6e16baa4337b49d27ef6014293
     m_TableEntryReference:
-      m_KeyId: 0
+      m_KeyId: 129323022358142999
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0
     m_LocalVariables: []
-  playerCornerDisplay: 1
-  playerCornerSpec: {fileID: 11400000, guid: 829352fe78e61457d88b254b6c8bad1e, type: 2}
+  playerCornerDisplay: 0
+  playerCornerSpec: {fileID: 0}
   setDisplay: 1
-  setSpec: {fileID: 11400000, guid: 3aa3207fc14584aab8fdb35ca6f42812, type: 2}
-  lowerVerticalStrip: 1
-  rangeDisplay: 1
-  rangeFrom: 19
+  setSpec: {fileID: 11400000, guid: 73517c067da774f39b8f82326f6174da, type: 2}
+  lowerVerticalStrip: 0
+  rangeDisplay: 0
+  removeRangeIcon: 0
+  rangeFrom: 0
   rangeTo: 0
   rangeSubText:
     m_TableReference:
@@ -38,11 +39,13 @@ MonoBehaviour:
     m_FallbackState: 0
     m_WaitForCompletion: 0
     m_LocalVariables: []
-  iconDisplay: 0
-  iconDisplayIcon: {fileID: 21300000, guid: 751268ad728ca4d5899452477de2be31, type: 3}
+  iconDisplay: 1
+  iconPreserveColor: 0
+  iconDisplayIcon: {fileID: 21300000, guid: 82e00b44683124b7facdd7d8f232babd, type: 3}
   classIconDisplay: 0
   firstClass: 0
   secondClass: 0
   thirdClass: 0
   references:
-    version: 1
+    version: 2
+    RefIds: []

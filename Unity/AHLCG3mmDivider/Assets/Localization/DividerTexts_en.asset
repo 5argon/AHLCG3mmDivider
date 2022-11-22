@@ -1294,6 +1294,110 @@ MonoBehaviour:
     m_Localized: Investigator Starter Decks
     m_Metadata:
       m_Items: []
+  - m_Id: 129323022349754368
+    m_Localized: Agents of the Outside
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142976
+    m_Localized: Agents of Yuggoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142977
+    m_Localized: Beyond the Beyond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142978
+    m_Localized: Cleanup Crew
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142979
+    m_Localized: Crimson Conspiracy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142980
+    m_Localized: Dark Veiling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142981
+    m_Localized: Globetrotting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142982
+    m_Localized: Mysteries Abound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142983
+    m_Localized: Outsiders
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142984
+    m_Localized: Red Coterie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142985
+    m_Localized: Scarlet Sorcery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142986
+    m_Localized: Secret War
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142987
+    m_Localized: Shadow of a Doubt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142988
+    m_Localized: Spatial Anomaly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142989
+    m_Localized: Spreading Corruption
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142990
+    m_Localized: Strange Happenings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142991
+    m_Localized: Congress of the Keys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142992
+    m_Localized: Dancing Mad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142993
+    m_Localized: Dead Heat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142994
+    m_Localized: Dealings in the Dark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142995
+    m_Localized: Dogs of War
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142996
+    m_Localized: On Thin Ice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142997
+    m_Localized: Riddles and Rain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142998
+    m_Localized: Sanguine Shadows
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142999
+    m_Localized: Shades of Suffering
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358143000
+    m_Localized: Without a Trace
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

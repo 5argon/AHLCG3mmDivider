@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: Campaign - The Scarlet Keys
+  m_EditorClassIdentifier: 
+  pdfName: Campaign - The Scarlet Keys
+  genSpecs:
+  - {fileID: 11400000, guid: bc53a4d1edf1f4340ae5a91e30222829, type: 2}
+  - {fileID: 11400000, guid: 159872815474f4e3e939dbe70decbf31, type: 2}
+  - {fileID: 11400000, guid: e31b12e78a12d4019a6c0db812305745, type: 2}
+  - {fileID: 11400000, guid: 240785646e4364b96ac7292dbbf168a4, type: 2}
+  - {fileID: 11400000, guid: a76dcb81945e24528b015c697786c3b7, type: 2}
+  - {fileID: 11400000, guid: 8f61cd900c24b4b8b99fe3258b269afb, type: 2}
+  - {fileID: 11400000, guid: a578d7153e5cb4ed9bcabc498881b3ef, type: 2}
+  - {fileID: 11400000, guid: 567710dc90d974b639f32c6e10259c63, type: 2}
+  - {fileID: 11400000, guid: 66f8fa7dbcd0e47a8b2fd6a6d7e398c7, type: 2}
+  - {fileID: 11400000, guid: dee0fbdf3d21f4840a36e1816dcb447c, type: 2}
+  - {fileID: 11400000, guid: efebcf706adff40dea9e7aac50113559, type: 2}
+  - {fileID: 11400000, guid: 7294323ac6e704a45bea50fa0be9a78a, type: 2}
+  - {fileID: 11400000, guid: dd1f1783202044e2da4b717bf6761913, type: 2}
+  - {fileID: 11400000, guid: 5aefa9c4b45314938835ccff88376d14, type: 2}
+  - {fileID: 11400000, guid: 0c2cc545d0438483fbb77258fd09f143, type: 2}
+  - {fileID: 11400000, guid: 44154fc57dc1d488faa79a129758ddc9, type: 2}
+  - {fileID: 11400000, guid: 330555d6a17454c13ad985494b1dcb1e, type: 2}
+  - {fileID: 11400000, guid: f0f66ba3bfe4847fe990538601c2a786, type: 2}
+  - {fileID: 11400000, guid: 945490b53ba104a3c9542d70194517be, type: 2}
+  - {fileID: 11400000, guid: d02cb0ad39eb3484bbbd8a679aaffe4e, type: 2}
+  - {fileID: 11400000, guid: af72534acaee84e16824c72df8feb63f, type: 2}
+  - {fileID: 11400000, guid: c7f3fa8c1f12743d9a96e343b0fa6db7, type: 2}
+  - {fileID: 11400000, guid: 73e5ddbc18d36419ea352ac09ceb3639, type: 2}
+  - {fileID: 11400000, guid: f404991f6aa5740e3b8fc99538ebd333, type: 2}
+  - {fileID: 11400000, guid: 93f5b7bdd09524496807e7f1e8103f82, type: 2}
+  - {fileID: 11400000, guid: bad1bd94c919a4933aadf28d73a8ee02, type: 2}

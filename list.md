@@ -64,6 +64,7 @@ Each set has differently colored corner strip based on product box's color. It i
 - Campaign - The Forgotten Age x23
 - Campaign - The Innsmouth Conspiracy x18
 - Campaign - The Path to Carcosa x19
+- Campaign - The Scarlet Keys x26
 
 ## Return to 
 
