@@ -1398,6 +1398,18 @@ MonoBehaviour:
     m_Localized: Without a Trace
     m_Metadata:
       m_Items: []
+  - m_Id: 133690928533594112
+    m_Localized: Concealed Mini-Cards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133690928541982720
+    m_Localized: Concealed Mini-Cards (Decoy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133690928541982721
+    m_Localized: Keys
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

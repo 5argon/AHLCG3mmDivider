@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: CCQ - The Forgotten Age
+  m_EditorClassIdentifier: 
+  pdfName: CCQ - The Forgotten Age
+  genSpecs:
+  - {fileID: 11400000, guid: f54d5abf66ea74eb1abcbdf9a71b5c43, type: 2}
+  - {fileID: 11400000, guid: 11e01124bcec04a11a897484731a0e46, type: 2}
+  - {fileID: 11400000, guid: ac97d5bddee60461b80048af0cc96596, type: 2}
+  - {fileID: 11400000, guid: 2263d3e4b50894c4e8a7a985f8f4acb1, type: 2}
+  - {fileID: 11400000, guid: 8dcc2c430b59d449ebb6f290b7da3784, type: 2}
+  - {fileID: 11400000, guid: 4387429c2aa1e450297dba0e3e8f131f, type: 2}

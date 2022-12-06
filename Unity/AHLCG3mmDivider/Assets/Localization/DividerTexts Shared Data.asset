@@ -1416,6 +1416,18 @@ MonoBehaviour:
     m_Key: Standalone Scenario Name/War of the Outer Gods
     m_Metadata:
       m_Items: []
+  - m_Id: 133690928533594112
+    m_Key: Campaign/Regular/The Scarlet Keys/Extra/Concealed Mini-Cards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133690928541982720
+    m_Key: Campaign/Regular/The Scarlet Keys/Extra/Concealed Mini-Cards (Decoy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133690928541982721
+    m_Key: Campaign/Regular/The Scarlet Keys/Extra/Keys
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
