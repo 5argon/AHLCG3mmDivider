@@ -782,6 +782,126 @@ MonoBehaviour:
     m_Localized: Niv. 5
     m_Metadata:
       m_Items: []
+  - m_Id: 129323022349754368
+    m_Localized: Agents de l'Ailleurs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142976
+    m_Localized: Agents de Yuggoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142977
+    m_Localized: "Par Del\xE0 l'Au-Del\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142978
+    m_Localized: "\xC9quipe de Nettoyage"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142979
+    m_Localized: Conspiration Carmine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142980
+    m_Localized: Sombre Dissimulation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142981
+    m_Localized: Autour du Globe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142982
+    m_Localized: "Toujours Plus de Myst\xE8res"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142983
+    m_Localized: Ceux d'Ailleurs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142984
+    m_Localized: Coterie Rouge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142985
+    m_Localized: "Sorcellerie \xC9carlate"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142986
+    m_Localized: "Guerre Secr\xE8te"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142987
+    m_Localized: L'Ombre d'un Doute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142988
+    m_Localized: Anomalie Spatiale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142989
+    m_Localized: Corruption Rampante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142990
+    m_Localized: "\xC9tranges \xC9v\xE8nements"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133690928533594112
+    m_Localized: "Mini-Cartes \"Dissimul\xE9\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133690928541982720
+    m_Localized: "Mini-Cartes \"Dissimul\xE9\" (Leurre)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133690928541982721
+    m_Localized: Clefs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142991
+    m_Localized: "Congr\xE8s des Clefs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142992
+    m_Localized: Danse Macabre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142993
+    m_Localized: Chaleur Mortelle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142994
+    m_Localized: Transactions Nocturnes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142995
+    m_Localized: Chiens de Guerre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142996
+    m_Localized: Terrain Glissant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142997
+    m_Localized: "La Pluie et les \xC9nigmes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142998
+    m_Localized: Ombres Rouge Sang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142999
+    m_Localized: L'ombre de la Souffrance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358143000
+    m_Localized: Sans La Moindre Trace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93158039496941568
+    m_Localized: "Les Clefs \xC9carlates"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
