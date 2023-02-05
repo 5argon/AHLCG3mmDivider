@@ -846,18 +846,6 @@ MonoBehaviour:
     m_Localized: "\xC9tranges \xC9v\xE8nements"
     m_Metadata:
       m_Items: []
-  - m_Id: 133690928533594112
-    m_Localized: "Mini-Cartes \"Dissimul\xE9\""
-    m_Metadata:
-      m_Items: []
-  - m_Id: 133690928541982720
-    m_Localized: "Mini-Cartes \"Dissimul\xE9\" (Leurre)"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 133690928541982721
-    m_Localized: Clefs
-    m_Metadata:
-      m_Items: []
   - m_Id: 129323022358142991
     m_Localized: "Congr\xE8s des Clefs"
     m_Metadata:

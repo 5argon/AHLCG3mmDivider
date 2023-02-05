@@ -1182,6 +1182,14 @@ MonoBehaviour:
     m_Localized: St. 5
     m_Metadata:
       m_Items: []
+  - m_Id: 156839479706902528
+    m_Localized: "R\xFCckkehr zu: K'n-yan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156839479711096832
+    m_Localized: "R\xFCckkehr zu: S\xE4ulen des Urteils"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

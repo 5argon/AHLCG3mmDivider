@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: Campaign - Return to the Dunwich Legacy
+  m_EditorClassIdentifier: 
+  pdfName: Campaign - Return to the Dunwich Legacy
+  genSpecs:
+  - {fileID: 11400000, guid: 5b7a550b5773b49c0b21cba890dc5c58, type: 2}
+  - {fileID: 11400000, guid: e9c3db581ad3144e388afa19dc614d42, type: 2}
+  - {fileID: 11400000, guid: 6bf99badf574c4e2286017dd070f180d, type: 2}
+  - {fileID: 11400000, guid: e7419ba2d154d4e119d7c8763f4f0e56, type: 2}
+  - {fileID: 11400000, guid: 70471bce0878747f2a1b20bcd38b5e20, type: 2}
+  - {fileID: 11400000, guid: 358b17be4a2454eb2bdca206d423762b, type: 2}
+  - {fileID: 11400000, guid: 42a557fa2a3054d8eadcc22fd7238dae, type: 2}
+  - {fileID: 11400000, guid: 1a3d03e3034404721bb041fe2689fcc0, type: 2}
+  - {fileID: 11400000, guid: 9b2d2aaa93cc746729df73dbe55eb03b, type: 2}
+  - {fileID: 11400000, guid: f2662c8279ea84a41b9b6c17ea4f0aea, type: 2}
+  - {fileID: 11400000, guid: 4bad15c9482a141f991ab4b5c3c44547, type: 2}
+  - {fileID: 11400000, guid: f3b0255e3ab5748b9b2f5d33c1aa00cb, type: 2}
+  - {fileID: 11400000, guid: 9f48b68086bbd46dea1784265082f22d, type: 2}
+  - {fileID: 11400000, guid: 084a4fd0b6b43487f8bbb35402ac3b07, type: 2}

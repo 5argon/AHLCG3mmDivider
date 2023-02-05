@@ -739,7 +739,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455523
-    m_Localized: Return to the House Always Wins
+    m_Localized: Return to The House Always Wins
     m_Metadata:
       m_Items: []
   - m_Id: 55071232297525248
@@ -1398,16 +1398,12 @@ MonoBehaviour:
     m_Localized: Without a Trace
     m_Metadata:
       m_Items: []
-  - m_Id: 133690928533594112
-    m_Localized: Concealed Mini-Cards
+  - m_Id: 156839479706902528
+    m_Localized: Return to K'n-yan
     m_Metadata:
       m_Items: []
-  - m_Id: 133690928541982720
-    m_Localized: Concealed Mini-Cards (Decoy)
-    m_Metadata:
-      m_Items: []
-  - m_Id: 133690928541982721
-    m_Localized: Keys
+  - m_Id: 156839479711096832
+    m_Localized: Return to Pillars of Judgement
     m_Metadata:
       m_Items: []
   references:

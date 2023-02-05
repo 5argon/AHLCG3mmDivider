@@ -713,18 +713,6 @@ MonoBehaviour:
     m_Key: Campaign/Regular/The Scarlet Keys/Encounter/Strange Happenings
     m_Metadata:
       m_Items: []
-  - m_Id: 133690928533594112
-    m_Key: Campaign/Regular/The Scarlet Keys/Extra/Concealed Mini-Cards
-    m_Metadata:
-      m_Items: []
-  - m_Id: 133690928541982720
-    m_Key: Campaign/Regular/The Scarlet Keys/Extra/Concealed Mini-Cards (Decoy)
-    m_Metadata:
-      m_Items: []
-  - m_Id: 133690928541982721
-    m_Key: Campaign/Regular/The Scarlet Keys/Extra/Keys
-    m_Metadata:
-      m_Items: []
   - m_Id: 129323022358142991
     m_Key: Campaign/Regular/The Scarlet Keys/Scenario/Congress of the Keys
     m_Metadata:
@@ -966,6 +954,14 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 152899303759872
     m_Key: Campaign/Return To/The Forgotten Age/Scenario/Return to The Doom of Eztli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156839479706902528
+    m_Key: Campaign/Return To/The Forgotten Age/Scenario/Return to K'n-yan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156839479711096832
+    m_Key: Campaign/Return To/The Forgotten Age/Scenario/Return to Pillars of Judgement
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455539

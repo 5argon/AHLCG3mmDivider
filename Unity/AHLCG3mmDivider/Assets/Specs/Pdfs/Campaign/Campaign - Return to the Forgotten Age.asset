@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: Campaign - Return to the Forgotten Age
+  m_EditorClassIdentifier: 
+  pdfName: Campaign - Return to the Forgotten Age
+  genSpecs:
+  - {fileID: 11400000, guid: 1fbc6816e6d3c460493d9219ad883c4e, type: 2}
+  - {fileID: 11400000, guid: 3ae89ec84c3cf42acb4e982b95f6e337, type: 2}
+  - {fileID: 11400000, guid: 4022dd026227545a1ab6541e0d2f0296, type: 2}
+  - {fileID: 11400000, guid: 724f4034f7a534e50ace30e36851f27e, type: 2}
+  - {fileID: 11400000, guid: 2f607c53d68244b558e20fa210c60374, type: 2}
+  - {fileID: 11400000, guid: af2405a83eb0f41299e25b47172ad541, type: 2}
+  - {fileID: 11400000, guid: 06426a75a8b0747fea0a3a614ba42b30, type: 2}
+  - {fileID: 11400000, guid: dd3b4c9c14d3349959088772b33bdb70, type: 2}
+  - {fileID: 11400000, guid: 396fd812e9d0649f3b747ae532e10954, type: 2}
+  - {fileID: 11400000, guid: 35405bf431a6d43a0a8e1bc7d3549180, type: 2}
+  - {fileID: 11400000, guid: bcc6ff62474a847479f9b4b6c09deaa2, type: 2}
+  - {fileID: 11400000, guid: 363aec7a5a38f4ebf80120e096059ad2, type: 2}
+  - {fileID: 11400000, guid: 9bfb4014a73ef445b843bd40abc964fd, type: 2}
+  - {fileID: 11400000, guid: 786c69551345544c8ad1128fb8fc35fa, type: 2}

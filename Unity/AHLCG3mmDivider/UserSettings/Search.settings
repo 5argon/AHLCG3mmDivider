@@ -7,7 +7,7 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
-	"last_search.B655092D" = "st:scarlet keys keys"
+	"last_search.B655092D" = "st:turn back"
 	"OpenInspectorPreview.B655092D" = "0"
 	"currentGroup.B655092D" = "all"
 }
@@ -66,6 +66,7 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	"st:Yog-Sothoth's Emissaries"
 	"st:Without a Trace"
 	"st:Shades of Suffering"
 	"st:Sanguine Shadows"
