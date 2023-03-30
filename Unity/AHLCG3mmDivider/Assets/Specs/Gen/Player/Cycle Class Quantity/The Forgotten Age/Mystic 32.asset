@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 441de306b4a2b46ae82f4372d27c7c01, type: 3}
-  m_Name: Rogue 34
+  m_Name: Mystic 32
   m_EditorClassIdentifier: 
   mainText:
     m_TableReference:
@@ -22,7 +22,7 @@ MonoBehaviour:
     m_WaitForCompletion: 0
     m_LocalVariables: []
   playerCornerDisplay: 1
-  playerCornerSpec: {fileID: 11400000, guid: 823ab005e03554577a64ba2ef81a0ea1, type: 2}
+  playerCornerSpec: {fileID: 11400000, guid: beb984123cfc040e1b117b4b54925c49, type: 2}
   setDisplay: 1
   setSpec: {fileID: 11400000, guid: a903580475d8b4fb5b66512cac4f6bad, type: 2}
   lowerVerticalStrip: 1
