@@ -15,5 +15,5 @@ MonoBehaviour:
   pdfName: Campaign - Night of the Zealot
   genSpecs:
   - {fileID: 11400000, guid: 75797672e638e49f7b14dd95b27b1847, type: 2}
-  - {fileID: 11400000, guid: 6dda5f0d817234340a51dd4a15d8c508, type: 2}
   - {fileID: 11400000, guid: 55cc87ac944384100aa738c940171d07, type: 2}
+  - {fileID: 11400000, guid: 6dda5f0d817234340a51dd4a15d8c508, type: 2}

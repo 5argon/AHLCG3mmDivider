@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pdfName: Campaign - Return to the Night of the Zealot
   genSpecs:
-  - {fileID: 11400000, guid: f20adb7c48741456c917c3e8325dbb64, type: 2}
-  - {fileID: 11400000, guid: 645ea0f78f3e14c90bab5e38a7b8b21f, type: 2}
-  - {fileID: 11400000, guid: 12916cc31d8c94513b32dc37221bd134, type: 2}
   - {fileID: 11400000, guid: 2e15373084fb34ac6bbd56a14c207d9d, type: 2}
   - {fileID: 11400000, guid: 5c7e8f44b9de54e61b66664546bfe8da, type: 2}
   - {fileID: 11400000, guid: c40f8e4321112424fbad0a96a553a920, type: 2}
+  - {fileID: 11400000, guid: f20adb7c48741456c917c3e8325dbb64, type: 2}
+  - {fileID: 11400000, guid: 645ea0f78f3e14c90bab5e38a7b8b21f, type: 2}
+  - {fileID: 11400000, guid: 12916cc31d8c94513b32dc37221bd134, type: 2}

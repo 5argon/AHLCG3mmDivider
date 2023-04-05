@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pdfName: Challenge Scenario
   genSpecs:
-  - {fileID: 11400000, guid: 7944b4502bd85419abae88ddea819311, type: 2}
-  - {fileID: 11400000, guid: 26d715c1d2acb4dafa0b6ef9a24470f7, type: 2}
   - {fileID: 11400000, guid: a187c8264d4eb4479970d57344c4d1d1, type: 2}
   - {fileID: 11400000, guid: 314fc0962bd52469da728fa7d7f218e1, type: 2}
+  - {fileID: 11400000, guid: 7944b4502bd85419abae88ddea819311, type: 2}
+  - {fileID: 11400000, guid: 26d715c1d2acb4dafa0b6ef9a24470f7, type: 2}
   - {fileID: 11400000, guid: 949b8cf6db81f492083a07ddf5bbae66, type: 2}
