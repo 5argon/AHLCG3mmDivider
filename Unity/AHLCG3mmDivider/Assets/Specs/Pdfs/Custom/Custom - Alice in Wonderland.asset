@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: Custom - Alice in Wonderland
+  m_EditorClassIdentifier: 
+  pdfName: Custom - Alice in Wonderland
+  genSpecs:
+  - {fileID: 11400000, guid: 7a13f0eb36ed24a0a994c6296c65fc69, type: 2}
+  - {fileID: 11400000, guid: 0c2094476e707446dad98f1058d577da, type: 2}
+  - {fileID: 11400000, guid: 694822cca27094a57b173e1eade36f1f, type: 2}
+  - {fileID: 11400000, guid: 32e31eadecbe446a495523286fcb3d80, type: 2}
+  - {fileID: 11400000, guid: 1f509a67cf3fa47238403352e0684f03, type: 2}
+  - {fileID: 11400000, guid: 7d8f44533161242aeb4db465d8c9435b, type: 2}
+  - {fileID: 11400000, guid: bcb89462f529e458eb410eb5dee884d1, type: 2}
+  - {fileID: 11400000, guid: b06a47da0d62d4677888252646b06237, type: 2}
+  - {fileID: 11400000, guid: 7e21ab89c3f9048ab919335c06a4d514, type: 2}
+  - {fileID: 11400000, guid: 92d85598b5c8548a2bbb71cae52bcfc6, type: 2}
+  - {fileID: 11400000, guid: 5dd8d60078a52487c98c43908f3768c0, type: 2}
+  - {fileID: 11400000, guid: cb7dbaf46e89a48ccb065399e7a138f9, type: 2}
+  - {fileID: 11400000, guid: 16a35ef746f5645099e8e5d2d1b41847, type: 2}
+  - {fileID: 11400000, guid: 4624156dc90d9482c9406a569a0c73bf, type: 2}
+  - {fileID: 11400000, guid: 30c051e35f38e438a8c8a26ea96ed81c, type: 2}
+  - {fileID: 11400000, guid: 901d7ac3c04de4bd5a24a7287af77e01, type: 2}
+  - {fileID: 11400000, guid: 38703970acf5f481bb365fe949a411f1, type: 2}
+  - {fileID: 11400000, guid: f7f4c685acc39450eae3a0a212e09eca, type: 2}
+  - {fileID: 11400000, guid: 9d1ff30f369d4488d9561afdbe3efa6c, type: 2}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: Custom - Dark Matter
+  m_EditorClassIdentifier: 
+  pdfName: Custom - Dark Matter
+  genSpecs:
+  - {fileID: 11400000, guid: d49c9916aac4645c4ac193246af1f642, type: 2}
+  - {fileID: 11400000, guid: 9ef5b943258bd4f8f9722d3edfe09f28, type: 2}
+  - {fileID: 11400000, guid: 304865c52155d4cb18981189c932d7e5, type: 2}
+  - {fileID: 11400000, guid: fcbf66925fd33404c937667138c4c66f, type: 2}
+  - {fileID: 11400000, guid: 9bc36f3ffd2974db18e8df3ac4677ca0, type: 2}
+  - {fileID: 11400000, guid: eee7fa9e5f93141c98ad8091fbc19579, type: 2}
+  - {fileID: 11400000, guid: ad257dc9e58fd46589b44145ab849ace, type: 2}
+  - {fileID: 11400000, guid: a7bb5c9ce7a4a44d2b84658592e9d7ce, type: 2}
+  - {fileID: 11400000, guid: 3d3a279928cbb41a8be5ea9fe5426ad8, type: 2}
+  - {fileID: 11400000, guid: 4dfd9682158014d38b1d0659eaeb10f0, type: 2}
+  - {fileID: 11400000, guid: 9ee2ab04135c84b37b6ad8af0dd79070, type: 2}
+  - {fileID: 11400000, guid: c9a17caf83f2e4093b1af03c49a27857, type: 2}
+  - {fileID: 11400000, guid: 9957eadb2e050463aace81a7266067c2, type: 2}
+  - {fileID: 11400000, guid: 1f9499833db204a3e8116bf193422a39, type: 2}
+  - {fileID: 11400000, guid: 26501dbb4cba741d686e73ab93d11428, type: 2}
+  - {fileID: 11400000, guid: abb61c43d72954fe78f0d116504ce8a8, type: 2}
