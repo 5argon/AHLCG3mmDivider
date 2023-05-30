@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: Fortune and Folly
+  m_EditorClassIdentifier: 
+  pdfName: Standalone - Fortune and Folly
+  genSpecs:
+  - {fileID: 11400000, guid: 4f1c8e19d73374db1904992b0dd0e21a, type: 2}
+  - {fileID: 11400000, guid: db4eb2a58312a42aab63efe4f0dcc256, type: 2}
+  - {fileID: 11400000, guid: 0e72d22c197a842c3b61159b995cde4e, type: 2}
+  - {fileID: 11400000, guid: 6e821cee0c3fc44beb3b36a5c8253b01, type: 2}

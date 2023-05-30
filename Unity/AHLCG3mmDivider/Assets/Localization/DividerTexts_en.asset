@@ -1406,6 +1406,18 @@ MonoBehaviour:
     m_Localized: Return to Pillars of Judgement
     m_Metadata:
       m_Items: []
+  - m_Id: 184432361745670144
+    m_Localized: Fortune and Folly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 184432361745670145
+    m_Localized: Fortune's Chosen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 184432361745670146
+    m_Localized: Plan in Shambles
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
