@@ -1348,6 +1348,10 @@ MonoBehaviour:
     m_Key: Challenge Scenario Name/Red Tide Rising
     m_Metadata:
       m_Items: []
+  - m_Id: 247446725469396992
+    m_Key: Challenge Scenario Name/Laid to Rest
+    m_Metadata:
+      m_Items: []
   - m_Id: 114883216937050114
     m_Key: Investigator Starter Decks/Harvey Walters
     m_Metadata:
@@ -1430,6 +1434,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 93483817522683905
     m_Key: Player/Category/Upgrade Sheet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216438933019418624
+    m_Key: Player/Category/Proxy
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261212
@@ -1666,6 +1674,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 117235535306783
     m_Key: Standalone Scenario Name/War of the Outer Gods
+    m_Metadata:
+      m_Items: []
+  - m_Id: 247446725469396993
+    m_Key: Standalone Scenario Name/The Blob That Ate Everything ELSE!
     m_Metadata:
       m_Items: []
   m_Metadata:

@@ -1650,6 +1650,18 @@ MonoBehaviour:
     m_Localized: Gurathnaka's Shadows
     m_Metadata:
       m_Items: []
+  - m_Id: 216438933019418624
+    m_Localized: Proxy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 247446725469396992
+    m_Localized: Laid to Rest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 247446725469396993
+    m_Localized: The Blob That Ate Everything ELSE!
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
