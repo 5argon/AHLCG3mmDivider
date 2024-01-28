@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: Campaign - The Feast of Hemlock Vale
+  m_EditorClassIdentifier: 
+  pdfName: Campaign - The Feast of Hemlock Vale
+  genSpecs:
+  - {fileID: 11400000, guid: 581268c9065904789b341f9a4f60e79e, type: 2}
+  - {fileID: 11400000, guid: ac007e112aab94a79a469faf10b4e4f1, type: 2}
+  - {fileID: 11400000, guid: 1a2528dba39eb4ea79e08a2b6300f784, type: 2}
+  - {fileID: 11400000, guid: 2e89d5511df884ed785cd0c742266bb2, type: 2}
+  - {fileID: 11400000, guid: 44ee4377d75094eefae0aff62c8420b4, type: 2}
+  - {fileID: 11400000, guid: 0b61c7ce9384f4f5e81b88e36fc0e9d1, type: 2}
+  - {fileID: 11400000, guid: dd707801546bc430f947f5b25eb5392e, type: 2}
+  - {fileID: 11400000, guid: e4bc63d667aad47f6b83d1002b5a7b03, type: 2}
+  - {fileID: 11400000, guid: 1e7cb745a1c294104800fa057651227c, type: 2}
+  - {fileID: 11400000, guid: 71b196b556bb5431ea5170e80756633a, type: 2}
+  - {fileID: 11400000, guid: d8c510c6c252341b29919cc516a63d90, type: 2}
+  - {fileID: 11400000, guid: 9616ce02a23f948928a87c47e99988de, type: 2}
+  - {fileID: 11400000, guid: 3f3937de4fb464c019b8a52c4db62496, type: 2}
+  - {fileID: 11400000, guid: 988413d26e2df469b99ba412950b74aa, type: 2}
+  - {fileID: 11400000, guid: 41c76cc4506fd42a48f8085228e444fb, type: 2}
+  - {fileID: 11400000, guid: d9387461f1fd642419c27762a54d87f9, type: 2}
+  - {fileID: 11400000, guid: a0775dff8b0e94d599204454b7e62a66, type: 2}
+  - {fileID: 11400000, guid: d23e856c1b6704efbae42cf6114e831d, type: 2}
+  - {fileID: 11400000, guid: 63328906600e54a22aaa2c4382ded427, type: 2}
+  - {fileID: 11400000, guid: 13954a3f7ef3746628fdc2039f7bce80, type: 2}
+  - {fileID: 11400000, guid: f59f71307e56c4bfcad647caa9305df2, type: 2}
+  - {fileID: 11400000, guid: 7bf75e6baf3064f5fa1bd11881bd1c8b, type: 2}
+  - {fileID: 11400000, guid: d4ad3f56927124e7a842243d1999fe26, type: 2}
+  - {fileID: 11400000, guid: 5dbc2eb6cb64c41e4bd41adce2009e74, type: 2}
+  - {fileID: 11400000, guid: cae9b2bf5c8b243b8b89f476efdcad86, type: 2}
+  - {fileID: 11400000, guid: 5fdf345d7511d4221a245c947a78304e, type: 2}

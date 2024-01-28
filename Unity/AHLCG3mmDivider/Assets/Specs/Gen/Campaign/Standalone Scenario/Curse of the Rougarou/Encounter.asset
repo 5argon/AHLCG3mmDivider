@@ -25,7 +25,27 @@ MonoBehaviour:
   playerCornerSpec: {fileID: 0}
   setDisplay: 1
   setSpec: {fileID: 11400000, guid: 33f13f5ee7f9842a39e74c42bdbd15c6, type: 2}
+  lowerVerticalStrip: 0
+  rangeDisplay: 0
+  removeRangeIcon: 0
+  rangeFrom: 0
+  rangeTo: 0
+  rangeSubText:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
   iconDisplay: 1
-  iconDisplayIcon: {fileID: 21300000, guid: 0caa430f6bd084e42b0a3654d1ef426a, type: 3}
+  iconPreserveColor: 0
+  iconDisplayIcon: {fileID: 21300000, guid: 55074d3ee77224b839e2179d33b96387, type: 3}
+  classIconDisplay: 0
+  firstClass: 0
+  secondClass: 0
+  thirdClass: 0
   references:
-    version: 1
+    version: 2
+    RefIds: []

@@ -41,7 +41,7 @@ MonoBehaviour:
     m_LocalVariables: []
   iconDisplay: 1
   iconPreserveColor: 0
-  iconDisplayIcon: {fileID: 21300000, guid: 55074d3ee77224b839e2179d33b96387, type: 3}
+  iconDisplayIcon: {fileID: 21300000, guid: 0caa430f6bd084e42b0a3654d1ef426a, type: 3}
   classIconDisplay: 0
   firstClass: 0
   secondClass: 0

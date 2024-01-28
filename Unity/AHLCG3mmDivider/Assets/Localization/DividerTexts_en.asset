@@ -1670,6 +1670,14 @@ MonoBehaviour:
     m_Localized: Mi-Go Incursion II
     m_Metadata:
       m_Items: []
+  - m_Id: 279717702399942656
+    m_Localized: Relics of the Past
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286096463529762816
+    m_Localized: The Feast of Hemlock Vale
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

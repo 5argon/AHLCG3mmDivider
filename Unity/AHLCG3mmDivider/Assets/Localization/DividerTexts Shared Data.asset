@@ -973,6 +973,10 @@ MonoBehaviour:
     m_Key: Campaign/Regular/The Scarlet Keys/Scenario/Without a Trace
     m_Metadata:
       m_Items: []
+  - m_Id: 286096463525568512
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Scenario/TEMP1
+    m_Metadata:
+      m_Items: []
   - m_Id: 1066455261198
     m_Key: "Campaign/Return To/Night of the Zealot/Encounter/Cult of Um\xF4rdhoth
       (new)"
@@ -1328,6 +1332,10 @@ MonoBehaviour:
     m_Key: Campaign Name/The Scarlet Keys
     m_Metadata:
       m_Items: []
+  - m_Id: 286096463529762816
+    m_Key: Campaign Name/The Feast of Hemlock Vale
+    m_Metadata:
+      m_Items: []
   - m_Id: 117235484975104
     m_Key: Challenge Scenario Name/All or Nothing
     m_Metadata:
@@ -1350,6 +1358,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 247446725469396992
     m_Key: Challenge Scenario Name/Laid to Rest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279717702399942656
+    m_Key: Challenge Scenario Name/Relics of the Past
     m_Metadata:
       m_Items: []
   - m_Id: 114883216937050114

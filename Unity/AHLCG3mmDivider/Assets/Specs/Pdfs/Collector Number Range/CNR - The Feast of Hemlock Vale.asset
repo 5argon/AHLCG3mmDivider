@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: CNR - The Feast of Hemlock Vale
+  m_EditorClassIdentifier: 
+  pdfName: CNR - The Feast of Hemlock Vale
+  genSpecs:
+  - {fileID: 11400000, guid: a53fd950861fc4c2b88a11828c6b9a95, type: 2}
+  - {fileID: 11400000, guid: 3f0e9ef102a534742977baac59334b97, type: 2}
+  - {fileID: 11400000, guid: 3c7bade80401b42b581c86226674d54c, type: 2}
+  - {fileID: 11400000, guid: c7203356227304f2491435ce9f7fe855, type: 2}
+  - {fileID: 11400000, guid: 5e67e53c73ab74d7da24b0cfc136a184, type: 2}
+  - {fileID: 11400000, guid: a76230c1c3f264151a2a8b84f05794e0, type: 2}
