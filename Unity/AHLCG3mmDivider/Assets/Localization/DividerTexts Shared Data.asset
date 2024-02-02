@@ -632,6 +632,110 @@ MonoBehaviour:
     m_Key: Campaign/Regular/The Dunwich Legacy/Scenario/Where Doom Awaits
     m_Metadata:
       m_Items: []
+  - m_Id: 287863091447717888
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Encounter/Agents of the Colour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912192
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Encounter/Blight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912193
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Encounter/Day of Rain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912194
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Encounter/Day of Rest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912195
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Encounter/Day of the Feast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912196
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Encounter/Fire!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912197
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Encounter/Heirlooms
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912198
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Encounter/Horrors in the Rock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912199
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Encounter/Mutations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912200
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Encounter/Myconids
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912201
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Encounter/Refractions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912202
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Encounter/Residents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912203
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Encounter/The Final Day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912204
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Encounter/The First Day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912205
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Encounter/The Forest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912206
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Encounter/The Second Day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912207
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Encounter/The Vale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912208
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Encounter/Transfiguration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912209
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Scenario/Fate of the Vale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912210
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Scenario/Hemlock House
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912211
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Scenario/The Longest Night
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912212
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Scenario/The Lost Sister
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912213
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Scenario/The Silent Heath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912214
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Scenario/The Thing in the Depths
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912215
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Scenario/The Twisted Hollow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912216
+    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Scenario/Written in Rock
+    m_Metadata:
+      m_Items: []
   - m_Id: 1066455261281
     m_Key: Campaign/Regular/The Forgotten Age/Encounter/Agents of Yig
     m_Metadata:
@@ -973,10 +1077,6 @@ MonoBehaviour:
     m_Key: Campaign/Regular/The Scarlet Keys/Scenario/Without a Trace
     m_Metadata:
       m_Items: []
-  - m_Id: 286096463525568512
-    m_Key: Campaign/Regular/The Feast of Hemlock Vale/Scenario/TEMP1
-    m_Metadata:
-      m_Items: []
   - m_Id: 1066455261198
     m_Key: "Campaign/Return To/Night of the Zealot/Encounter/Cult of Um\xF4rdhoth
       (new)"
@@ -1316,6 +1416,10 @@ MonoBehaviour:
     m_Key: Campaign Name/The Dunwich Legacy
     m_Metadata:
       m_Items: []
+  - m_Id: 286096463529762816
+    m_Key: Campaign Name/The Feast of Hemlock Vale
+    m_Metadata:
+      m_Items: []
   - m_Id: 1066459455553
     m_Key: Campaign Name/The Forgotten Age
     m_Metadata:
@@ -1332,10 +1436,6 @@ MonoBehaviour:
     m_Key: Campaign Name/The Scarlet Keys
     m_Metadata:
       m_Items: []
-  - m_Id: 286096463529762816
-    m_Key: Campaign Name/The Feast of Hemlock Vale
-    m_Metadata:
-      m_Items: []
   - m_Id: 117235484975104
     m_Key: Challenge Scenario Name/All or Nothing
     m_Metadata:
@@ -1348,16 +1448,16 @@ MonoBehaviour:
     m_Key: Challenge Scenario Name/By the Book
     m_Metadata:
       m_Items: []
+  - m_Id: 247446725469396992
+    m_Key: Challenge Scenario Name/Laid to Rest
+    m_Metadata:
+      m_Items: []
   - m_Id: 117235535306754
     m_Key: Challenge Scenario Name/Read or Die
     m_Metadata:
       m_Items: []
   - m_Id: 34233692325928960
     m_Key: Challenge Scenario Name/Red Tide Rising
-    m_Metadata:
-      m_Items: []
-  - m_Id: 247446725469396992
-    m_Key: Challenge Scenario Name/Laid to Rest
     m_Metadata:
       m_Items: []
   - m_Id: 279717702399942656
@@ -1444,12 +1544,12 @@ MonoBehaviour:
     m_Key: Player/Category/Permanent
     m_Metadata:
       m_Items: []
-  - m_Id: 93483817522683905
-    m_Key: Player/Category/Upgrade Sheet
-    m_Metadata:
-      m_Items: []
   - m_Id: 216438933019418624
     m_Key: Player/Category/Proxy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93483817522683905
+    m_Key: Player/Category/Upgrade Sheet
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261212
@@ -1628,14 +1728,14 @@ MonoBehaviour:
     m_Key: Standalone Scenario/The Blob That Ate Everything/Single Group
     m_Metadata:
       m_Items: []
-  - m_Id: 258472339882106880
-    m_Key: Standalone Scenario/The Blob That Ate Everything Else/The Blob That Ate
-      Everything Else
-    m_Metadata:
-      m_Items: []
   - m_Id: 258472339882106881
     m_Key: Standalone Scenario/The Blob That Ate Everything Else/Mi-Go Incursion
       II
+    m_Metadata:
+      m_Items: []
+  - m_Id: 258472339882106880
+    m_Key: Standalone Scenario/The Blob That Ate Everything Else/The Blob That Ate
+      Everything Else
     m_Metadata:
       m_Items: []
   - m_Id: 117235535306771
@@ -1690,16 +1790,16 @@ MonoBehaviour:
     m_Key: Standalone Scenario Name/The Blob That Ate Everything
     m_Metadata:
       m_Items: []
+  - m_Id: 247446725469396993
+    m_Key: Standalone Scenario Name/The Blob That Ate Everything ELSE!
+    m_Metadata:
+      m_Items: []
   - m_Id: 117235535306782
     m_Key: Standalone Scenario Name/The Labyrinths of Lunacy
     m_Metadata:
       m_Items: []
   - m_Id: 117235535306783
     m_Key: Standalone Scenario Name/War of the Outer Gods
-    m_Metadata:
-      m_Items: []
-  - m_Id: 247446725469396993
-    m_Key: Standalone Scenario Name/The Blob That Ate Everything ELSE!
     m_Metadata:
       m_Items: []
   m_Metadata:

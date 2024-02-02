@@ -1086,6 +1086,110 @@ MonoBehaviour:
     m_Localized: Nvl. 5
     m_Metadata:
       m_Items: []
+  - m_Id: 287863091447717888
+    m_Localized: Agentes del color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912192
+    m_Localized: Plaga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912193
+    m_Localized: "D\xEDa de lluvia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912194
+    m_Localized: "D\xEDa de descanso"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912195
+    m_Localized: "D\xEDa de la fiesta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912196
+    m_Localized: "\xA1Fuego!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912197
+    m_Localized: Reliquias familiares
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912198
+    m_Localized: Horrores en la roca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912199
+    m_Localized: Mutaciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912200
+    m_Localized: "Mic\xF3nidos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912201
+    m_Localized: Refracciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912202
+    m_Localized: Habitantes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912203
+    m_Localized: "El \xFAltimo d\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912204
+    m_Localized: "El primer d\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912205
+    m_Localized: El bosque
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912206
+    m_Localized: "El segundo d\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912207
+    m_Localized: El Valle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912208
+    m_Localized: "Transfiguraci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912209
+    m_Localized: El destino del Valle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912210
+    m_Localized: La Casa Cicuta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912211
+    m_Localized: "La noche m\xE1s larga"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912212
+    m_Localized: La hermana perdida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912213
+    m_Localized: "El p\xE1ramo silencioso"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912214
+    m_Localized: La cosa de las profundidades
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912215
+    m_Localized: La hondonada retorcida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912216
+    m_Localized: Escrito en la roca
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

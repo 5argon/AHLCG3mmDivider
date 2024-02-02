@@ -1678,6 +1678,110 @@ MonoBehaviour:
     m_Localized: The Feast of Hemlock Vale
     m_Metadata:
       m_Items: []
+  - m_Id: 287863091447717888
+    m_Localized: Agents of the Colour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912192
+    m_Localized: Blight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912193
+    m_Localized: Day of Rain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912194
+    m_Localized: Day of Rest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912195
+    m_Localized: Day of the Feast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912196
+    m_Localized: Fire!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912197
+    m_Localized: Heirlooms
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912198
+    m_Localized: Horrors in the Rock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912199
+    m_Localized: Mutations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912200
+    m_Localized: Myconids
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912201
+    m_Localized: Refractions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912202
+    m_Localized: Residents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912203
+    m_Localized: The Final Day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912204
+    m_Localized: The First Day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912205
+    m_Localized: The Forest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912206
+    m_Localized: The Second Day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912207
+    m_Localized: The Vale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912208
+    m_Localized: Transfiguration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912209
+    m_Localized: Fate of the Vale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912210
+    m_Localized: Hemlock House
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912211
+    m_Localized: The Longest Night
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912212
+    m_Localized: The Lost Sister
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912213
+    m_Localized: The Silent Heath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912214
+    m_Localized: The Thing in the Depths
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912215
+    m_Localized: The Twisted Hollow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912216
+    m_Localized: Written in Rock
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

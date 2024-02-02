@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1e75ca6b8044563842653c16ee3cb17, type: 3}
   m_Name: The Feast of Hemlock Vale
   m_EditorClassIdentifier: 
-  setStripColor: {r: 0.9339623, g: 0.7025276, b: 0.066082224, a: 1}
+  setStripColor: {r: 0.8301887, g: 0.45730525, b: 0.09789959, a: 1}
   setStripText:
     m_TableReference:
       m_TableCollectionName: GUID:0fe55b6e16baa4337b49d27ef6014293
