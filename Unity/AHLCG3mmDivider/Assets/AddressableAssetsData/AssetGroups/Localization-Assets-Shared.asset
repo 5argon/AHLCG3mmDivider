@@ -21,6 +21,12 @@ MonoBehaviour:
     m_Address: Assets/Localization/DividerTexts Shared Data.asset
     m_ReadOnly: 1
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd09a957eb4b44285bbf90ac6b106ac2
+    m_Address: Assets/Localization/Font Swap Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: c032f1a85538945909ac6e450c5e729f, type: 2}
   m_SchemaSet:

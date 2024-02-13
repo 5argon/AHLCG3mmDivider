@@ -1,4 +1,5 @@
 trackSelection = true
+refreshSearchWindowsInPlayMode = false
 fetchPreview = true
 defaultFlags = 0
 keepOpen = false
@@ -10,6 +11,11 @@ scopes = {
 	"last_search.B655092D" = "st:written in roc"
 	"OpenInspectorPreview.B655092D" = "0"
 	"currentGroup.B655092D" = "all"
+	"picker_window_position_offset.45F3178B" = "-197.5;336;627;550"
+	"picker_search_text.45F3178B" = ""
+	"last_search.45F3178B" = ""
+	"OpenInspectorPreview.45F3178B" = "0"
+	"currentGroup.45F3178B" = "all"
 }
 providers = {
 	at = {
@@ -62,6 +68,11 @@ providers = {
 		priority = 210
 		defaultAction = null
 	}
+	profilermarkers = {
+		active = false
+		priority = 100
+		defaultAction = null
+	}
 }
 objectSelectors = {
 }
@@ -91,9 +102,12 @@ searchItemFavorites = [
 ]
 savedSearchesSortOrder = 0
 showSavedSearchPanel = false
+hideTabs = false
 expandedQueries = [
 ]
 queryBuilder = false
 ignoredProperties = "id;name;classname;imagecontentshash"
 helperWidgetCurrentArea = "all"
 disabledIndexers = ""
+minIndexVariations = 2
+findProviderIndexHelper = true

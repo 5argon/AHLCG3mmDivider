@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: AddressableAssetSettings
   m_EditorClassIdentifier: 
   m_DefaultGroup: 397aa93a3ab8f4386b95caf97c233e65
-  m_CachedHash:
+  m_currentHash:
     serializedVersion: 2
-    Hash: 00000000000000000000000000000000
+    Hash: bc784d406ee8a154bcc79d362b49757a
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_BundleLocalCatalog: 0
@@ -32,11 +32,14 @@ MonoBehaviour:
   m_ShaderBundleNaming: 0
   m_ShaderBundleCustomNaming: 
   m_MonoScriptBundleNaming: 0
+  m_CheckForContentUpdateRestrictionsOption: 0
   m_MonoScriptBundleCustomNaming: 
   m_RemoteCatalogBuildPath:
     m_Id: 
   m_RemoteCatalogLoadPath:
     m_Id: 
+  m_ContentStateBuildPathProfileVariableName: 
+  m_CustomContentStateBuildPath: 
   m_ContentStateBuildPath: 
   m_BuildAddressablesWithPlayerBuild: 0
   m_overridePlayerVersion: 
@@ -52,6 +55,21 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e4238376e2ae14698a50bc8a133e6b5d, type: 2}
   - {fileID: 11400000, guid: 09b0890b9fe1c46debac4231bbc0f340, type: 2}
   - {fileID: 11400000, guid: ab14e52caa046404492276ee4eb4ac46, type: 2}
+  - {fileID: 11400000, guid: 9ed56d2bf69b344f087770522819f262, type: 2}
+  - {fileID: 11400000, guid: c542feb7c0f24448bbff8df94e566095, type: 2}
+  - {fileID: 11400000, guid: 5e4342deee8b84827b41e9f7e90c826b, type: 2}
+  - {fileID: 11400000, guid: f26798c4867fd4f5a926755d318c8fc8, type: 2}
+  - {fileID: 11400000, guid: 851acbec9dc164a279cddc87d33b4b2d, type: 2}
+  - {fileID: 11400000, guid: aa27bec6e5ab049de8a1a84b8c03de84, type: 2}
+  - {fileID: 11400000, guid: 1e75a3ab2411f44e2a209b5a15819c0c, type: 2}
+  - {fileID: 11400000, guid: 2a7e3e4f6776242eeafcfeeb991192b3, type: 2}
+  - {fileID: 11400000, guid: 441ccf1628ec34d388260bd7251b462b, type: 2}
+  - {fileID: 11400000, guid: 16f498522793b466bb3e15d8daaffb37, type: 2}
+  - {fileID: 11400000, guid: a2bde1dde0c794d43944ac5867d9e782, type: 2}
+  - {fileID: 11400000, guid: 278c4384a3f9a44fda252c3eb8c2b950, type: 2}
+  - {fileID: 11400000, guid: 6f5baa5995499479cbc8de32a65fd8f8, type: 2}
+  - {fileID: 11400000, guid: 653bb3c22308447d9be4644f6d0f2df7, type: 2}
+  - {fileID: 11400000, guid: 4ca8bdea757864076b710fda5624059d, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -102,6 +120,8 @@ MonoBehaviour:
     - Locale-es
     - Locale-fr
     - Locale-pt
+    - Locale-cs
+    - Locale-pl
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: d9aae51c92ac247cb87adb0df64c3730, type: 2}
@@ -121,3 +141,4 @@ MonoBehaviour:
     m_Settings: {fileID: 11400000}
     m_NextInstanceId: 0
     m_RegisteredServiceTypeRefs: []
+    m_PingTimeoutInMilliseconds: 5000

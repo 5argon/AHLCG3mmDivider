@@ -1,0 +1,595 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DividerTexts_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 0fe55b6e16baa4337b49d27ef6014293, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8220054642688
+    m_Localized: Agenci Cthulhu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066451066880
+    m_Localized: Agenci Hastura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261184
+    m_Localized: Agenci Shub-Niggurath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261185
+    m_Localized: Agenci Yog-Sothotha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261186
+    m_Localized: Pradawne zlo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261187
+    m_Localized: Przejmujacy chlod
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261188
+    m_Localized: "Kult Um\xF4rdhotha"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261189
+    m_Localized: Mroczny kult
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261190
+    m_Localized: Ghoule
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261191
+    m_Localized: Zamkniete drzwi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261192
+    m_Localized: Dzieci nocy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261193
+    m_Localized: Szczury
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261194
+    m_Localized: Paniczny strach
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346468769792
+    m_Localized: Agenci Nieznanego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964096
+    m_Localized: Stworzenia w lodzie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964097
+    m_Localized: Mordercza pogoda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964098
+    m_Localized: Starsze Istoty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964099
+    m_Localized: Czlonkowie ekspedycji
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964100
+    m_Localized: Niebezpieczenstwa Antarktydy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964101
+    m_Localized: Zdani na siebie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964102
+    m_Localized: Zagubieni posrod nocy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964103
+    m_Localized: Wspomnienia o utraconych
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964104
+    m_Localized: Mizmat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964105
+    m_Localized: Nienazwane koszmary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964106
+    m_Localized: Pingwiny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964107
+    m_Localized: Saczace sie koszmary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964108
+    m_Localized: Shoggothy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964109
+    m_Localized: Cisza i tajemnica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964110
+    m_Localized: Ruchy w glebi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964111
+    m_Localized: Tekali-li
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964112
+    m_Localized: Katastrofa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964113
+    m_Localized: Wielka pieczec
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964114
+    m_Localized: Miasto Starszych Istot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964115
+    m_Localized: Zdradzieckie miraze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964116
+    m_Localized: Lod i smierc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964120
+    m_Localized: Serce szalenstwa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8864346472964123
+    m_Localized: Na zakazane szczyty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261195
+    m_Localized: Pozeracz z otchlani
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261196
+    m_Localized: Zgromadzenie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261197
+    m_Localized: Maski polnocy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93482576071614464
+    m_Localized: Los Armitage'a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261264
+    m_Localized: Pech
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261265
+    m_Localized: Niewolnicy-bestie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261266
+    m_Localized: Niewolnicy Bishopa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261267
+    m_Localized: Dunwich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261268
+    m_Localized: Ohydne wynaturzenia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261269
+    m_Localized: Podwladni Naomi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261270
+    m_Localized: Czarnoksiestwo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261271
+    m_Localized: Otchlan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261272
+    m_Localized: Lelki kozodoje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261273
+    m_Localized: Krew na oltarzu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261274
+    m_Localized: Zajecia pozalekcyjne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261275
+    m_Localized: Zagubieni w czasie i przestrzeni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261276
+    m_Localized: Essex County Express
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261277
+    m_Localized: Kasyno zawsze wygrywa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55069609684885504
+    m_Localized: Muzeum Miskatonic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261279
+    m_Localized: Bezwymiarowe i niewidzialne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261280
+    m_Localized: Gdzie czeka zaglada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261204
+    m_Localized: Podstawka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62739937484800
+    m_Localized: Na krawedzi Ziemi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261205
+    m_Localized: Noc fanatyka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455546
+    m_Localized: "Powrot Przerwanego kr\u0119gu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455547
+    m_Localized: Powrot Dziedzictwa Dunwich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455548
+    m_Localized: Powrot Zapomnianej ery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261206
+    m_Localized: Powrot Nocy fanatyka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455549
+    m_Localized: Powrot Szlaku do Carcosy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455550
+    m_Localized: Przerwany Krag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455551
+    m_Localized: Pozeracze snow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455552
+    m_Localized: Dziedzictwo Dunwich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455553
+    m_Localized: Zapomniana era
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455554
+    m_Localized: Zmowa nad Innsmouth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455555
+    m_Localized: Szlak do Carcosy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93158039496941568
+    m_Localized: Szkarlatne klucze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261207
+    m_Localized: poziom 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745280
+    m_Localized: poziom 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261208
+    m_Localized: poziom 1 ~ 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745281
+    m_Localized: poziom 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745282
+    m_Localized: poziom 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745283
+    m_Localized: poziom 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745284
+    m_Localized: poziom 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261209
+    m_Localized: Podstawowe oslabienie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261211
+    m_Localized: Badacze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15532527534989313
+    m_Localized: Trwala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261212
+    m_Localized: Straznik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261213
+    m_Localized: Wieloklasowe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261214
+    m_Localized: Mistyk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261215
+    m_Localized: Neutralne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261216
+    m_Localized: Lotr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261217
+    m_Localized: Poszukiwacz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261218
+    m_Localized: Ocalaly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261219
+    m_Localized: Talia 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261220
+    m_Localized: Talia 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261221
+    m_Localized: Talia 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261222
+    m_Localized: Talia 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34233692338511872
+    m_Localized: Talia boczna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775737471229952
+    m_Localized: 2 Klasy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775737475424256
+    m_Localized: 3 Klasy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156995
+    m_Localized: 1 strefa mistyczna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156993
+    m_Localized: 1 strefa rak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156996
+    m_Localized: 2 strefy mistyczne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156994
+    m_Localized: 2 strefy rak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184654962688
+    m_Localized: strefa drobiazgu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156997
+    m_Localized: strefa sprzymierzenca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156992
+    m_Localized: strefa ciala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156999
+    m_Localized: inne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261244
+    m_Localized: Agenci Atlach-Nachy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261245
+    m_Localized: Agenci Nyarlathotepa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261246
+    m_Localized: Korsarze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261247
+    m_Localized: Istoty z podziemi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261248
+    m_Localized: "W odmetach smo\u0142y"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261249
+    m_Localized: Klatwa sniacego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261250
+    m_Localized: Kraina Snow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261251
+    m_Localized: Fuzja rzeczywistosci
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261252
+    m_Localized: Pajaki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157933798154240
+    m_Localized: Koszmar z Doliny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261254
+    m_Localized: Szepty Hypnosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261255
+    m_Localized: Zugi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261256
+    m_Localized: Koszmar tysiaca wcielen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261257
+    m_Localized: Przez wrota snu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261258
+    m_Localized: Ciemna strona Ksiezyca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261259
+    m_Localized: Nie ma odwrotu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261260
+    m_Localized: Poszukiwania Kadath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261261
+    m_Localized: Koszmar na jawie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261262
+    m_Localized: Tkaczka kosmosu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261263
+    m_Localized: Gdzie mieszkaja bogowie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261304
+    m_Localized: Agenci Dagona
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261305
+    m_Localized: Agenci Hydry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261306
+    m_Localized: Stworzenia z glebin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261307
+    m_Localized: Zalane jaskinie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261308
+    m_Localized: Mgla nad Innsmouth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261309
+    m_Localized: Usterka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261310
+    m_Localized: Przyplyw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261311
+    m_Localized: Zniszczone wspomniania
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261312
+    m_Localized: Koniunkcja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261313
+    m_Localized: Mieszkancy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261314
+    m_Localized: Swiatlo posrod mgiel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261315
+    m_Localized: Diabelska rafa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261316
+    m_Localized: Na wysokich obrotach
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261317
+    m_Localized: Zbyt gleboko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261318
+    m_Localized: W glab wiru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261319
+    m_Localized: Leze Dagona
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261320
+    m_Localized: Jama rozpaczy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261321
+    m_Localized: Znikniecie Eliny Harper
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

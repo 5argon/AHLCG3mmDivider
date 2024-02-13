@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Asset-Tables-Czech (cs)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Asset-Tables-Czech (cs)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c985d9232021f4e80b67fd2dc3f68274
+  m_SerializeEntries:
+  - m_GUID: fed01fba1e7f24d1b9f2553891553bdb
+    m_Address: Font Swap_cs
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-cs
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: c032f1a85538945909ac6e450c5e729f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2e4ddf0e768ff4e06a100e314b9b397e, type: 2}
+    - {fileID: 11400000, guid: e8eda6c534f2d4a2789faaab16f9bb4e, type: 2}

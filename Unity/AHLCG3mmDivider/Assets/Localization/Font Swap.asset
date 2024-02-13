@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4db626ad063b13545924a9839ac5fa83, type: 3}
+  m_Name: Font Swap
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: fd09a957eb4b44285bbf90ac6b106ac2, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 82f0d6f7d3e9c480ab0fd9f528c0db1d, type: 2}
+  - {fileID: 11400000, guid: e6bb7543b853945c4b9c402184a61f33, type: 2}
+  - {fileID: 11400000, guid: 5dda44dfd18fb4be6a83b55eb2573b6f, type: 2}
+  - {fileID: 11400000, guid: 2621e1b13d2ee4b05add9127a4d2848c, type: 2}
+  - {fileID: 11400000, guid: 66f913e4efd9f4ec580d4b858e14d0fe, type: 2}
+  - {fileID: 11400000, guid: 2ff2f93bca30a443d8b10bb9b6cfb170, type: 2}
+  - {fileID: 11400000, guid: fed01fba1e7f24d1b9f2553891553bdb, type: 2}
+  - {fileID: 11400000, guid: fea1e542f89ac4669bf49dc2f8865959, type: 2}
+  - {fileID: 11400000, guid: 1c8dabaaf8e89426ea3b92320cbaf84d, type: 2}
+  m_Extensions: []
+  m_Group: Asset Table
+  references:
+    version: 2
+    RefIds: []

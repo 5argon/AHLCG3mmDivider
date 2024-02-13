@@ -21,6 +21,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 2eee42afd49004df0b605b4a86bb33f4, type: 2}
   - {fileID: 11400000, guid: 32d8616f86dd94f8fa55468cc6d283a5, type: 2}
   - {fileID: 11400000, guid: b7383f462f32f4981b232eb6a4980692, type: 2}
+  - {fileID: 11400000, guid: f1ea0ef3f0b8f4665999076ad313a4a2, type: 2}
+  - {fileID: 11400000, guid: 85815a61c0fa045ce87e61ab0b7c5a69, type: 2}
   m_Extensions:
   - rid: 0
   m_Group: String Table
@@ -43,6 +45,8 @@ MonoBehaviour:
         - rid: 6
         - rid: 7
         - rid: 1216861729234092032
+        - rid: 72194103183147008
+        - rid: 72194103183147021
         m_RemoveMissingPulledKeys: 1
     - rid: 1
       type: {class: KeyColumn, ns: UnityEditor.Localization.Plugins.Google.Columns, asm: Unity.Localization.Editor}
@@ -89,6 +93,20 @@ MonoBehaviour:
         m_Column: M
         m_LocaleIdentifier:
           m_Code: fr
+        m_IncludeComments: 0
+    - rid: 72194103183147008
+      type: {class: LocaleColumn, ns: UnityEditor.Localization.Plugins.Google.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_Column: O
+        m_LocaleIdentifier:
+          m_Code: pl
+        m_IncludeComments: 0
+    - rid: 72194103183147021
+      type: {class: LocaleColumn, ns: UnityEditor.Localization.Plugins.Google.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_Column: Q
+        m_LocaleIdentifier:
+          m_Code: cs
         m_IncludeComments: 0
     - rid: 1216861729234092032
       type: {class: LocaleColumn, ns: UnityEditor.Localization.Plugins.Google.Columns, asm: Unity.Localization.Editor}
