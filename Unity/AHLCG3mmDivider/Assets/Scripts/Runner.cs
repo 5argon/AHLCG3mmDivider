@@ -50,6 +50,10 @@ namespace E7.AhLcgMiniDivider
             foreach (var l in locales)
             {
                 LocalizationSettings.SelectedLocale = l;
+                for (var i = 0; i < 20; i++)
+                {
+                    yield return null;
+                }
                 foreach (var v in specs)
                 {
                     for (var i = 0; i < v.genSpecs.Length; i++)

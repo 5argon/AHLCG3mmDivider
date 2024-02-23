@@ -43,7 +43,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261188
-    m_Localized: "Um\xF3rdhoth\u016Fv kult"
+    m_Localized: "Um\xF3rdhothuv kult"
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261189
@@ -251,7 +251,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261204
-    m_Localized: 
+    m_Localized: Core Set
     m_Metadata:
       m_Items: []
   - m_Id: 62739937484800
@@ -311,31 +311,31 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261207
-    m_Localized: "\xDArove\u0148 0"
+    m_Localized: Lv. 0
     m_Metadata:
       m_Items: []
   - m_Id: 70291989931745280
-    m_Localized: "\xDArove\u0148 1"
+    m_Localized: Lv. 1
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261208
-    m_Localized: "\xDArove\u0148 1 ~ 5"
+    m_Localized: Lv. 1 ~ 5
     m_Metadata:
       m_Items: []
   - m_Id: 70291989931745281
-    m_Localized: "\xDArove\u0148 2"
+    m_Localized: Lv. 2
     m_Metadata:
       m_Items: []
   - m_Id: 70291989931745282
-    m_Localized: "\xDArove\u0148 3"
+    m_Localized: Lv. 3
     m_Metadata:
       m_Items: []
   - m_Id: 70291989931745283
-    m_Localized: "\xDArove\u0148 4"
+    m_Localized: Lv. 4
     m_Metadata:
       m_Items: []
   - m_Id: 70291989931745284
-    m_Localized: "\xDArove\u0148 5"
+    m_Localized: Lv. 5
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261209
@@ -355,7 +355,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261213
-    m_Localized: "V\xEDce-t\u0159\xEDd"
+    m_Localized: Multi-Class
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261214
@@ -540,6 +540,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 117235535306781
     m_Localized: "Sliz, co v\u0161echno zhltne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261210
+    m_Localized: "Lepen\xE9"
     m_Metadata:
       m_Items: []
   references:
