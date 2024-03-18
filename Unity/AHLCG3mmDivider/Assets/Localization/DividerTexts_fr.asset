@@ -307,7 +307,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261275
-    m_Localized: Perdus dans le Temps et l'Espace
+    m_Localized: Perdu dans le Temps et l'Espace
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261276
@@ -888,6 +888,598 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 93158039496941568
     m_Localized: "Les Clefs \xC9carlates"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261244
+    m_Localized: Agents d'Atlach-Nacha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261245
+    m_Localized: Agents de Nyarlathotep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261246
+    m_Localized: Les Corsaires
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261247
+    m_Localized: "Cr\xE9atures du Monde Souterrain"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261248
+    m_Localized: Descente dans l'Asphalte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261249
+    m_Localized: "Mal\xE9diction du R\xEAveur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261250
+    m_Localized: "Contr\xE9es du R\xEAve"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261251
+    m_Localized: "R\xE9alit\xE9s Fusionn\xE9es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261252
+    m_Localized: "Les Araign\xE9es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157933798154240
+    m_Localized: "Terreur de la Vall\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261254
+    m_Localized: Murmures d'Hypnos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261255
+    m_Localized: Les Zoogs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261256
+    m_Localized: Mille Nuances d'Horreur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261257
+    m_Localized: "Par-del\xE0 le Mur du Sommeil"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261258
+    m_Localized: "La Face Cach\xE9e de la Lune"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261259
+    m_Localized: Point de Non-Retour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261260
+    m_Localized: "\xC0 la Recherche de Kadath"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261261
+    m_Localized: "Cauchemar \xC9veill\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261262
+    m_Localized: Tisseuse du Chaos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261263
+    m_Localized: La Demeure des Dieux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93482576071614464
+    m_Localized: Le Sort d'Armitage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091447717888
+    m_Localized: Agents de la Couleur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912192
+    m_Localized: "D\xE9cr\xE9pitude"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912193
+    m_Localized: Jour de Pluie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912194
+    m_Localized: Jour de Repos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912195
+    m_Localized: Jour du Festin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912196
+    m_Localized: Au Feu !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912197
+    m_Localized: "H\xE9ritages"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912198
+    m_Localized: Horreurs des Roches
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912199
+    m_Localized: Mutations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912200
+    m_Localized: Myconides
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912201
+    m_Localized: "R\xE9fractions"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912202
+    m_Localized: Habitants
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912203
+    m_Localized: Le Dernier Jour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912204
+    m_Localized: Le Premier Jour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912205
+    m_Localized: "La For\xEAt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912206
+    m_Localized: "Le Deuxi\xE8me Jour"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912207
+    m_Localized: Le Val
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912208
+    m_Localized: Transfiguration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912209
+    m_Localized: Destin de Vale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912210
+    m_Localized: Hemlock House
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912211
+    m_Localized: La Nuit la Plus Longue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912212
+    m_Localized: "La S\u0153ur Perdue"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912213
+    m_Localized: La Lande Silencieuse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912214
+    m_Localized: La Chose des Profondeurs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912215
+    m_Localized: La Vallon Tortueux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287863091451912216
+    m_Localized: "Grav\xE9 Dans la Pierre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261198
+    m_Localized: "Culte d'Um\xF4rdhoth"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261199
+    m_Localized: "Les Goules d'Um\xF4rdhoth"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261200
+    m_Localized: "Le Culte du D\xE9voreur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261201
+    m_Localized: "Renouveau - Le D\xE9voreur du Dessous"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261202
+    m_Localized: Renouveau - Le Rassemblement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261203
+    m_Localized: Renouveau - Les Masques de Minuit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455497
+    m_Localized: "Esprits Assoiff\xE9s de Sang"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455498
+    m_Localized: Un Froid Brumeux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455499
+    m_Localized: "Cit\xE9 des Damn\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455500
+    m_Localized: Sorcellerie Occulte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455501
+    m_Localized: "Fl\xE9aux Imminents"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455502
+    m_Localized: Destin Indicible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455503
+    m_Localized: Royaume Instable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455504
+    m_Localized: Renouveau - Aux Portes de la Mort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455505
+    m_Localized: "Renouveau - Devant le Tr\xF4ne Noir,"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455506
+    m_Localized: "Renouveau - Disparition dans la Demeure du Cr\xE9puscule"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455507
+    m_Localized: Renouveau - Pour le Bien Commun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455508
+    m_Localized: Renouveau - Dans les Griffes du Chaos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455509
+    m_Localized: Renouveau - Le Nom Secret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455510
+    m_Localized: "Renouveau - Le Salaire du P\xE9ch\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455511
+    m_Localized: "Renouveau - L'Heure des Sorci\xE8res"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455512
+    m_Localized: "Renouveau - Union et D\xE9sillusion"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455513
+    m_Localized: "Au-Del\xE0 du Seuil"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455514
+    m_Localized: Un Froid Insidieux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455515
+    m_Localized: Peur Erratique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455516
+    m_Localized: "Fl\xE9aux R\xE9surgents"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455517
+    m_Localized: "Portes Secr\xE8tes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455518
+    m_Localized: "\xC9missaires de Yog-Sothoth"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455519
+    m_Localized: Renouveau - Du Sang sur l'Autel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455520
+    m_Localized: "Renouveau - Activit\xE9 Extrascolaire"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455521
+    m_Localized: Renouveau - Perdu dans le Temps et l'Espace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455522
+    m_Localized: "Renouveau - L'Express du Comt\xE9 d'Essex"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455523
+    m_Localized: Renouveau - La Banque Gagne Toujours
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55069609689079808
+    m_Localized: "Renouveau - Le Mus\xE9e Miskatonic"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455525
+    m_Localized: "Renouveau - Aux Fronti\xE8res du Visible"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455526
+    m_Localized: "Renouveau - L\xE0 o\xF9 le Destin Attend"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455527
+    m_Localized: Culte de Pnakotus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455528
+    m_Localized: "Exp\xE9dition Maudite"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455529
+    m_Localized: "Renouveau - For\xEAt Vierge"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455530
+    m_Localized: Chasseurs Temporels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455531
+    m_Localized: Haine Venimeuse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104361253835628544
+    m_Localized: "Renouveau - Le C\u0153ur des Anciens"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156839479706902528
+    m_Localized: Renouveau - K'n-yan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156839479711096832
+    m_Localized: Renouveau - Pilliers du Jugement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455534
+    m_Localized: Renouveau - Paradoxes Temporels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455535
+    m_Localized: "Renouveau - Par-del\xE0 les Limites"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455536
+    m_Localized: "Renouveau - La Cit\xE9 des Archives"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455537
+    m_Localized: Renouveau - Les Profondeurs de Yoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152899303759872
+    m_Localized: "Renouveau - Le Fl\xE9au des Eztli"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455539
+    m_Localized: "Renouveau - Une Contr\xE9e Sauvage"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455540
+    m_Localized: Renouveau - Les Fils du Destin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455541
+    m_Localized: Renouveau - Remonter le Temps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176320
+    m_Localized: "R\xE9alit\xE9 D\xE9liquescente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176321
+    m_Localized: "Fl\xE9aux Illusoires"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176322
+    m_Localized: "Envoy\xE9s d'Hastur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176323
+    m_Localized: "Hallucinations D\xE9rangeantes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176324
+    m_Localized: "Peur N\xE9vrotique"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176325
+    m_Localized: "Renouveau - Le Spectre de la V\xE9rit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176326
+    m_Localized: "Renouveau - Sous les \xC9toiles Noires"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176327
+    m_Localized: Renouveau - Baisser de Rideau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176328
+    m_Localized: "Renouveau - La P\xE2le Carcosa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176329
+    m_Localized: "Renouveau - Les \xC9chos du Pass\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176330
+    m_Localized: Renouveau - Le Dernier Roi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176331
+    m_Localized: "Renouveau - Le Masque Bl\xEAme"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68803349176332
+    m_Localized: Renouveau - Le Serment Indicible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 286096463529762816
+    m_Localized: Le Festin de Hemlock Vale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93483817522683904
+    m_Localized: Personnalisable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35092301721100288
+    m_Localized: Nouvelle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216438933019418624
+    m_Localized: Substituts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93483817522683905
+    m_Localized: "Fiche Am\xE9lioration"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34233692338511872
+    m_Localized: "R\xE9serve"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156995
+    m_Localized: 1 Emplacement d'Arcane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156993
+    m_Localized: 1 Emplacement de Main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156996
+    m_Localized: 2 Emplacements d'Arcane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156994
+    m_Localized: 2 Emplacements de Main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184654962688
+    m_Localized: Emplacement d'Accessoire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156997
+    m_Localized: "Emplacement d'Alli\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156992
+    m_Localized: Emplacement de Corps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156999
+    m_Localized: Autre Emplacement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156998
+    m_Localized: Emplacement de Tarot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306755
+    m_Localized: La Cabale de Myalarthotep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 184432361745670144
+    m_Localized: Fortune et Folie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 184432361745670145
+    m_Localized: "\xC9lus de la Fortune"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 184432361745670146
+    m_Localized: "Plans Chamboul\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27856950468272128
+    m_Localized: "Multijoueur \xC9pique"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27856950472466432
+    m_Localized: Groupe Unique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306768
+    m_Localized: "Multijoueur \xC9pique"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306769
+    m_Localized: Invation Mi-Go
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306770
+    m_Localized: Groupe Unique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306771
+    m_Localized: "Multijoueur \xC9pique"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306772
+    m_Localized: Groupe Unique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306773
+    m_Localized: Les Enfants du Paradis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306774
+    m_Localized: "La Mort des \xC9toiles"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306775
+    m_Localized: "La Nu\xE9e de l'Assimilation"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306776
+    m_Localized: "Horreur \xE0 Warkham"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306777
+    m_Localized: Le Carnaval des Horreurs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114883216937050112
+    m_Localized: Fortune et Folie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119936797106176
+    m_Localized: Machinations au Fil du Temps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306781
+    m_Localized: "Le D\xE9voreur de Toute Chose"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306782
+    m_Localized: Les Labyrinthes de la Folie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306783
+    m_Localized: "La Guerre des Dieux Ext\xE9rieurs"
     m_Metadata:
       m_Items: []
   references:
