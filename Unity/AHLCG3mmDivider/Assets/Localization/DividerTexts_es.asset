@@ -1190,6 +1190,210 @@ MonoBehaviour:
     m_Localized: Escrito en la roca
     m_Metadata:
       m_Items: []
+  - m_Id: 197805967213060135
+    m_Localized: Anacronismos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197805967213060136
+    m_Localized: Inteligencia Artificial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197805967213060137
+    m_Localized: El Hombre del Saco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197805967213060138
+    m_Localized: Pasado Oscuro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197805967213060139
+    m_Localized: Espacio Profundo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197805967213060140
+    m_Localized: Fin de los Tiempos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197805967213060141
+    m_Localized: Mirada de hastur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197805967213060142
+    m_Localized: Depredadores Interestelares
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197805967213060143
+    m_Localized: "Pesadilla El\xE9ctrica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197805967213060144
+    m_Localized: Fragmento de Carcosa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197805967213060145
+    m_Localized: La Cara Oculta de la Tierra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197805967213060146
+    m_Localized: "Perdici\xF3n Cu\xE1ntica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197805967213060147
+    m_Localized: "Estrella Ca\xEDda"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197805967213060148
+    m_Localized: "Lunas Extra\xF1as"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197805967213060149
+    m_Localized: "La M\xE1quina Amarilla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197805967213060150
+    m_Localized: La Tatterdemalion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93482576071614464
+    m_Localized: El Destino de Armitage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022349754368
+    m_Localized: Agentes del Exterior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142976
+    m_Localized: Agentes de Yuggoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142977
+    m_Localized: "M\xE1s All\xE1 del M\xE1s All\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142978
+    m_Localized: Equipo de Limpieza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142979
+    m_Localized: "Conspiraci\xF3n Carmes\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142980
+    m_Localized: "Ocultaci\xF3n Oculta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142981
+    m_Localized: Trotamundos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142982
+    m_Localized: Profundos Misterios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142983
+    m_Localized: Seres del Exterior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142984
+    m_Localized: Camarilla Roja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142985
+    m_Localized: "Brujer\xEDa Escarlata"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142986
+    m_Localized: Guerra Secreta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142987
+    m_Localized: La Sombra de la Duda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142988
+    m_Localized: "Anomal\xEDa Espacial"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142989
+    m_Localized: "Propagando la Corrumpci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142990
+    m_Localized: "Acontecimientos Extra\xF1os"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142991
+    m_Localized: El Congreso de las Llaves
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142992
+    m_Localized: Bailar como Locos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142993
+    m_Localized: Calor Muerto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142994
+    m_Localized: Tratos en la Oscuridad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142995
+    m_Localized: Perros de Guerra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142996
+    m_Localized: Sobre Hielo Peligroso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142997
+    m_Localized: Acertijos y Lluvia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142998
+    m_Localized: Sombras Sanguinas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358142999
+    m_Localized: Sombras de Sufrimiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129323022358143000
+    m_Localized: Sin Rastro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8891433854427136
+    m_Localized: "Escenario Desaf\xEDo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197805967217254402
+    m_Localized: Materia Oscura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34233692325928960
+    m_Localized: Sube la Marea Roja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93483817522683904
+    m_Localized: Personalizable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 184432361745670144
+    m_Localized: Fortuna e Insensatez
+    m_Metadata:
+      m_Items: []
+  - m_Id: 184432361745670145
+    m_Localized: Los Elegidos de la Fortuna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 184432361745670146
+    m_Localized: Plan al Garete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114883216937050112
+    m_Localized: Fortuna e Insensatez
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
