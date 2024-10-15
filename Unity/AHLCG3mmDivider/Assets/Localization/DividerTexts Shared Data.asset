@@ -1412,6 +1412,10 @@ MonoBehaviour:
     m_Key: Campaign Name/The Dream-Eaters
     m_Metadata:
       m_Items: []
+  - m_Id: 380506357451710464
+    m_Key: Campaign Name/The Drowned City
+    m_Metadata:
+      m_Items: []
   - m_Id: 1066459455552
     m_Key: Campaign Name/The Dunwich Legacy
     m_Metadata:
@@ -1746,6 +1750,10 @@ MonoBehaviour:
     m_Key: Standalone Scenario/The Labyrinths of Lunacy/Single Group
     m_Metadata:
       m_Items: []
+  - m_Id: 380506357472681984
+    m_Key: Standalone Scenario/The Midwinter Gala/The Midwinter Gala
+    m_Metadata:
+      m_Items: []
   - m_Id: 117235535306773
     m_Key: Standalone Scenario/War of the Outer Gods/Children of Paradise
     m_Metadata:
@@ -1796,6 +1804,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 117235535306782
     m_Key: Standalone Scenario Name/The Labyrinths of Lunacy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380506357472681985
+    m_Key: Standalone Scenario Name/The Midwinter Gala
     m_Metadata:
       m_Items: []
   - m_Id: 117235535306783

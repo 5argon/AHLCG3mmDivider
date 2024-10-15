@@ -29,7 +29,7 @@ namespace E7.AhLcgMiniDivider
             imageRecorder.name = "Divider Recorder";
             imageRecorder.Enabled = true;
             imageRecorder.OutputFormat = ImageRecorderSettings.ImageRecorderOutputFormat.PNG;
-            imageRecorder.imageInputSettings = new GameViewInputSettings {OutputWidth = 1098, OutputHeight = 804};
+            imageRecorder.imageInputSettings = new GameViewInputSettings {OutputWidth = 1182, OutputHeight = 886};
             controllerSettings.AddRecorderSettings(imageRecorder);
             controllerSettings.FrameRate = 30;
             controllerSettings.SetRecordModeToManual();

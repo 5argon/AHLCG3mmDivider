@@ -83,6 +83,14 @@ namespace E7.AhLcgMiniDivider
             classIconRef1.ApplySpec(gs);
             classIconRef2.ApplySpec(gs);
 
+            if (!mainText1.gameObject.activeInHierarchy)
+            {
+                mainText1.gameObject.SetActive(true);
+            }
+            if(!mainText2.gameObject.activeInHierarchy)
+            {
+                mainText2.gameObject.SetActive(true);
+            }
             mainText1.text = gs.mainText.IsEmpty ? string.Empty : gs.mainText.GetLocalizedString();
             mainText2.text = gs.mainText.IsEmpty ? string.Empty : gs.mainText.GetLocalizedString();
         }

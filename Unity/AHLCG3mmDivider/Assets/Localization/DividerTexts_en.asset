@@ -1782,6 +1782,18 @@ MonoBehaviour:
     m_Localized: Written in Rock
     m_Metadata:
       m_Items: []
+  - m_Id: 380506357451710464
+    m_Localized: The Drowned City
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380506357472681984
+    m_Localized: The Midwinter Gala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380506357472681985
+    m_Localized: The Midwinter Gala
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

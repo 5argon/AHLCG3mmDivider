@@ -16,6 +16,14 @@ scopes = {
 	"last_search.45F3178B" = ""
 	"OpenInspectorPreview.45F3178B" = "0"
 	"currentGroup.45F3178B" = "all"
+	"picker_window_position_offset.45F317DD" = "-222;126;627;550"
+	"picker_search_text.45F317DD" = "the drowned"
+	"last_search.45F317DD" = "the drowned"
+	"OpenInspectorPreview.45F317DD" = "0"
+	"currentGroup.45F317DD" = "all"
+	"last_search.110DEAA3" = ""
+	"OpenInspectorPreview.110DEAA3" = "0"
+	"currentGroup.110DEAA3" = "asset"
 }
 providers = {
 	at = {
@@ -77,6 +85,15 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	""
+	"p: t:Texture dir=I"
+	"p: t:Texture dir=\"folder name\""
+	"p: t:Texture"
+	"p: dir=\"Assets/Images/Icons\" t:Texture"
+	"p: dir=\"Assets\" "
+	"find:"
+	"p:"
+	"th"
 	"st:Tomb of Dead Dreams"
 	"Tomb of Dead Dreams"
 	"st:Pyroclastic Flow"
@@ -87,16 +104,6 @@ recentSearches = [
 	"Crumbling Masonry"
 	"st:Blood From Stones"
 	"Blood From Stones"
-	"st:Across Dreadful Waters"
-	"Across Dreadful Waters"
-	"st:Unnatural Stone"
-	"st:Unfriendly Ports"
-	"st:Storm and Sea"
-	"st:Spawn of R'lyeh"
-	"st:Shadowy Agents"
-	"st:Grand Compass"
-	"st:Deep Dreams"
-	"st:Cult of Cthulhu"
 ]
 searchItemFavorites = [
 ]
@@ -107,7 +114,7 @@ expandedQueries = [
 ]
 queryBuilder = false
 ignoredProperties = "id;name;classname;imagecontentshash"
-helperWidgetCurrentArea = "all"
+helperWidgetCurrentArea = "p:"
 disabledIndexers = ""
 minIndexVariations = 2
 findProviderIndexHelper = true
