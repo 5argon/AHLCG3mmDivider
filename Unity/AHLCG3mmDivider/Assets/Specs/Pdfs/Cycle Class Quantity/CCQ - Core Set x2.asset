@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: CCQ - Core Set x2
+  m_EditorClassIdentifier: 
+  pdfName: CCQ - Core Set x2
+  genSpecs:
+  - {fileID: 11400000, guid: f167084210a5547278de24b1128d1968, type: 2}
+  - {fileID: 11400000, guid: abcdffafdbffa463f8f24948e1a49a23, type: 2}
+  - {fileID: 11400000, guid: 2ff44be78c7ab4508919ef942428a764, type: 2}
+  - {fileID: 11400000, guid: 4dae05549d2024ab39d9899119ca460d, type: 2}
+  - {fileID: 11400000, guid: 8db0421211f9e49afaa1dadeffcfe7d8, type: 2}
+  - {fileID: 11400000, guid: a16d3bfe84b054022b5adc178b5c694a, type: 2}
+  - {fileID: 11400000, guid: c65476c5ef530459a96a6a583f79f650, type: 2}
+  - {fileID: 11400000, guid: 4a2f9c1b1100d4a99bc13ee03bb8f292, type: 2}

@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 441de306b4a2b46ae82f4372d27c7c01, type: 3}
-  m_Name: Return to the Forgotten Age 22
+  m_Name: Guardian 33
   m_EditorClassIdentifier: 
   mainText:
     m_TableReference:
@@ -22,13 +22,13 @@ MonoBehaviour:
     m_WaitForCompletion: 0
     m_LocalVariables: []
   playerCornerDisplay: 1
-  playerCornerSpec: {fileID: 11400000, guid: 23fa7dccc024e48cdbd41368db754651, type: 2}
+  playerCornerSpec: {fileID: 11400000, guid: 07481763ee3134192b102ebe6c5d0ac7, type: 2}
   setDisplay: 1
-  setSpec: {fileID: 11400000, guid: 049b88f0ff9a74f09a187637ab376ec5, type: 2}
+  setSpec: {fileID: 11400000, guid: 9fba9b87103734faead6cab453f95a63, type: 2}
   lowerVerticalStrip: 1
   rangeDisplay: 1
   removeRangeIcon: 0
-  rangeFrom: 22
+  rangeFrom: 33
   rangeTo: 0
   rangeSubText:
     m_TableReference:
@@ -41,7 +41,7 @@ MonoBehaviour:
     m_LocalVariables: []
   iconDisplay: 0
   iconPreserveColor: 0
-  iconDisplayIcon: {fileID: 21300000, guid: ff7d084954f094ba090138cb6093da3f, type: 3}
+  iconDisplayIcon: {fileID: 21300000, guid: d81440a110ae743e99f08bc8a9df5b09, type: 3}
   classIconDisplay: 0
   firstClass: 0
   secondClass: 0
