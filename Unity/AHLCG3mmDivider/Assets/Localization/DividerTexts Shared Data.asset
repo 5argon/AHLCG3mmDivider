@@ -1524,6 +1524,10 @@ MonoBehaviour:
     m_Key: Player/Category/Basic Weakness
     m_Metadata:
       m_Items: []
+  - m_Id: 380880108655730688
+    m_Key: Player/Category/Weakness
+    m_Metadata:
+      m_Items: []
   - m_Id: 1066455261210
     m_Key: Player/Category/Bonded
     m_Metadata:
@@ -1554,6 +1558,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 93483817522683905
     m_Key: Player/Category/Upgrade Sheet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380881074759131136
+    m_Key: Player/Category/Specialist
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261212

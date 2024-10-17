@@ -13,4 +13,15 @@ MonoBehaviour:
   m_Name: White-Empty
   m_EditorClassIdentifier: 
   playerCornerColor: {r: 0.8773585, g: 0.8773585, b: 0.8773585, a: 1}
-  playerCornerText: 
+  playerCornerText:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []

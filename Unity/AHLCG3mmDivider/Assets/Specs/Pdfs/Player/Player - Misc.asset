@@ -15,6 +15,8 @@ MonoBehaviour:
   pdfName: Player - Misc
   genSpecs:
   - {fileID: 11400000, guid: b48086820cb1944fd9452b2f6358df4f, type: 2}
+  - {fileID: 11400000, guid: 0b694efedb23d4f83b2767072f83ddfe, type: 2}
   - {fileID: 11400000, guid: 53963b6c954814cd0b534124f19f4a39, type: 2}
   - {fileID: 11400000, guid: f9aef226a083242f1a2334d03bbef019, type: 2}
   - {fileID: 11400000, guid: f8b95bd743bcd47bca3d1ec7ce0373e5, type: 2}
+  - {fileID: 11400000, guid: bdd7c90302bc44c4b8a60fe2a539503c, type: 2}

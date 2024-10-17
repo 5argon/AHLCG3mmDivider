@@ -22,10 +22,30 @@ MonoBehaviour:
     m_WaitForCompletion: 0
     m_LocalVariables: []
   playerCornerDisplay: 1
-  playerCornerSpec: {fileID: 11400000, guid: 741492157b5454dcb8da27ae69b88707, type: 2}
+  playerCornerSpec: {fileID: 11400000, guid: beb984123cfc040e1b117b4b54925c49, type: 2}
   setDisplay: 0
   setSpec: {fileID: 0}
+  lowerVerticalStrip: 0
+  rangeDisplay: 1
+  removeRangeIcon: 1
+  rangeFrom: 0
+  rangeTo: 0
+  rangeSubText:
+    m_TableReference:
+      m_TableCollectionName: GUID:0fe55b6e16baa4337b49d27ef6014293
+    m_TableEntryReference:
+      m_KeyId: 1066455261207
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
   iconDisplay: 0
+  iconPreserveColor: 0
   iconDisplayIcon: {fileID: 0}
+  classIconDisplay: 0
+  firstClass: 0
+  secondClass: 0
+  thirdClass: 0
   references:
-    version: 1
+    version: 2
+    RefIds: []

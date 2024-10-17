@@ -10,7 +10,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7430951715043365889, guid: fb808c5b602b74088957acdeb2e9db50, type: 3}
       propertyPath: m_fontSize
-      value: 16.65
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 7430951715043365889, guid: fb808c5b602b74088957acdeb2e9db50, type: 3}
       propertyPath: m_StyleSheet
@@ -58,7 +58,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7430951715043365890, guid: fb808c5b602b74088957acdeb2e9db50, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 17.5403
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 7430951715043365890, guid: fb808c5b602b74088957acdeb2e9db50, type: 3}
       propertyPath: m_LocalPosition.x

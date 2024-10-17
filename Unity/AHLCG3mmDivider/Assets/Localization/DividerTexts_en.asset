@@ -1794,6 +1794,14 @@ MonoBehaviour:
     m_Localized: The Midwinter Gala
     m_Metadata:
       m_Items: []
+  - m_Id: 380880108655730688
+    m_Localized: Weakness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380881074759131136
+    m_Localized: Specialist
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
