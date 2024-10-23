@@ -52,6 +52,7 @@ MonoBehaviour:
           - pl
           - pt
           - th
+          - hu
         m_TypeString: TMPro.TMP_FontAsset, Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral,
           PublicKeyToken=null
     - rid: 72194245826445324
@@ -70,5 +71,6 @@ MonoBehaviour:
           - pl
           - pt
           - th
+          - hu
         m_TypeString: TMPro.TMP_StyleSheet, Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral,
           PublicKeyToken=null

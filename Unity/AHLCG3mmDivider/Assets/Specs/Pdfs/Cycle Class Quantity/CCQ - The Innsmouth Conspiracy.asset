@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pdfName: CCQ - The Innsmouth Conspiracy
   genSpecs:
-  - {fileID: 11400000, guid: 886351272d00d44bd8591cb27274cb33, type: 2}
-  - {fileID: 11400000, guid: c8d7194063d724789868a3e257af55d6, type: 2}
-  - {fileID: 11400000, guid: 18f39246fd00c4b348ad072ff36de838, type: 2}
-  - {fileID: 11400000, guid: 5d4b8c4d8c93d4361ac9a3129e125b0a, type: 2}
-  - {fileID: 11400000, guid: 494bad520835d45f39cae84ec98b8247, type: 2}
-  - {fileID: 11400000, guid: 4bd7afdef281e4e59a4e09bcff122908, type: 2}
+  - {fileID: 11400000, guid: 547b126c705574d15b98996a8b3dd997, type: 2}
+  - {fileID: 11400000, guid: d429263137e9f4307a01eff551a07185, type: 2}
+  - {fileID: 11400000, guid: 7e66d5cd898cb4ed0963dfd862fd7a53, type: 2}
+  - {fileID: 11400000, guid: fc89bb6afc73848d198bfc220a44285a, type: 2}
+  - {fileID: 11400000, guid: 6945c7fa6bf144e4fa2c7564983fe674, type: 2}
+  - {fileID: 11400000, guid: 91410597885de43e389a722a61d946db, type: 2}

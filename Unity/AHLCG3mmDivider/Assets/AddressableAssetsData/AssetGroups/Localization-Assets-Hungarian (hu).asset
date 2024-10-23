@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Hungarian (hu)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Hungarian (hu)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4d1af3dfd4fcd4106a089efcb374ee81
+  m_SerializeEntries:
+  - m_GUID: e3d3afd8b668d47f0b255137c21411f7
+    m_Address: Teutonic_CZ SDF
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hu
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6db6d843b92b9441f819521cae8e10ae
+    m_Address: Teutonic_CZ Style
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-hu
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: c032f1a85538945909ac6e450c5e729f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5c241dd6d45cd42d683e878092d5b85c, type: 2}
+    - {fileID: 11400000, guid: ed187388d901d4543a953bd29e478ba9, type: 2}

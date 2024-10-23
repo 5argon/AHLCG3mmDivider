@@ -1658,6 +1658,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 389e1e4d9f02b42dca9afef0a287be37, type: 2}
   - {fileID: 11400000, guid: 2a66005d65cd9460293055d9f48b9a30, type: 2}
   - {fileID: 11400000, guid: 8f9acc09c28354451ac12d210fa2448f, type: 2}
+  - {fileID: 11400000, guid: b71c3707cec3a4ba99ceafce78465e10, type: 2}
   specs:
   - {fileID: 11400000, guid: 31eb64c8b34544819a05b78fb8568d7a, type: 2}
   - {fileID: 11400000, guid: 5e4838cd1121641a5a73a8e6f3183799, type: 2}
@@ -1670,6 +1671,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: b8f2f06f2d5c545579f7548e5909e7da, type: 2}
   - {fileID: 11400000, guid: f2eb26755d58c4a798f6f125bc2e77e0, type: 2}
   - {fileID: 11400000, guid: 7969fddd6284647adb09f8c2ac851db1, type: 2}
+  - {fileID: 11400000, guid: d331e9db9183b43ea9e9dcb3468e637a, type: 2}
   - {fileID: 11400000, guid: fe42503ecb0444722a873a7b4f3f9118, type: 2}
   - {fileID: 11400000, guid: 7708afa52ff4f4fb88eac9f28866dcd0, type: 2}
   - {fileID: 11400000, guid: bbce5550edad1449b8df45da371d1efc, type: 2}
@@ -3184,7 +3186,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7430951715043365889, guid: fb808c5b602b74088957acdeb2e9db50, type: 3}
       propertyPath: m_fontSize
-      value: 29.5
+      value: 35.9
       objectReference: {fileID: 0}
     - target: {fileID: 7430951715043365889, guid: fb808c5b602b74088957acdeb2e9db50, type: 3}
       propertyPath: m_hasFontAssetChanged

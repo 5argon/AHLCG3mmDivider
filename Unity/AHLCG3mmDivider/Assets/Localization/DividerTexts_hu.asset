@@ -1,0 +1,543 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DividerTexts_hu
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: hu
+  m_SharedData: {fileID: 11400000, guid: 0fe55b6e16baa4337b49d27ef6014293, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8220054642688
+    m_Localized: "Cthulhu szolg\xE1l\xF3i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066451066880
+    m_Localized: "Hastur szolg\xE1l\xF3i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261184
+    m_Localized: "Shub Niggurath szolg\xE1l\xF3i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261185
+    m_Localized: "Yog-Sothoth szolg\xE1l\xF3i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261186
+    m_Localized: "\u0150si gonoszok"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261187
+    m_Localized: "Dermeszt\u0151 hideg"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261188
+    m_Localized: "Um\xF4rdhoth kultusza"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261189
+    m_Localized: "S\xF6t\xE9t kultusz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261190
+    m_Localized: Ghoulok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261191
+    m_Localized: "Z\xE1rt ajt\xF3k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261192
+    m_Localized: "\xC9ji huhog\xE1nyok"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261193
+    m_Localized: "Patk\xE1nyok"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261194
+    m_Localized: "Les\xFAjt\xF3 f\xE9lelem"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261195
+    m_Localized: "A felfal\xF3 a m\xE9lyben"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261196
+    m_Localized: "Az \xF6sszej\xF6vetel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261197
+    m_Localized: "Az \xE9jf\xE9li \xE1larcok"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93482576071614464
+    m_Localized: Armitage sorsa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261264
+    m_Localized: Balszerencse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261265
+    m_Localized: "Besti\xE1lis-tudatb\xE1bok"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261266
+    m_Localized: "Bishop szolg\xE1i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261267
+    m_Localized: Dunwich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261268
+    m_Localized: "Visszatasz\xEDt\xF3 f\xF6rtelmek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261269
+    m_Localized: "Naomi band\xE1ja"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261270
+    m_Localized: "Var\xE1zsl\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261271
+    m_Localized: "Oda\xE1t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261272
+    m_Localized: "Kecskefej\u0151k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261273
+    m_Localized: "V\xE9r az olt\xE1ron"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261274
+    m_Localized: "Tan\xF3r\xE1n k\xEDv\xFCli tev\xE9kenys\xE9g"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261275
+    m_Localized: "Elveszve T\xE9r s Id\u0151 \xFAtveszt\u0151iben"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261276
+    m_Localized: Az Essex megyei gyors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261277
+    m_Localized: "A h\xE1z mindig nyer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55069609684885504
+    m_Localized: "A Miskatonic M\xFAzeum"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261279
+    m_Localized: "Dimenzi\xF3tlan \xE9s l\xE1thatatlan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261280
+    m_Localized: "Hol k\xE1rhozat v\xE1r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261281
+    m_Localized: "Yig szolg\xE1l\xF3i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261282
+    m_Localized: "Hal\xE1los csapd\xE1k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261283
+    m_Localized: "Exped\xEDci\xF3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261284
+    m_Localized: Elfeledett romok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261285
+    m_Localized: "Id\u0151\u0151rz\u0151k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261286
+    m_Localized: "K\u2019n-yan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261287
+    m_Localized: "Az \xEDt\xE9let oszlopai"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261288
+    m_Localized: "Pnakotus testv\xE9ris\xE9g"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261289
+    m_Localized: "M\xE9reg"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261290
+    m_Localized: "Es\u0151erd\u0151"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261291
+    m_Localized: "K\xEDgy\xF3k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261292
+    m_Localized: "Id\u0151folyam"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261293
+    m_Localized: "Yig m\xE9rge"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55071232297525248
+    m_Localized: "V\xE9nek sz\xEDve"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261296
+    m_Localized: Meghasadt korszakok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261297
+    m_Localized: "A t\xFAls\xF3 hat\xE1r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261298
+    m_Localized: "A feljegyz\xE9sek v\xE1rosa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261299
+    m_Localized: "Yoth m\xE9lye"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152899299565568
+    m_Localized: Eztli veszte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261301
+    m_Localized: "A h\xE1bor\xEDtatlan vadon"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261302
+    m_Localized: A sors fonalai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261303
+    m_Localized: "Az id\u0151 visszaford\xEDt\xE1sa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261322
+    m_Localized: Byakhee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261323
+    m_Localized: "A S\xE1rga Jel kultusza"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261324
+    m_Localized: "Roml\xE1s \xE9s szenny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261325
+    m_Localized: "T\xE9vk\xE9pzetek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261326
+    m_Localized: "Rossz el\u0151jelek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261327
+    m_Localized: "Hastur aj\xE1nd\xE9ka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261328
+    m_Localized: "K\xEDs\xE9rtetek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261329
+    m_Localized: "Carcosa lak\xF3i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261330
+    m_Localized: "A lenti \xE1radat"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261331
+    m_Localized: Az Idegen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261332
+    m_Localized: A fenti forgatag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261333
+    m_Localized: "Az Igazs\xE1g Szelleme"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261334
+    m_Localized: "Fekete csillagok k\xE9lnek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261335
+    m_Localized: Vastaps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261336
+    m_Localized: "B\xFAs Carcosa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261337
+    m_Localized: "A m\xFAlt visszhangjai"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261338
+    m_Localized: "Az Utols\xF3 Kir\xE1ly"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261339
+    m_Localized: "A S\xE1padt Maszk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261340
+    m_Localized: "A kimondhatatlan esk\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261204
+    m_Localized: Alapszett
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261205
+    m_Localized: "A megsz\xE1llott \xE9jszak\xE1ja"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455552
+    m_Localized: "A dunwich-i \xF6r\xF6ks\xE9g"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455553
+    m_Localized: Az elfeledett kor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455555
+    m_Localized: "\xDAt Carcos\xE1ba"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114883216937050114
+    m_Localized: Harvey Walters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114883216937050118
+    m_Localized: "\xD6n\xE1ll\xF3 nyomoz\xF3k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114883216937050116
+    m_Localized: Jacqueline Fine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114883216937050113
+    m_Localized: Nathaniel Cho
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114883216937050117
+    m_Localized: Stella Clark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114883216937050115
+    m_Localized: Winifred Habbamock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261207
+    m_Localized: 0. Szint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745280
+    m_Localized: 1. Szint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261208
+    m_Localized: 1-5. Szint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745281
+    m_Localized: 2. Szint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745282
+    m_Localized: 3. Szint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745283
+    m_Localized: 4. Szint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70291989931745284
+    m_Localized: 5. Szint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261209
+    m_Localized: "Alapgyenges\xE9g"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380880108655730688
+    m_Localized: "Gyenges\xE9g"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261210
+    m_Localized: "\xD6sszekapcsolt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93483817522683904
+    m_Localized: Egyedileg testreszabott
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261211
+    m_Localized: "Nyomoz\xF3k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35092301721100288
+    m_Localized: Novella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8891433858621440
+    m_Localized: "P\xE1rhuzamos nyomoz\xF3k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15532527534989313
+    m_Localized: "\xC1lland\xF3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 216438933019418624
+    m_Localized: "M\xF3dos\xEDtott"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93483817522683905
+    m_Localized: "Fejleszt\xE9slap"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380881074759131136
+    m_Localized: "Szak\xE9rt\u0151"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261212
+    m_Localized: "\u0150rz\u0151"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261213
+    m_Localized: "T\xF6bboszt\xE1ly\xFA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261214
+    m_Localized: Misztikus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261215
+    m_Localized: Semleges
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261216
+    m_Localized: "Zsiv\xE1ny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261217
+    m_Localized: "Kutat\xF3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261218
+    m_Localized: "T\xFAl\xE9l\u0151"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261219
+    m_Localized: 1. Pakli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261220
+    m_Localized: 2. Pakli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261221
+    m_Localized: 3. Pakli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261222
+    m_Localized: 4. Pakli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34233692338511872
+    m_Localized: "Mell\xE9kpakli"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775737471229952
+    m_Localized: "2 oszt\xE1ly\xFA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1775737475424256
+    m_Localized: "3 oszt\xE1ly\xFA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156995
+    m_Localized: "1 M\xE1gikus f\xE9r\u0151hely"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156993
+    m_Localized: "1 K\xE9z f\xE9r\u0151hely"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156996
+    m_Localized: "2 M\xE1gikus f\xE9r\u0151hely"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156994
+    m_Localized: "2 K\xE9z f\xE9r\u0151hely"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184654962688
+    m_Localized: "Tartoz\xE9k f\xE9r\u0151hely"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156997
+    m_Localized: "T\xE1rs f\xE9r\u0151hely"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156992
+    m_Localized: "Test f\xE9r\u0151hely"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156999
+    m_Localized: "Egy\xE9b"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70284184659156998
+    m_Localized: "Tarot f\xE9r\u0151hely"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306756
+    m_Localized: "A mocs\xE1r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306777
+    m_Localized: "Borzalmak karnev\xE1lja"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117235535306778
+    m_Localized: "A v\xE9rfarkas \xE1tka"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

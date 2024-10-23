@@ -1520,6 +1520,22 @@ MonoBehaviour:
     m_Key: Player/Card Level/Lv. 5
     m_Metadata:
       m_Items: []
+  - m_Id: 383104501280661504
+    m_Key: Player/Core Special Category/Knife
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383104501289050112
+    m_Key: Player/Core Special Category/Flashlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383104501289050113
+    m_Key: Player/Core Special Category/Emergency Cache
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383104501289050114
+    m_Key: Player/Core Special Category/Neutral Skill
+    m_Metadata:
+      m_Items: []
   - m_Id: 1066455261209
     m_Key: Player/Category/Basic Weakness
     m_Metadata:

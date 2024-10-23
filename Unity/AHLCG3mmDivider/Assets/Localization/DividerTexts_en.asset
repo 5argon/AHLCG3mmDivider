@@ -1802,6 +1802,22 @@ MonoBehaviour:
     m_Localized: Specialist
     m_Metadata:
       m_Items: []
+  - m_Id: 383104501280661504
+    m_Localized: Knife
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383104501289050112
+    m_Localized: Flashlight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383104501289050113
+    m_Localized: Emergency Cache
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383104501289050114
+    m_Localized: Neutral Skill
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
