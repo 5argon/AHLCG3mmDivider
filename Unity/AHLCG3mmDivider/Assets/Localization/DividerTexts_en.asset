@@ -1818,6 +1818,26 @@ MonoBehaviour:
     m_Localized: Neutral Skill
     m_Metadata:
       m_Items: []
+  - m_Id: 425118296198602752
+    m_Localized: The Dream-Quest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425118296202797056
+    m_Localized: The Web of Dreams
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425118296202797057
+    m_Localized: Boon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425118296202797058
+    m_Localized: Refraction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425118296202797059
+    m_Localized: Ultimatum
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

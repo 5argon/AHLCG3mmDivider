@@ -1043,7 +1043,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 117235535306783
-    m_Localized: Guerra de los Dioses Exteriores.
+    m_Localized: Guerra de los Dioses Exteriores
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261200
@@ -1551,107 +1551,107 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455515
-    m_Localized: 
+    m_Localized: "Miedo err\xE1tico"
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455516
-    m_Localized: 
+    m_Localized: Males renacientes
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455517
-    m_Localized: 
+    m_Localized: Puertas secretas
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455518
-    m_Localized: 
+    m_Localized: Emisarios de Yog-Sothoth
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455519
-    m_Localized: 
+    m_Localized: Regreso a Sangre en el altar
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455520
-    m_Localized: 
+    m_Localized: Regreso a Actividades extracurriculares
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455521
-    m_Localized: 
+    m_Localized: Regreso a Perdidos en el tiempo y el espacio
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455522
-    m_Localized: 
+    m_Localized: Regreso a el Essex County Express
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455523
-    m_Localized: 
+    m_Localized: Regreso a La casa siempre gana
     m_Metadata:
       m_Items: []
   - m_Id: 55069609689079808
-    m_Localized: 
+    m_Localized: Regreso al Museo Miskatonic
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455525
-    m_Localized: 
+    m_Localized: "Regreso a Invisibles y sin dimensi\xF3n"
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455526
-    m_Localized: 
+    m_Localized: "Regreso a Donde guarda la perdici\xF3n"
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455527
-    m_Localized: 
+    m_Localized: Secta de Pnakotus
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455528
-    m_Localized: 
+    m_Localized: "Expedici\xF3n condenada"
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455529
-    m_Localized: 
+    m_Localized: Regreso a la Selva
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455530
-    m_Localized: 
+    m_Localized: Cazadores temporales
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455531
-    m_Localized: 
+    m_Localized: "Odio ponzo\xF1oso"
     m_Metadata:
       m_Items: []
   - m_Id: 104361253835628544
-    m_Localized: 
+    m_Localized: "Regreso a El coraz\xF3n de los ancianos"
     m_Metadata:
       m_Items: []
   - m_Id: 156839479706902528
-    m_Localized: 
+    m_Localized: Regreso a K'n-yan
     m_Metadata:
       m_Items: []
   - m_Id: 156839479711096832
-    m_Localized: 
+    m_Localized: Regreso a Columnas del juicio
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455534
-    m_Localized: 
+    m_Localized: Regreso a Eones destrozados
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455537
-    m_Localized: 
+    m_Localized: Regreso a Las profundidades de Yoth
     m_Metadata:
       m_Items: []
   - m_Id: 152899303759872
-    m_Localized: 
+    m_Localized: "Regreso a La perdici\xF3n de Eztli"
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455539
-    m_Localized: 
+    m_Localized: Regreso a Naturaleza salvaje
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455540
-    m_Localized: 
+    m_Localized: Regreso a Los hilos del destino
     m_Metadata:
       m_Items: []
   - m_Id: 1066459455541
-    m_Localized: 
+    m_Localized: "Regreso a Vuelta atr\xE1s en el tiempo"
     m_Metadata:
       m_Items: []
   - m_Id: 197805967217254400
@@ -1663,19 +1663,19 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 286096463529762816
-    m_Localized: 
+    m_Localized: La fiesta del Valle de la Cicuta
     m_Metadata:
       m_Items: []
   - m_Id: 93158039496941568
-    m_Localized: 
+    m_Localized: Las llaves escarlata
     m_Metadata:
       m_Items: []
   - m_Id: 247446725469396992
-    m_Localized: 
+    m_Localized: Reposo eterno
     m_Metadata:
       m_Items: []
   - m_Id: 279717702399942656
-    m_Localized: 
+    m_Localized: Reliquias del pasado
     m_Metadata:
       m_Items: []
   - m_Id: 114883216937050114
@@ -1683,7 +1683,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 114883216937050118
-    m_Localized: 
+    m_Localized: Mazos iniciales de investigador
     m_Metadata:
       m_Items: []
   - m_Id: 114883216937050116
@@ -1703,7 +1703,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 35092301721100288
-    m_Localized: 
+    m_Localized: Novela
     m_Metadata:
       m_Items: []
   - m_Id: 216438933019418624
@@ -1755,11 +1755,71 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 380506357472681984
-    m_Localized: 
+    m_Localized: La gala del ecuador del invierno
     m_Metadata:
       m_Items: []
   - m_Id: 380880108655730688
     m_Localized: Debilidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455513
+    m_Localized: "M\xE1s all\xE1 del umbral"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455514
+    m_Localized: "Fr\xEDo insidioso"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455535
+    m_Localized: "Regreso a El l\xEDmite del otro lado"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066459455536
+    m_Localized: Regreso a La Ciudad de los Archivos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380506357451710464
+    m_Localized: La ciudad sumergida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425118296202797057
+    m_Localized: Beneficio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425118296202797058
+    m_Localized: "Refracci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425118296202797059
+    m_Localized: "Ultim\xE1tum"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383104501289050113
+    m_Localized: Alijo de emergencia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383104501289050112
+    m_Localized: Linterna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383104501280661504
+    m_Localized: Cuchillo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 258472339882106881
+    m_Localized: "Incursi\xF3n Mi-Go II"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 258472339882106880
+    m_Localized: "La masa que devoraba todo \xA1LO DEM\xC1S!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 247446725469396993
+    m_Localized: "La masa que devoraba todo \xA1LO DEM\xC1S!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380506357472681985
+    m_Localized: La gala del ecuador del invierno
     m_Metadata:
       m_Items: []
   references:

@@ -16,9 +16,9 @@ scopes = {
 	"last_search.45F3178B" = ""
 	"OpenInspectorPreview.45F3178B" = "0"
 	"currentGroup.45F3178B" = "all"
-	"picker_window_position_offset.45F317DD" = "-222;126;627;550"
-	"picker_search_text.45F317DD" = "neutral"
-	"last_search.45F317DD" = "neutral"
+	"picker_window_position_offset.45F317DD" = "267;105;627;550"
+	"picker_search_text.45F317DD" = ""
+	"last_search.45F317DD" = ""
 	"OpenInspectorPreview.45F317DD" = "0"
 	"currentGroup.45F317DD" = "all"
 	"last_search.110DEAA3" = ""
@@ -85,6 +85,9 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	""
+	"N"
+	"D"
 	"ne"
 	"kn"
 	"lv"
@@ -93,7 +96,6 @@ recentSearches = [
 	"l"
 	"3"
 	"s"
-	""
 	"p: t:Texture dir=I"
 	"p: t:Texture dir=\"folder name\""
 	"p: t:Texture"
@@ -102,9 +104,6 @@ recentSearches = [
 	"find:"
 	"p:"
 	"th"
-	"st:Tomb of Dead Dreams"
-	"Tomb of Dead Dreams"
-	"st:Pyroclastic Flow"
 ]
 searchItemFavorites = [
 ]
