@@ -17,8 +17,8 @@ scopes = {
 	"OpenInspectorPreview.45F3178B" = "0"
 	"currentGroup.45F3178B" = "all"
 	"picker_window_position_offset.45F317DD" = "267;105;627;550"
-	"picker_search_text.45F317DD" = ""
-	"last_search.45F317DD" = ""
+	"picker_search_text.45F317DD" = "skill"
+	"last_search.45F317DD" = "skill"
 	"OpenInspectorPreview.45F317DD" = "0"
 	"currentGroup.45F317DD" = "all"
 	"last_search.110DEAA3" = ""
@@ -85,6 +85,10 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	"e"
+	"as"
+	"s"
+	"ev"
 	""
 	"N"
 	"D"
@@ -92,18 +96,14 @@ recentSearches = [
 	"kn"
 	"lv"
 	"neu"
-	"e"
 	"l"
 	"3"
-	"s"
 	"p: t:Texture dir=I"
 	"p: t:Texture dir=\"folder name\""
 	"p: t:Texture"
 	"p: dir=\"Assets/Images/Icons\" t:Texture"
 	"p: dir=\"Assets\" "
 	"find:"
-	"p:"
-	"th"
 ]
 searchItemFavorites = [
 ]

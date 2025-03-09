@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2811786799411689cd096aca444745, type: 3}
+  m_Name: CCQ - The Drowned City
+  m_EditorClassIdentifier: 
+  pdfName: CCQ - The Drowned City
+  genSpecs:
+  - {fileID: 11400000, guid: c31ba4ca681724b329851196aa3518c5, type: 2}
+  - {fileID: 11400000, guid: c6daafdc2ebf346678c57fcc150da52d, type: 2}
+  - {fileID: 11400000, guid: 8456805001f884d0da6279f895196f97, type: 2}
+  - {fileID: 11400000, guid: 40d08cca38e3941668bd16d66add30d2, type: 2}
+  - {fileID: 11400000, guid: b935fdbd667ac42a6a4f79e3723a2ccf, type: 2}
+  - {fileID: 11400000, guid: fcc79067119bc45bb9c129ed5b4402c1, type: 2}
+  - {fileID: 11400000, guid: 6b6c7edf8c6fb41bf843513f98d797db, type: 2}
+  - {fileID: 11400000, guid: 83faa044449fa405ab231ddf77a6ddd6, type: 2}
+  - {fileID: 11400000, guid: bbccfb647a3a84cd3b29891ec6b95b7f, type: 2}
+  - {fileID: 11400000, guid: 42c4d76934a88438d8e9d70ceab198b6, type: 2}
+  - {fileID: 11400000, guid: 682d354b08f294a85b2f23dfbdf0b1fe, type: 2}

@@ -1838,6 +1838,18 @@ MonoBehaviour:
     m_Localized: Ultimatum
     m_Metadata:
       m_Items: []
+  - m_Id: 433039664974127104
+    m_Localized: Asset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 433039664974127105
+    m_Localized: Event
+    m_Metadata:
+      m_Items: []
+  - m_Id: 433039664974127106
+    m_Localized: Skill
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

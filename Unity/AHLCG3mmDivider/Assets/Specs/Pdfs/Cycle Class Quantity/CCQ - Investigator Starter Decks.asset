@@ -15,7 +15,22 @@ MonoBehaviour:
   pdfName: CCQ - Investigator Starter Decks
   genSpecs:
   - {fileID: 11400000, guid: 9b8725b9274174f7e8d746fff8664343, type: 2}
+  - {fileID: 11400000, guid: 8b9433d761f86414886233dba2066290, type: 2}
+  - {fileID: 11400000, guid: 731eaf80c1d174112a8e4fb8bd9655fa, type: 2}
+  - {fileID: 11400000, guid: 57aaf66ef98cb46c183412733767e74e, type: 2}
   - {fileID: 11400000, guid: c8e4886a268b24b28b940b8c54e5b31f, type: 2}
+  - {fileID: 11400000, guid: cdbf890d52641403fb792ac4d0b32f17, type: 2}
+  - {fileID: 11400000, guid: fecc7da8c8fd548678fa449bd34ef054, type: 2}
+  - {fileID: 11400000, guid: 74a7ea09d4f3d4904a8d5d21e0feb958, type: 2}
   - {fileID: 11400000, guid: 0c58a6dbce9e04076903a20a107cbdd3, type: 2}
+  - {fileID: 11400000, guid: 92af2eb307cc7442eb87fa94f6031df5, type: 2}
+  - {fileID: 11400000, guid: 603998ad2576f45708023fda28c1196d, type: 2}
+  - {fileID: 11400000, guid: 0677d263575cb4bcc8b8521ca5a35444, type: 2}
   - {fileID: 11400000, guid: baf3ee6474b2f4b7fa2c493baf4217cb, type: 2}
+  - {fileID: 11400000, guid: 319c94697d34b4d23a23197923bcbb71, type: 2}
+  - {fileID: 11400000, guid: a69c2fa03c1844c8d8552fc10000db27, type: 2}
+  - {fileID: 11400000, guid: 586915600d8ab4a74a4ee5878ec6a635, type: 2}
   - {fileID: 11400000, guid: 821d82ceb55b841339647d34a89f4c5e, type: 2}
+  - {fileID: 11400000, guid: 5bde73649c48a415d8b234a56c2763bf, type: 2}
+  - {fileID: 11400000, guid: f44410674ce424416b3909a5982222bc, type: 2}
+  - {fileID: 11400000, guid: 41b1b3c95d91a4fbf8e93dcbccf17479, type: 2}

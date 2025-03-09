@@ -1512,6 +1512,18 @@ MonoBehaviour:
     m_Key: Investigator Starter Decks/Winifred Habbamock
     m_Metadata:
       m_Items: []
+  - m_Id: 433039664974127104
+    m_Key: Player/Card Type/Asset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 433039664974127105
+    m_Key: Player/Card Type/Event
+    m_Metadata:
+      m_Items: []
+  - m_Id: 433039664974127106
+    m_Key: Player/Card Type/Skill
+    m_Metadata:
+      m_Items: []
   - m_Id: 1066455261207
     m_Key: Player/Card Level/Lv. 0
     m_Metadata:
