@@ -683,11 +683,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261329
-    m_Localized: Abitanti di Carcosa
+    m_Localized: Cittadini di Carcosa
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261330
-    m_Localized: 
+    m_Localized: Inondazione in Terra
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261331
@@ -695,11 +695,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261332
-    m_Localized: 
+    m_Localized: Vortice in Cielo
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261333
-    m_Localized: "Lo spettro della Verit\xE0"
+    m_Localized: "Lo Spettro della Verit\xE0"
     m_Metadata:
       m_Items: []
   - m_Id: 1066455261335
@@ -976,6 +976,98 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 380880108655730688
     m_Localized: Debolezza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93482576071614464
+    m_Localized: Il Destino di Armitage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261281
+    m_Localized: Agenti di Yig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261282
+    m_Localized: Trappole Mortali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261283
+    m_Localized: Spedizione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261284
+    m_Localized: Rovine Dimenticate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261285
+    m_Localized: Guardiani del Tempio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261286
+    m_Localized: K'n-yan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261287
+    m_Localized: Pilastri del Giudizio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261288
+    m_Localized: Confraternita Pnakotica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261289
+    m_Localized: Veleno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261290
+    m_Localized: Foresta  Pluviale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261291
+    m_Localized: Serpenti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261292
+    m_Localized: Flusso Temporale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261293
+    m_Localized: Veleno di Yig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55071232297525248
+    m_Localized: Cuore degli Antichi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261296
+    m_Localized: Eoni Infranti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261297
+    m_Localized: Oltre i Confini
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261298
+    m_Localized: "Citt\xE0 degli Archivi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261299
+    m_Localized: Abissi di Yoth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152899299565568
+    m_Localized: La Maledizione di Eztli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261301
+    m_Localized: La Foresta Inviolata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261302
+    m_Localized: Trame del Fato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066455261303
+    m_Localized: Indietro nel Tempo
     m_Metadata:
       m_Items: []
   references:
