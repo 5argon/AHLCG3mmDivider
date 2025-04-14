@@ -1679,7 +1679,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 197805967217254402
-    m_Localized: 
+    m_Localized: Dunkle Materie
     m_Metadata:
       m_Items: []
   - m_Id: 34235264225239040
@@ -1772,6 +1772,130 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 380880108655730688
     m_Localized: "Schw\xE4che"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773038800896
+    m_Localized: Fremdartige Maschinerie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995200
+    m_Localized: "Kosmisches Verm\xE4chtnis"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995201
+    m_Localized: Tiefe Wesen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995202
+    m_Localized: Vorherrschaft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995203
+    m_Localized: "Tr\xE4ume"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995204
+    m_Localized: "\xC4lterer Dunst"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995205
+    m_Localized: Expedition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995206
+    m_Localized: Flut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995207
+    m_Localized: Pilger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995209
+    m_Localized: "Sternengez\xFCcht"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995210
+    m_Localized: Nistlinge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995211
+    m_Localized: Aufgaben
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995212
+    m_Localized: Das Unausweichliche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995213
+    m_Localized: Unterwasserkreaturen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995214
+    m_Localized: Der Hof der Uralten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995215
+    m_Localized: Obsidianschluchten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995216
+    m_Localized: Ein letzter Job
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995217
+    m_Localized: "Die Gruft des Schl\xE4fers"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995218
+    m_Localized: Das Apiarium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995219
+    m_Localized: Arkhams Verderben (Teil I)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995220
+    m_Localized: Arkhams Verderben (Teil II)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995221
+    m_Localized: "Das \xFCberflutete Viertel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995222
+    m_Localized: "Das gro\xDFe Gew\xF6lbe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995223
+    m_Localized: Der Westwall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425118296198602752
+    m_Localized: Die Traumsuche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 425118296202797056
+    m_Localized: "Das Netz der Tr\xE4ume"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380506357451710464
+    m_Localized: Die versunkene Stadt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 433039664974127104
+    m_Localized: Vorteil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 433039664974127105
+    m_Localized: Ereignis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 433039664974127106
+    m_Localized: Fertigkeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446085474099912704
+    m_Localized: R'lyeh
     m_Metadata:
       m_Items: []
   references:

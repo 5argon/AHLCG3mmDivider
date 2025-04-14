@@ -13,4 +13,29 @@ MonoBehaviour:
   m_Name: Campaign - The Drowned City
   m_EditorClassIdentifier: 
   pdfName: Campaign - The Drowned City
-  genSpecs: []
+  genSpecs:
+  - {fileID: 11400000, guid: 5afa73246c5ed42849013e2a20a5a8a0, type: 2}
+  - {fileID: 11400000, guid: a0888e845ab92407b8cdf7bf24b30ebe, type: 2}
+  - {fileID: 11400000, guid: 3c022908070b5463181990edaede7b82, type: 2}
+  - {fileID: 11400000, guid: bdbdf865d9229431892acb0da1d2d6ff, type: 2}
+  - {fileID: 11400000, guid: 711e85f987f0d47c88dd2445398cc991, type: 2}
+  - {fileID: 11400000, guid: 3dc67041e503e43fea414f9668c8b085, type: 2}
+  - {fileID: 11400000, guid: 3211809face944d19b84db314b9c0680, type: 2}
+  - {fileID: 11400000, guid: 08d26061f6a2241c3a68ffdd5f37a3f1, type: 2}
+  - {fileID: 11400000, guid: f58590fdf1c154463914021fa5c2b675, type: 2}
+  - {fileID: 11400000, guid: dd1306190748c46a2bee2b1a05491f67, type: 2}
+  - {fileID: 11400000, guid: 527c2692102d44935b07d48b06d0beb9, type: 2}
+  - {fileID: 11400000, guid: 7a83341864d9b459e882a80992aa30b0, type: 2}
+  - {fileID: 11400000, guid: fc4ec7ee007394b6ca0775d7ff3303a2, type: 2}
+  - {fileID: 11400000, guid: c11d0594e0f5b43859f09c78629f9021, type: 2}
+  - {fileID: 11400000, guid: ef6bdfa223de749f8be6cc372c482c5e, type: 2}
+  - {fileID: 11400000, guid: 8f66312235fdd489199b01c7f2eecc09, type: 2}
+  - {fileID: 11400000, guid: 4135d73774545450a9201fa6b6e17ea2, type: 2}
+  - {fileID: 11400000, guid: bd9dd66c0833b42e89c29e5516f2b5fa, type: 2}
+  - {fileID: 11400000, guid: f9b7dc9c1161b44f0a5272e6322d58f2, type: 2}
+  - {fileID: 11400000, guid: f2ab88e0f6e494a9eaca3c1b37a85694, type: 2}
+  - {fileID: 11400000, guid: 218de2e48f0954f3f8baa0e83d4385c4, type: 2}
+  - {fileID: 11400000, guid: 2cb6f0c121b5d46d2a38d778cfaf880e, type: 2}
+  - {fileID: 11400000, guid: 15307e189923944b6bdca0fa96593590, type: 2}
+  - {fileID: 11400000, guid: 9de00233505af4547a685eac7e850361, type: 2}
+  - {fileID: 11400000, guid: 4ec06fcd299984e2e86bde9bbc6c31bc, type: 2}
