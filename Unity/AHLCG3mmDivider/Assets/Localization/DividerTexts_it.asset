@@ -1070,6 +1070,110 @@ MonoBehaviour:
     m_Localized: Indietro nel Tempo
     m_Metadata:
       m_Items: []
+  - m_Id: 446046773038800896
+    m_Localized: Macchinario Alieno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995200
+    m_Localized: "Eredit\xE0 Cosmica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995201
+    m_Localized: Abitatori del Profondo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995202
+    m_Localized: Dominio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995203
+    m_Localized: Sogni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995204
+    m_Localized: Foschia Antica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995205
+    m_Localized: Spedizione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995206
+    m_Localized: Inondazione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995207
+    m_Localized: Pellegrini
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446085474099912704
+    m_Localized: R'lyeh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995209
+    m_Localized: Progenie Stellare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995210
+    m_Localized: Clandestini
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995211
+    m_Localized: Imprese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995212
+    m_Localized: Ineluttabile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995213
+    m_Localized: Creature Sottomarine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995214
+    m_Localized: La Corte degli Antichi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995215
+    m_Localized: Le Gole di Ossidiana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995216
+    m_Localized: Un Ultimo Lavoro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995217
+    m_Localized: Il Sepolcro del Dormiente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995218
+    m_Localized: L'Alveare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995219
+    m_Localized: Il Destino di Arkham Parte I
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995220
+    m_Localized: Il Destino di Arkham Parte II
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995221
+    m_Localized: Il Quartiere Sommerso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995222
+    m_Localized: La Grande Cripta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 446046773042995223
+    m_Localized: La Parete Occidentale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380506357451710464
+    m_Localized: "La Citt\xE0 Sommersa"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
